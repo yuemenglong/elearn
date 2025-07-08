@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>27</number>
+  <title>Mrs. Smith's living room</title>
+  <titleCn>史密斯太太的客厅</titleCn>
+  <words>
+    <word>
+      <text>trousers</text>
+      <textCn>长裤</textCn>
+    </word>
+    <word>
+      <text>living room</text>
+      <textCn>客厅</textCn>
+    </word>
+    <word>
+      <text>near</text>
+      <textCn>靠近</textCn>
+    </word>
+    <word>
+      <text>window</text>
+      <textCn>窗户</textCn>
+    </word>
+    <word>
+      <text>armchair</text>
+      <textCn>扶手椅</textCn>
+    </word>
+    <word>
+      <text>door</text>
+      <textCn>门</textCn>
+    </word>
+    <word>
+      <text>picture</text>
+      <textCn>图画</textCn>
+    </word>
+    <word>
+      <text>wall</text>
+      <textCn>墙</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Mrs. Smith's living room is large.</text>
+      <textCn>史密斯太太的客厅很大。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a television in the room.</text>
+      <textCn>客厅里有台电视机。</textCn>
+    </sentence>
+    <sentence>
+      <text>The television is near the window.</text>
+      <textCn>电视机靠近窗户。</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some magazines on the television.</text>
+      <textCn>电视机上放着几本杂志。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a table in the room.</text>
+      <textCn>客厅里有张桌子。</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some newspapers on the table.</text>
+      <textCn>桌上放着几份报纸。</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some armchairs in the room.</text>
+      <textCn>客厅里有几把扶手椅。</textCn>
+    </sentence>
+    <sentence>
+      <text>The armchairs are near the table.</text>
+      <textCn>这些扶手椅靠近桌子。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a stereo in the room.</text>
+      <textCn>客厅里有台音响。</textCn>
+    </sentence>
+    <sentence>
+      <text>The stereo is near the door.</text>
+      <textCn>音响靠近门。</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some books on the stereo.</text>
+      <textCn>音响上有几本书。</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some pictures in the room.</text>
+      <textCn>客厅里有几幅画。</textCn>
+    </sentence>
+    <sentence>
+      <text>The pictures are on the wall.</text>
+      <textCn>画挂在墙上。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

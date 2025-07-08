@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>87</number>
+  <title>A car crash</title>
+  <titleCn>车祸</titleCn>
+  <words>
+    <word>
+      <text>attendant</text>
+      <textCn>接待员</textCn>
+    </word>
+    <word>
+      <text>bring</text>
+      <textCn>带来，送来</textCn>
+    </word>
+    <word>
+      <text>garage</text>
+      <textCn>车库，汽车修理厂</textCn>
+    </word>
+    <word>
+      <text>crash</text>
+      <textCn>碰撞</textCn>
+    </word>
+    <word>
+      <text>lamp-post</text>
+      <textCn>灯杆</textCn>
+    </word>
+    <word>
+      <text>repair</text>
+      <textCn>修理</textCn>
+    </word>
+    <word>
+      <text>try</text>
+      <textCn>努力，设法</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Is my car ready yet?</text>
+      <textCn>我的汽车修好了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I don't know, sir.</text>
+      <textCn>我不知道，先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the number of your car?</text>
+      <textCn>您的汽车牌号是多少？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's LFZ 312 G.</text>
+      <textCn>是LFZ312G。</textCn>
+    </sentence>
+    <sentence>
+      <text>When did you bring it to us?</text>
+      <textCn>您什么时候送来的？</textCn>
+    </sentence>
+    <sentence>
+      <text>I brought it here three days ago.</text>
+      <textCn>3天前。</textCn>
+    </sentence>
+    <sentence>
+      <text>Ah yes, I remember now.</text>
+      <textCn>啊，是的，我现在记起来了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have your mechanics finished yet?</text>
+      <textCn>你们的机械师修好了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, they're still working on it.</text>
+      <textCn>没有，他们还在修呢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Let's go into the garage and have a look at it.</text>
+      <textCn>我们到车库去看一下吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>Isn't that your car?</text>
+      <textCn>这难道不是您的车吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, it was my car.</text>
+      <textCn>嗯，这曾是我的车。</textCn>
+    </sentence>
+    <sentence>
+      <text>Didn't you have a crash?</text>
+      <textCn>难道您没有出车祸吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>That's right.</text>
+      <textCn>是啊。</textCn>
+    </sentence>
+    <sentence>
+      <text>I drove it into a lamp-post.</text>
+      <textCn>我把车撞在电线杆上了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can your mechanics repair it?</text>
+      <textCn>你们的机械师能修好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, they're trying to repair it, sir.</text>
+      <textCn>嗯，他们正试法修理，先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>But to tell you the truth, you need a new car!</text>
+      <textCn>不过说实在的，您需要一辆新车了！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

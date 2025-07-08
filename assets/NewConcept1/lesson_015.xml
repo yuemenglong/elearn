@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>15</number>
+  <title>Your passports, please.</title>
+  <titleCn>请出示你们的护照。</titleCn>
+  <words>
+    <word>
+      <text>Russian</text>
+      <textCn>俄罗斯人</textCn>
+    </word>
+    <word>
+      <text>Dutch</text>
+      <textCn>荷兰人</textCn>
+    </word>
+    <word>
+      <text>these</text>
+      <textCn>这些</textCn>
+    </word>
+    <word>
+      <text>red</text>
+      <textCn>红色的</textCn>
+    </word>
+    <word>
+      <text>grey</text>
+      <textCn>灰色的</textCn>
+    </word>
+    <word>
+      <text>yellow</text>
+      <textCn>黄色的</textCn>
+    </word>
+    <word>
+      <text>black</text>
+      <textCn>黑色的</textCn>
+    </word>
+    <word>
+      <text>orange</text>
+      <textCn>橙黄色的</textCn>
+    </word>
+    <word>
+      <text>customs</text>
+      <textCn>海关</textCn>
+    </word>
+    <word>
+      <text>officer</text>
+      <textCn>官员</textCn>
+    </word>
+    <word>
+      <text>girl</text>
+      <textCn>姑娘</textCn>
+    </word>
+    <word>
+      <text>Danish</text>
+      <textCn>丹麦人</textCn>
+    </word>
+    <word>
+      <text>friend</text>
+      <textCn>朋友</textCn>
+    </word>
+    <word>
+      <text>Norwegian</text>
+      <textCn>挪威人</textCn>
+    </word>
+    <word>
+      <text>passport</text>
+      <textCn>护照</textCn>
+    </word>
+    <word>
+      <text>brown</text>
+      <textCn>棕色的</textCn>
+    </word>
+    <word>
+      <text>tourist</text>
+      <textCn>旅游者</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Are you Swedish?</text>
+      <textCn>你们是瑞典人吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, we are not. We are Danish.</text>
+      <textCn>不，我们不是瑞典人。我们是丹麦人。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are your friends Danish, too?</text>
+      <textCn>你们的朋友也是丹麦人吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, they aren't. They are Norwegian.</text>
+      <textCn>不，他们不是。他们是挪威人。</textCn>
+    </sentence>
+    <sentence>
+      <text>Your passports, please.</text>
+      <textCn>请出示你们的护照。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here they are.</text>
+      <textCn>给您。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are these your cases?</text>
+      <textCn>这些是你们的箱子吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, they aren't.</text>
+      <textCn>不是。</textCn>
+    </sentence>
+    <sentence>
+      <text>Our cases are brown. Here they are.</text>
+      <textCn>我们的箱子是棕色的。在这儿呢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are you tourists?</text>
+      <textCn>你们是来旅游的吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, we are.</text>
+      <textCn>是的。我们是来旅游的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are your friends tourists too?</text>
+      <textCn>你们的朋友也是来旅游的吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, they are.</text>
+      <textCn>是的，他们也是。</textCn>
+    </sentence>
+    <sentence>
+      <text>That's fine.</text>
+      <textCn>好了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you very much.</text>
+      <textCn>非常感谢。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

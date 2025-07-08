@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>3</number>
+  <title>Sorry, sir.</title>
+  <titleCn>对不起，先生。</titleCn>
+  <words>
+    <word>
+      <text>umbrella</text>
+      <textCn>伞</textCn>
+    </word>
+    <word>
+      <text>please</text>
+      <textCn>请</textCn>
+    </word>
+    <word>
+      <text>here</text>
+      <textCn>这里</textCn>
+    </word>
+    <word>
+      <text>my</text>
+      <textCn>我的</textCn>
+    </word>
+    <word>
+      <text>ticket</text>
+      <textCn>票</textCn>
+    </word>
+    <word>
+      <text>number</text>
+      <textCn>号码</textCn>
+    </word>
+    <word>
+      <text>five</text>
+      <textCn>五</textCn>
+    </word>
+    <word>
+      <text>sorry</text>
+      <textCn>对不起的</textCn>
+    </word>
+    <word>
+      <text>sir</text>
+      <textCn>先生</textCn>
+    </word>
+    <word>
+      <text>cloakroom</text>
+      <textCn>衣帽存放处</textCn>
+    </word>
+    <word>
+      <text>suit</text>
+      <textCn>一套衣服</textCn>
+    </word>
+    <word>
+      <text>school</text>
+      <textCn>学校</textCn>
+    </word>
+    <word>
+      <text>teacher</text>
+      <textCn>老师</textCn>
+    </word>
+    <word>
+      <text>son</text>
+      <textCn>儿子</textCn>
+    </word>
+    <word>
+      <text>daughter</text>
+      <textCn>女儿</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>My coat and my umbrella, please.</text>
+      <textCn>请把我的大衣和伞拿给我。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here is my ticket.</text>
+      <textCn>这是我的（寄存东西的）牌子。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you, sir.</text>
+      <textCn>谢谢，先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Number five.</text>
+      <textCn>是5号。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here’s your umbrella and your coat.</text>
+      <textCn>这是您的伞和大衣。</textCn>
+    </sentence>
+    <sentence>
+      <text>This is not my umbrella.</text>
+      <textCn>这不是我的伞。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sorry, sir.</text>
+      <textCn>对不起，先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is this your umbrella?</text>
+      <textCn>这把伞是您的吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, it isn’t.</text>
+      <textCn>不，不是！</textCn>
+    </sentence>
+    <sentence>
+      <text>Is this it?</text>
+      <textCn>这把是吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, it is.</text>
+      <textCn>是的，是这把。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you very much.</text>
+      <textCn>非常感谢。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

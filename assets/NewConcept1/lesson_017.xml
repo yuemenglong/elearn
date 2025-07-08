@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>17</number>
+  <title>How do you do?</title>
+  <titleCn>你好！</titleCn>
+  <words>
+    <word>
+      <text>employee</text>
+      <textCn>雇员</textCn>
+    </word>
+    <word>
+      <text>hard-working</text>
+      <textCn>勤奋的</textCn>
+    </word>
+    <word>
+      <text>sales reps</text>
+      <textCn>推销员</textCn>
+    </word>
+    <word>
+      <text>man</text>
+      <textCn>男人</textCn>
+    </word>
+    <word>
+      <text>office</text>
+      <textCn>办公室</textCn>
+    </word>
+    <word>
+      <text>assistant</text>
+      <textCn>助手</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Come and meet our employees, Mr. Richards.</text>
+      <textCn>来见见我们的雇员吧，理查兹先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you, Mr. Jackson.</text>
+      <textCn>谢谢，杰克逊先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>This is Nicola Grey, and this is Claire Taylor.</text>
+      <textCn>这位是尼科拉·格雷，这位是克莱尔·泰勒。</textCn>
+    </sentence>
+    <sentence>
+      <text>How do you do?</text>
+      <textCn>你好！</textCn>
+    </sentence>
+    <sentence>
+      <text>Those women are very hard-working. What are their jobs?</text>
+      <textCn>那些姑娘很勤快。她们是做什么工作的？</textCn>
+    </sentence>
+    <sentence>
+      <text>They’re keyboard operators.</text>
+      <textCn>她们是电脑录入员。</textCn>
+    </sentence>
+    <sentence>
+      <text>This is Michael Baker, and this is Jeremy Short.</text>
+      <textCn>这位是迈克尔·贝克，这位是杰里米·肖特。</textCn>
+    </sentence>
+    <sentence>
+      <text>How do you do?</text>
+      <textCn>你好！</textCn>
+    </sentence>
+    <sentence>
+      <text>They aren’t very busy! What are their jobs?</text>
+      <textCn>他们不怎么忙！他们是做什么工作的？</textCn>
+    </sentence>
+    <sentence>
+      <text>They’re sales reps. They’re very lazy.</text>
+      <textCn>他们是推销员。他们非常懒。</textCn>
+    </sentence>
+    <sentence>
+      <text>Who is this young man?</text>
+      <textCn>这个年轻人是谁？</textCn>
+    </sentence>
+    <sentence>
+      <text>This is Jim. He’s our office assistant.</text>
+      <textCn>这是吉姆。是我们办公室的勤杂人员。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

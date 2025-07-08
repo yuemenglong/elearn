@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>75</number>
+  <title>Uncomfortable shoes</title>
+  <titleCn>不舒适的鞋子</titleCn>
+  <words>
+    <word>
+      <text>ago</text>
+      <textCn>以前</textCn>
+    </word>
+    <word>
+      <text>buy</text>
+      <textCn>买</textCn>
+    </word>
+    <word>
+      <text>pair</text>
+      <textCn>双，对</textCn>
+    </word>
+    <word>
+      <text>fashion</text>
+      <textCn>(服装的)流行式样</textCn>
+    </word>
+    <word>
+      <text>uncomfortable</text>
+      <textCn>不舒服的</textCn>
+    </word>
+    <word>
+      <text>wear</text>
+      <textCn>穿着</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Do you have any shoes like these?</text>
+      <textCn>像这样的鞋子你们有吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>What size?</text>
+      <textCn>什么尺码的？</textCn>
+    </sentence>
+    <sentence>
+      <text>Size five.</text>
+      <textCn>5号的。</textCn>
+    </sentence>
+    <sentence>
+      <text>What colour?</text>
+      <textCn>什么颜色？</textCn>
+    </sentence>
+    <sentence>
+      <text>Black.</text>
+      <textCn>黑的。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sorry.</text>
+      <textCn>对不起。</textCn>
+    </sentence>
+    <sentence>
+      <text>We don't have any.</text>
+      <textCn>我们没有。</textCn>
+    </sentence>
+    <sentence>
+      <text>But my sister bought this pair last month.</text>
+      <textCn>但是，我姐姐上个月买到了这样的一双。</textCn>
+    </sentence>
+    <sentence>
+      <text>Did she buy them here?</text>
+      <textCn>她是在这儿买的吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, she bought them in the U.S.</text>
+      <textCn>不，她是在美国买的。</textCn>
+    </sentence>
+    <sentence>
+      <text>We had some shoes like those a month ago, but we don't have any now.</text>
+      <textCn>一个月前我们有这样的鞋，但是现在没有了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you get a pair for me, please?</text>
+      <textCn>您能为我找一双吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid that I can't.</text>
+      <textCn>恐怕不能。</textCn>
+    </sentence>
+    <sentence>
+      <text>They were in fashion last year and the year before last.</text>
+      <textCn>这种鞋在去年和前年很流行。</textCn>
+    </sentence>
+    <sentence>
+      <text>But they're not in fashion this year.</text>
+      <textCn>而今年已不流行了。</textCn>
+    </sentence>
+    <sentence>
+      <text>These shoes are in fashion now.</text>
+      <textCn>现在流行的是这种鞋子。</textCn>
+    </sentence>
+    <sentence>
+      <text>They look very uncomfortable.</text>
+      <textCn>这种鞋子看上去很不舒适。</textCn>
+    </sentence>
+    <sentence>
+      <text>They are very uncomfortable.</text>
+      <textCn>的确很不舒适。</textCn>
+    </sentence>
+    <sentence>
+      <text>But women always wear uncomfortable shoes!</text>
+      <textCn>可是女人总是穿着不舒适的鞋子！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

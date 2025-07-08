@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>51</number>
+  <title>A pleasant climate</title>
+  <titleCn>宜人的气候</titleCn>
+  <words>
+    <word>
+      <text>Greece</text>
+      <textCn>希腊</textCn>
+    </word>
+    <word>
+      <text>climate</text>
+      <textCn>气候</textCn>
+    </word>
+    <word>
+      <text>country</text>
+      <textCn>国家</textCn>
+    </word>
+    <word>
+      <text>pleasant</text>
+      <textCn>宜人的</textCn>
+    </word>
+    <word>
+      <text>weather</text>
+      <textCn>天气</textCn>
+    </word>
+    <word>
+      <text>spring</text>
+      <textCn>春季</textCn>
+    </word>
+    <word>
+      <text>windy</text>
+      <textCn>有风的</textCn>
+    </word>
+    <word>
+      <text>warm</text>
+      <textCn>温暖的</textCn>
+    </word>
+    <word>
+      <text>rain</text>
+      <textCn>下雨</textCn>
+    </word>
+    <word>
+      <text>sometimes</text>
+      <textCn>有时</textCn>
+    </word>
+    <word>
+      <text>summer</text>
+      <textCn>夏天</textCn>
+    </word>
+    <word>
+      <text>autumn</text>
+      <textCn>秋天</textCn>
+    </word>
+    <word>
+      <text>winter</text>
+      <textCn>冬天</textCn>
+    </word>
+    <word>
+      <text>snow</text>
+      <textCn>下雪</textCn>
+    </word>
+    <word>
+      <text>January</text>
+      <textCn>1 月</textCn>
+    </word>
+    <word>
+      <text>February</text>
+      <textCn>2 月</textCn>
+    </word>
+    <word>
+      <text>March</text>
+      <textCn>3 月</textCn>
+    </word>
+    <word>
+      <text>April</text>
+      <textCn>4 月</textCn>
+    </word>
+    <word>
+      <text>May</text>
+      <textCn>5 月</textCn>
+    </word>
+    <word>
+      <text>June</text>
+      <textCn>6 月</textCn>
+    </word>
+    <word>
+      <text>July</text>
+      <textCn>7 月</textCn>
+    </word>
+    <word>
+      <text>August</text>
+      <textCn>8 月</textCn>
+    </word>
+    <word>
+      <text>September</text>
+      <textCn>9 月</textCn>
+    </word>
+    <word>
+      <text>October</text>
+      <textCn>10 月</textCn>
+    </word>
+    <word>
+      <text>November</text>
+      <textCn>11 月</textCn>
+    </word>
+    <word>
+      <text>December</text>
+      <textCn>12 月</textCn>
+    </word>
+      <word>
+      <text>the U.S.</text>
+      <textCn>美国</textCn>
+    </word>
+    <word>
+      <text>Brazil</text>
+      <textCn>巴西</textCn>
+    </word>
+    <word>
+      <text>Holland</text>
+      <textCn>荷兰</textCn>
+    </word>
+    <word>
+      <text>England</text>
+      <textCn>英国</textCn>
+    </word>
+    <word>
+      <text>France</text>
+      <textCn>法国</textCn>
+    </word>
+    <word>
+      <text>Germany</text>
+      <textCn>德国</textCn>
+    </word>
+    <word>
+      <text>Italy</text>
+      <textCn>意大利</textCn>
+    </word>
+    <word>
+      <text>Norway</text>
+      <textCn>挪威</textCn>
+    </word>
+    <word>
+      <text>Russia</text>
+      <textCn>俄罗斯</textCn>
+    </word>
+    <word>
+      <text>Spain</text>
+      <textCn>西班牙</textCn>
+    </word>
+    <word>
+      <text>Sweden</text>
+      <textCn>瑞典</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Where do you come from?</text>
+      <textCn>你是哪国人？</textCn>
+    </sentence>
+    <sentence>
+      <text>I come from Greece.</text>
+      <textCn>我是希腊人。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the climate like in your country?</text>
+      <textCn>你们国家的气候怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's very pleasant.</text>
+      <textCn>气候非常宜人。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the weather like in spring?</text>
+      <textCn>春季的天气怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's often windy in March.</text>
+      <textCn>3 月里常常刮风。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's always warm in April and May, but it rains sometimes.</text>
+      <textCn>4 月和 5 月的天气总是暖洋洋的，但有时下雨。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's it like in summer?</text>
+      <textCn>夏季的天气如何呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's always hot in June, July and August.</text>
+      <textCn>6 月、7 月和 8 月的天气总是炎热的，每天都出太阳。</textCn>
+    </sentence>
+    <sentence>
+      <text>The sun shines every day.</text>
+      <textCn>每天都出太阳</textCn>
+    </sentence>
+    <sentence>
+      <text>Is it cold or warm in autumn?</text>
+      <textCn>秋季的天气是冷还是暖呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's always warm in September and October.</text>
+      <textCn>9 月和 10 月总是很暖和，11 月常常就冷了，而且有时下雨。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's often cold in November and it rains sometimes.</text>
+      <textCn>11 月常常就冷了，而且有时下雨。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is it very cold in winter?</text>
+      <textCn>冬季的天气很冷吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's often cold in December, January and February.</text>
+      <textCn>12 月、1 月和 2 月常常很冷，有时还下雪。</textCn>
+    </sentence>
+    <sentence>
+      <text>It snows sometimes.</text>
+      <textCn>有时还下雪。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

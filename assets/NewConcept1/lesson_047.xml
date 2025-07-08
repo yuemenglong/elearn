@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>47</number>
+  <title>A cup of coffee</title>
+  <titleCn>一杯咖啡</titleCn>
+  <words>
+    <word>
+      <text>like</text>
+      <textCn>喜欢</textCn>
+    </word>
+    <word>
+      <text>want</text>
+      <textCn>想要</textCn>
+    </word>
+    <word>
+      <text>sweet</text>
+      <textCn>甜的</textCn>
+    </word>
+    <word>
+      <text>orange</text>
+      <textCn>橙子</textCn>
+    </word>
+    <word>
+      <text>Scotch whisky</text>
+      <textCn>苏格兰威士忌</textCn>
+    </word>
+    <word>
+      <text>choice</text>
+      <textCn>选择</textCn>
+    </word>
+    <word>
+      <text>apple</text>
+      <textCn>苹果</textCn>
+    </word>
+    <word>
+      <text>wine</text>
+      <textCn>酒，果酒</textCn>
+    </word>
+    <word>
+      <text>beer</text>
+      <textCn>啤酒</textCn>
+    </word>
+    <word>
+      <text>blackboard</text>
+      <textCn>黑板</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Do you like coffee, Ann?</text>
+      <textCn>Ann，你喜欢咖啡吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I do.</text>
+      <textCn>是的，我喜欢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want a cup?</text>
+      <textCn>你想要一杯吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please, Christine.</text>
+      <textCn>好的，请给我，Christine。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want any sugar?</text>
+      <textCn>你要糖吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please.</text>
+      <textCn>是的，请。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want any milk?</text>
+      <textCn>你要加牛奶吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, thank you. I don’t like milk in my coffee. I like black coffee.</text>
+      <textCn>不，谢谢。我不喜欢咖啡里加牛奶，我喜欢黑咖啡。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you like biscuits?</text>
+      <textCn>你喜欢饼干吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I do.</text>
+      <textCn>是的，我喜欢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want one?</text>
+      <textCn>你要一个吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please.</text>
+      <textCn>好的，请给我一个。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

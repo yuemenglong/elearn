@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>59</number>
+  <title>Is that all?</title>
+  <titleCn>就这些吗？</titleCn>
+  <words>
+    <word>
+      <text>envelope</text>
+      <textCn>信封</textCn>
+    </word>
+    <word>
+      <text>writing paper</text>
+      <textCn>信纸</textCn>
+    </word>
+    <word>
+      <text>shop assistant</text>
+      <textCn>售货员</textCn>
+    </word>
+    <word>
+      <text>size</text>
+      <textCn>尺寸. 大小</textCn>
+    </word>
+    <word>
+      <text>pad</text>
+      <textCn>信笺簿</textCn>
+    </word>
+    <word>
+      <text>glue</text>
+      <textCn>胶水</textCn>
+    </word>
+    <word>
+      <text>chalk</text>
+      <textCn>粉笔</textCn>
+    </word>
+    <word>
+      <text>change</text>
+      <textCn>零钱，找给的钱</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>I want some envelopes, please.</text>
+      <textCn>请给我拿几个信封。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want the large size or the small size?</text>
+      <textCn>您要大号的还是小号的？</textCn>
+    </sentence>
+    <sentence>
+      <text>The large size, please.</text>
+      <textCn>请拿大号的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you have any writing paper?</text>
+      <textCn>您有信纸吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, we do.</text>
+      <textCn>有。</textCn>
+    </sentence>
+    <sentence>
+      <text>I don't have any small pads.</text>
+      <textCn>我没有小本的信纸。</textCn>
+    </sentence>
+    <sentence>
+      <text>I only have large ones.</text>
+      <textCn>只有大本的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want a pad?</text>
+      <textCn>您要一本吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please.</text>
+      <textCn>好，请拿一本。</textCn>
+    </sentence>
+    <sentence>
+      <text>And I want some glue.</text>
+      <textCn>我还要些胶水。</textCn>
+    </sentence>
+    <sentence>
+      <text>A bottle of glue.</text>
+      <textCn>一瓶胶水。</textCn>
+    </sentence>
+    <sentence>
+      <text>And I want a large box of chalk, too.</text>
+      <textCn>我还要一大盒粉笔。</textCn>
+    </sentence>
+    <sentence>
+      <text>I only have small boxes.</text>
+      <textCn>我只有小盒的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want one?</text>
+      <textCn>您要一盒吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, thank you.</text>
+      <textCn>不了，谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is that all?</text>
+      <textCn>就要这些吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>That's all, thank you.</text>
+      <textCn>就这些，谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>What else do you want?</text>
+      <textCn>您还要什么吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I want my change.</text>
+      <textCn>我要找的零钱。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

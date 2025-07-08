@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>33</number>
+  <title>A fine day</title>
+  <titleCn>晴天</titleCn>
+  <words>
+    <word>
+      <text>day</text>
+      <textCn>日子</textCn>
+    </word>
+    <word>
+      <text>cloud</text>
+      <textCn>云</textCn>
+    </word>
+    <word>
+      <text>sky</text>
+      <textCn>天空</textCn>
+    </word>
+    <word>
+      <text>sun</text>
+      <textCn>太阳</textCn>
+    </word>
+    <word>
+      <text>shine</text>
+      <textCn>照耀</textCn>
+    </word>
+    <word>
+      <text>with</text>
+      <textCn>和……在一起</textCn>
+    </word>
+    <word>
+      <text>family</text>
+      <textCn>家庭（成员）</textCn>
+    </word>
+    <word>
+      <text>walk</text>
+      <textCn>走路</textCn>
+    </word>
+    <word>
+      <text>over</text>
+      <textCn>跨越，在……之上</textCn>
+    </word>
+    <word>
+      <text>bridge</text>
+      <textCn>桥</textCn>
+    </word>
+    <word>
+      <text>boat</text>
+      <textCn>船</textCn>
+    </word>
+    <word>
+      <text>river</text>
+      <textCn>河</textCn>
+    </word>
+    <word>
+      <text>ship</text>
+      <textCn>轮船</textCn>
+    </word>
+    <word>
+      <text>aeroplane</text>
+      <textCn>飞机</textCn>
+    </word>
+    <word>
+      <text>fly</text>
+      <textCn>飞</textCn>
+    </word>
+    <word>
+      <text>sleep</text>
+      <textCn>睡觉</textCn>
+    </word>
+    <word>
+      <text>shave</text>
+      <textCn>刮除</textCn>
+    </word>
+    <word>
+      <text>cry</text>
+      <textCn>哭, 喊</textCn>
+    </word>
+    <word>
+      <text>wash</text>
+      <textCn>洗</textCn>
+    </word>
+    <word>
+      <text>wait</text>
+      <textCn>等</textCn>
+    </word>
+    <word>
+      <text>jump</text>
+      <textCn>跳</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>It is a fine day today.</text>
+      <textCn>今天天气很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some clouds in the sky, but the sun is shining.</text>
+      <textCn>天空中飘着几朵云，但阳光灿烂。</textCn>
+    </sentence>
+    <sentence>
+      <text>Mr. Jones is with his family.</text>
+      <textCn>琼斯先生和他的家人在一起。</textCn>
+    </sentence>
+    <sentence>
+      <text>They are walking over the bridge.</text>
+      <textCn>他们正在过桥。</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some boats on the river.</text>
+      <textCn>河上有几艘船。</textCn>
+    </sentence>
+    <sentence>
+      <text>Mr. Jones and his wife are looking at them.</text>
+      <textCn>琼斯和他妻子正看着这些船。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sally is looking at a big ship.</text>
+      <textCn>莎莉正在看一艘大船。</textCn>
+    </sentence>
+    <sentence>
+      <text>The ship is going under the bridge.</text>
+      <textCn>那艘船正从桥下驶过。</textCn>
+    </sentence>
+    <sentence>
+      <text>Tim is looking at an aeroplane.</text>
+      <textCn>蒂姆正在看一架飞机。</textCn>
+    </sentence>
+    <sentence>
+      <text>The aeroplane is flying over the river.</text>
+      <textCn>飞机正从河上飞过。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

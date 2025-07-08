@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>69</number>
+  <title>The car race</title>
+  <titleCn>汽车比赛</titleCn>
+  <words>
+    <word>
+      <text>year</text>
+      <textCn>年</textCn>
+    </word>
+    <word>
+      <text>race</text>
+      <textCn>比赛</textCn>
+    </word>
+    <word>
+      <text>town</text>
+      <textCn>城镇</textCn>
+    </word>
+    <word>
+      <text>crowd</text>
+      <textCn>人群</textCn>
+    </word>
+    <word>
+      <text>stand</text>
+      <textCn>站立</textCn>
+    </word>
+    <word>
+      <text>exciting</text>
+      <textCn>使人激动的</textCn>
+    </word>
+    <word>
+      <text>just</text>
+      <textCn>正好，恰好</textCn>
+    </word>
+    <word>
+      <text>finish</text>
+      <textCn>结尾，结束</textCn>
+    </word>
+    <word>
+      <text>winner</text>
+      <textCn>获胜者</textCn>
+    </word>
+    <word>
+      <text>behind</text>
+      <textCn>在......之后</textCn>
+    </word>
+    <word>
+      <text>way</text>
+      <textCn>路途</textCn>
+    </word>
+    <word>
+      <text>stationer</text>
+      <textCn>文具商</textCn>
+    </word>
+     <word>
+      <text>Denmark</text>
+      <textCn>丹麦</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>There is a car race near our town every year.</text>
+      <textCn>在我们镇子附近每年都有一场汽车比赛。</textCn>
+    </sentence>
+    <sentence>
+      <text>In 1995, there was a very big race.</text>
+      <textCn>1995 年举行了一次盛大的比赛。</textCn>
+    </sentence>
+    <sentence>
+      <text>There were hundreds of people there.</text>
+      <textCn>许许多多人都去了赛场。</textCn>
+    </sentence>
+    <sentence>
+      <text>My wife and I were at the race.</text>
+      <textCn>我和我的妻子也去了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Our friends Julie and Jack were there, too.</text>
+      <textCn>我们的朋友朱莉和杰克也去了。</textCn>
+    </sentence>
+    <sentence>
+      <text>You can see us in the crowd.</text>
+      <textCn>你可以在人群中看到我们。</textCn>
+    </sentence>
+    <sentence>
+      <text>We are standing on the left.</text>
+      <textCn>我们站在左面。</textCn>
+    </sentence>
+    <sentence>
+      <text>There were twenty cars in the race.</text>
+      <textCn>参加比赛的有20 辆汽车。</textCn>
+    </sentence>
+    <sentence>
+      <text>There were English cars, French cars, German cars, Italian cars, American cars and Japanese cars.</text>
+      <textCn>有英国、法国、德国、意大利、美国和日本的汽车。</textCn>
+    </sentence>
+    <sentence>
+      <text>It was an exciting finish.</text>
+      <textCn>比赛的结尾是激动人心的。</textCn>
+    </sentence>
+    <sentence>
+      <text>The winner was Billy Stewart.</text>
+      <textCn>获胜者是比利·斯图尔特。</textCn>
+    </sentence>
+    <sentence>
+      <text>He was in car number fifteen.</text>
+      <textCn>他在第 15 号车里。</textCn>
+    </sentence>
+    <sentence>
+      <text>Five other cars were just behind him.</text>
+      <textCn>其他 5 辆汽车紧跟在他后面。</textCn>
+    </sentence>
+    <sentence>
+      <text>On the way home, my wife said to me, 'Don't drive so quickly!</text>
+      <textCn>在回家的途中，我妻子对我说：“别开得这样快！你可不是比利·斯图尔特！”</textCn>
+    </sentence>
+    <sentence>
+      <text>You're not Billy Stewart!'</text>
+      <textCn>你可不是比利·斯图尔特！”</textCn>
+    </sentence>
+  </sentences>
+</lesson>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>41</number>
+  <title>Penny's bag</title>
+  <titleCn>彭妮的提包</titleCn>
+  <words>
+    <word>
+      <text>bird</text>
+      <textCn>鸟</textCn>
+    </word>
+    <word>
+      <text>any</text>
+      <textCn>任何</textCn>
+    </word>
+    <word>
+      <text>some</text>
+      <textCn>一些</textCn>
+    </word>
+    <word>
+      <text>cheese</text>
+      <textCn>乳酪，干酪</textCn>
+    </word>
+    <word>
+      <text>bread</text>
+      <textCn>面包</textCn>
+    </word>
+    <word>
+      <text>soap</text>
+      <textCn>肥皂</textCn>
+    </word>
+    <word>
+      <text>chocolate</text>
+      <textCn>巧克力</textCn>
+    </word>
+    <word>
+      <text>sugar</text>
+      <textCn>糖</textCn>
+    </word>
+    <word>
+      <text>coffee</text>
+      <textCn>咖啡</textCn>
+    </word>
+    <word>
+      <text>tea</text>
+      <textCn>茶</textCn>
+    </word>
+    <word>
+      <text>tobacco</text>
+      <textCn>烟草，烟丝</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Is that bag heavy, Penny?</text>
+      <textCn>那个提包重吗，彭妮？</textCn>
+    </sentence>
+    <sentence>
+      <text>Not very.</text>
+      <textCn>不太重。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here! Put it on this chair. What's in it?</text>
+      <textCn>放这儿！把它放在这张椅子上。里面是什么东西？</textCn>
+    </sentence>
+    <sentence>
+      <text>A piece of cheese.</text>
+      <textCn>一块乳酪。</textCn>
+    </sentence>
+    <sentence>
+      <text>A loaf of bread.</text>
+      <textCn>一个面包。</textCn>
+    </sentence>
+    <sentence>
+      <text>A bar of soap.</text>
+      <textCn>一块肥皂。</textCn>
+    </sentence>
+    <sentence>
+      <text>A bar of chocolate.</text>
+      <textCn>一块巧克力。</textCn>
+    </sentence>
+    <sentence>
+      <text>A bottle of milk.</text>
+      <textCn>一瓶牛奶。</textCn>
+    </sentence>
+    <sentence>
+      <text>A pound of sugar.</text>
+      <textCn>一磅糖。</textCn>
+    </sentence>
+    <sentence>
+      <text>Half a pound of coffee.</text>
+      <textCn>半磅咖啡。</textCn>
+    </sentence>
+    <sentence>
+      <text>A quarter of a pound of tea.</text>
+      <textCn>四分之一磅茶叶。</textCn>
+    </sentence>
+    <sentence>
+      <text>And a tin of tobacco.</text>
+      <textCn>一听烟丝。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is that tin of tobacco for me?</text>
+      <textCn>那听烟丝是给我的吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, it's certainly not for me!</text>
+      <textCn>哎呀，当然不会是给我的！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

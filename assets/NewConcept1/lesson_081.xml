@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>81</number>
+  <title>Roast beef and potatoes</title>
+  <titleCn>烤牛肉和土豆</titleCn>
+  <words>
+    <word>
+      <text>bath</text>
+      <textCn>洗澡</textCn>
+    </word>
+    <word>
+      <text>nearly</text>
+      <textCn>几乎，将近</textCn>
+    </word>
+    <word>
+      <text>ready</text>
+      <textCn>准备好的，完好的</textCn>
+    </word>
+    <word>
+      <text>dinner</text>
+      <textCn>正餐，晚餐</textCn>
+    </word>
+    <word>
+      <text>restaurant</text>
+      <textCn>饭馆，餐馆</textCn>
+    </word>
+    <word>
+      <text>roast</text>
+      <textCn>烤的</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Hi, Carol!</text>
+      <textCn>你好，卡罗尔！</textCn>
+    </sentence>
+    <sentence>
+      <text>Where's Tom?</text>
+      <textCn>汤姆在哪儿？</textCn>
+    </sentence>
+    <sentence>
+      <text>He's upstairs.</text>
+      <textCn>他在楼上。</textCn>
+    </sentence>
+    <sentence>
+      <text>He's having a bath.</text>
+      <textCn>他正在洗澡。</textCn>
+    </sentence>
+    <sentence>
+      <text>Tom!</text>
+      <textCn>汤姆！</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes?</text>
+      <textCn>什么事？</textCn>
+    </sentence>
+    <sentence>
+      <text>Sam's here.</text>
+      <textCn>萨姆来了。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm nearly ready.</text>
+      <textCn>我马上就好。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hello, Sam.</text>
+      <textCn>你好，萨姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have a cigarette.</text>
+      <textCn>请抽烟。</textCn>
+    </sentence>
+    <sentence>
+      <text>No, thanks, Tom.</text>
+      <textCn>不，谢谢，汤姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have a glass of whisky then.</text>
+      <textCn>那么，来杯威士忌吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>OK. Thanks.</text>
+      <textCn>好的，谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is dinner ready, Carol?</text>
+      <textCn>卡罗尔，饭好了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's nearly ready.</text>
+      <textCn>马上就好。</textCn>
+    </sentence>
+    <sentence>
+      <text>We can have dinner at seven o'clock.</text>
+      <textCn>7点钟我们可以吃饭。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sam and I had lunch together today.</text>
+      <textCn>我和萨姆今天一起吃的午饭。</textCn>
+    </sentence>
+    <sentence>
+      <text>We went to a restaurant.</text>
+      <textCn>我们去了一家饭店。</textCn>
+    </sentence>
+    <sentence>
+      <text>What did you have?</text>
+      <textCn>你们吃什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>We had roast beef and potatoes.</text>
+      <textCn>我们吃的是烤牛肉和土豆。</textCn>
+    </sentence>
+    <sentence>
+      <text>Oh!</text>
+      <textCn>哦！</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the matter, Carol?</text>
+      <textCn>怎么了，卡罗尔？</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, you're going to have roast beef and potatoes again tonight!</text>
+      <textCn>唉，今晚你们又要吃烤牛肉和土豆了！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

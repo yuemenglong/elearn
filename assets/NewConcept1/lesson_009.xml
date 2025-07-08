@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>9</number>
+  <title>How are you today?</title>
+  <titleCn>你今天好吗？</titleCn>
+  <words>
+    <word>
+      <text>fat</text>
+      <textCn>胖的</textCn>
+    </word>
+    <word>
+      <text>woman</text>
+      <textCn>女人</textCn>
+    </word>
+    <word>
+      <text>thin</text>
+      <textCn>瘦的</textCn>
+    </word>
+    <word>
+      <text>tall</text>
+      <textCn>高的</textCn>
+    </word>
+    <word>
+      <text>short</text>
+      <textCn>矮的</textCn>
+    </word>
+    <word>
+      <text>dirty</text>
+      <textCn>脏的</textCn>
+    </word>
+    <word>
+      <text>clean</text>
+      <textCn>干净的</textCn>
+    </word>
+    <word>
+      <text>hot</text>
+      <textCn>热的</textCn>
+    </word>
+    <word>
+      <text>cold</text>
+      <textCn>冷的</textCn>
+    </word>
+    <word>
+      <text>old</text>
+      <textCn>老的</textCn>
+    </word>
+    <word>
+      <text>young</text>
+      <textCn>年轻的</textCn>
+    </word>
+    <word>
+      <text>busy</text>
+      <textCn>忙的</textCn>
+    </word>
+    <word>
+      <text>lazy</text>
+      <textCn>懒的</textCn>
+    </word>
+    <word>
+      <text>hello</text>
+      <textCn>喂</textCn>
+    </word>
+    <word>
+      <text>hi</text>
+      <textCn>喂</textCn>
+    </word>
+    <word>
+      <text>how</text>
+      <textCn>怎样</textCn>
+    </word>
+    <word>
+      <text>today</text>
+      <textCn>今天</textCn>
+    </word>
+    <word>
+      <text>well</text>
+      <textCn>身体好</textCn>
+    </word>
+    <word>
+      <text>fine</text>
+      <textCn>美好的</textCn>
+    </word>
+    <word>
+      <text>thanks</text>
+      <textCn>谢谢</textCn>
+    </word>
+    <word>
+      <text>goodbye</text>
+      <textCn>再见</textCn>
+    </word>
+    <word>
+      <text>see</text>
+      <textCn>见</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Hello, Helen.</text>
+      <textCn>你好，海伦。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hi, Steven.</text>
+      <textCn>你好，史蒂文。</textCn>
+    </sentence>
+    <sentence>
+      <text>How are you today?</text>
+      <textCn>你今天好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I’m very well, thank you. And you?</text>
+      <textCn>我很好，谢谢你。你好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I’m fine, thanks.</text>
+      <textCn>我很好，谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>How is Tony?</text>
+      <textCn>托尼好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>He’s fine, thanks. How’s Emma?</text>
+      <textCn>他很好，谢谢。埃玛好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>She’s very well, too, Helen.</text>
+      <textCn>她也很好，海伦。</textCn>
+    </sentence>
+    <sentence>
+      <text>Goodbye, Helen.</text>
+      <textCn>再见，海伦。</textCn>
+    </sentence>
+    <sentence>
+      <text>Nice to see you.</text>
+      <textCn>见到你真高兴。</textCn>
+    </sentence>
+    <sentence>
+      <text>Nice to see you, too, Steven. Goodbye.</text>
+      <textCn>见到你我也很高兴，史蒂文。再见。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

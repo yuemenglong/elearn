@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>77</number>
+  <title>Terrible toothache</title>
+  <titleCn>要命的牙痛</titleCn>
+  <words>
+    <word>
+      <text>appointment</text>
+      <textCn>约会，预约</textCn>
+    </word>
+    <word>
+      <text>urgent</text>
+      <textCn>紧急的，急迫的</textCn>
+    </word>
+    <word>
+      <text>till</text>
+      <textCn>直到……为止</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Good morning, Mr. Croft.</text>
+      <textCn>早上好，克罗夫特先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Good morning, nurse.</text>
+      <textCn>早上好，护士。</textCn>
+    </sentence>
+    <sentence>
+      <text>I want to see the dentist, please.</text>
+      <textCn>我想见牙科医生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you have an appointment?</text>
+      <textCn>您约好了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, I don't.</text>
+      <textCn>没有。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is it urgent?</text>
+      <textCn>急吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, it is.</text>
+      <textCn>是的。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's very urgent.</text>
+      <textCn>很急。</textCn>
+    </sentence>
+    <sentence>
+      <text>I feel awful.</text>
+      <textCn>我难受极了。</textCn>
+    </sentence>
+    <sentence>
+      <text>I have a terrible toothache.</text>
+      <textCn>牙痛得要命。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you come at 10 a.m. on Monday, April 24th?</text>
+      <textCn>您在4月24日星期一上午10点钟来可以吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I must see the dentist now, nurse.</text>
+      <textCn>我必须现在就见牙科医生，护士。</textCn>
+    </sentence>
+    <sentence>
+      <text>The dentist is very busy at the moment.</text>
+      <textCn>牙科医生这会儿很忙。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you come at 2 p.m.?</text>
+      <textCn>您下午2点钟来行吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>That's very late.</text>
+      <textCn>那就太晚了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can the dentist see me now?</text>
+      <textCn>牙科医生现在就不能接待我吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid that he can't, Mr. Croft.</text>
+      <textCn>恐怕不能，克罗夫特先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can't you wait till this afternoon?</text>
+      <textCn>您就不能等到今天下午了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I can wait, but my toothache can't!</text>
+      <textCn>我倒是可以等，可是我的牙痛等不了！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

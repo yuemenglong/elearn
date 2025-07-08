@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>31</number>
+  <title>Where's Sally?</title>
+  <titleCn>萨莉在哪里？</titleCn>
+  <words>
+    <word>
+      <text>garden</text>
+      <textCn>花园</textCn>
+    </word>
+    <word>
+      <text>under</text>
+      <textCn>在……之下</textCn>
+    </word>
+    <word>
+      <text>tree</text>
+      <textCn>树</textCn>
+    </word>
+    <word>
+      <text>climb</text>
+      <textCn>爬，攀登</textCn>
+    </word>
+    <word>
+      <text>who</text>
+      <textCn>谁</textCn>
+    </word>
+    <word>
+      <text>run</text>
+      <textCn>跑</textCn>
+    </word>
+    <word>
+      <text>grass</text>
+      <textCn>草，草地</textCn>
+    </word>
+    <word>
+      <text>after</text>
+      <textCn>在……之后</textCn>
+    </word>
+    <word>
+      <text>across</text>
+      <textCn>横过，穿过</textCn>
+    </word>
+    <word>
+      <text>cat</text>
+      <textCn>猫</textCn>
+    </word>
+    <word>
+      <text>type</text>
+      <textCn>打字</textCn>
+    </word>
+    <word>
+      <text>letter</text>
+      <textCn>信</textCn>
+    </word>
+    <word>
+      <text>basket</text>
+      <textCn>篮子</textCn>
+    </word>
+    <word>
+      <text>eat</text>
+      <textCn>吃</textCn>
+    </word>
+    <word>
+      <text>bone</text>
+      <textCn>骨头</textCn>
+    </word>
+    <word>
+      <text>clean</text>
+      <textCn>清洗</textCn>
+    </word>
+    <word>
+      <text>tooth</text>
+      <textCn>牙齿</textCn>
+    </word>
+    <word>
+      <text>cook</text>
+      <textCn>做(饭菜)</textCn>
+    </word>
+    <word>
+      <text>milk</text>
+      <textCn>牛奶</textCn>
+    </word>
+    <word>
+      <text>meal</text>
+      <textCn>饭, 一顿饭</textCn>
+    </word>
+    <word>
+      <text>drink</text>
+      <textCn>喝</textCn>
+    </word>
+    <word>
+      <text>tap</text>
+      <textCn>水龙头</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Where's Sally, Jack?</text>
+      <textCn>杰克，萨莉在哪儿？</textCn>
+    </sentence>
+    <sentence>
+      <text>She's in the garden, Jean.</text>
+      <textCn>她在花园里，琼。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's she doing?</text>
+      <textCn>她在干什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>She's sitting under the tree.</text>
+      <textCn>她正在树下坐着。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is Tim in the garden, too?</text>
+      <textCn>蒂姆也在花园里吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, he is. He's climbing the tree.</text>
+      <textCn>是的，他也在花园里。他正在爬树。</textCn>
+    </sentence>
+    <sentence>
+      <text>I beg your pardon? Who's climbing the tree?</text>
+      <textCn>你说什么？谁在爬树？</textCn>
+    </sentence>
+    <sentence>
+      <text>Tim is.</text>
+      <textCn>是蒂姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>What about the dog?</text>
+      <textCn>那狗呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>The dog's in the garden, too.</text>
+      <textCn>狗也在花园里。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's running across the grass.</text>
+      <textCn>它正在草地上跑。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's running after a cat.</text>
+      <textCn>它正在追一只猫。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

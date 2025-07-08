@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>85</number>
+  <title>Paris in the spring</title>
+  <titleCn>巴黎之春</titleCn>
+  <words>
+    <word>
+      <text>Paris</text>
+      <textCn>巴黎</textCn>
+    </word>
+    <word>
+      <text>cinema</text>
+      <textCn>电影院</textCn>
+    </word>
+    <word>
+      <text>film</text>
+      <textCn>电影</textCn>
+    </word>
+    <word>
+      <text>beautiful</text>
+      <textCn>漂亮的</textCn>
+    </word>
+    <word>
+      <text>city</text>
+      <textCn>城市</textCn>
+    </word>
+    <word>
+      <text>never</text>
+      <textCn>从未没有</textCn>
+    </word>
+    <word>
+      <text>ever</text>
+      <textCn>在任何时候</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Hello, Ken.</text>
+      <textCn>你好，肯。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hi, George.</text>
+      <textCn>你好，乔治。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have you just been to the cinema?</text>
+      <textCn>你刚去过电影院吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I have.</text>
+      <textCn>是的，我刚去过。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's on?</text>
+      <textCn>上映什么片子？</textCn>
+    </sentence>
+    <sentence>
+      <text>'Paris in the Spring'.</text>
+      <textCn>《巴黎之春》。</textCn>
+    </sentence>
+    <sentence>
+      <text>Oh, I've already seen it.</text>
+      <textCn>哦，我已看过了。</textCn>
+    </sentence>
+    <sentence>
+      <text>I saw it on television last year.</text>
+      <textCn>我是去年在电视上看的。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's an old film, but it's very good.</text>
+      <textCn>这是部老片子，但很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>Paris is a beautiful city.</text>
+      <textCn>巴黎是座美丽的城市。</textCn>
+    </sentence>
+    <sentence>
+      <text>I've never been there.</text>
+      <textCn>我从未去过那里。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have you ever been there, Ken?</text>
+      <textCn>肯，你去过吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I have.</text>
+      <textCn>是的，我去过。</textCn>
+    </sentence>
+    <sentence>
+      <text>I was there in April.</text>
+      <textCn>4月份我在那里。</textCn>
+    </sentence>
+    <sentence>
+      <text>Paris in the spring, eh?</text>
+      <textCn>那是巴黎之春，是吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>It was spring, but the weather was awful.</text>
+      <textCn>是春天，但天气太糟了。</textCn>
+    </sentence>
+    <sentence>
+      <text>It rained all the time.</text>
+      <textCn>一直在下雨。</textCn>
+    </sentence>
+    <sentence>
+      <text>Just like London!</text>
+      <textCn>就像伦敦一样！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>39</number>
+  <title>Don't drop it!</title>
+  <titleCn>别掉了！</titleCn>
+  <words>
+    <word>
+      <text>show</text>
+      <textCn>给……看</textCn>
+    </word>
+    <word>
+      <text>send</text>
+      <textCn>送给</textCn>
+    </word>
+    <word>
+      <text>take</text>
+      <textCn>带给</textCn>
+    </word>
+    <word>
+      <text>front</text>
+      <textCn>前面</textCn>
+    </word>
+    <word>
+      <text>in front of</text>
+      <textCn>在……之前</textCn>
+    </word>
+    <word>
+      <text>careful</text>
+      <textCn>小心的，仔细的</textCn>
+    </word>
+    <word>
+      <text>vase</text>
+      <textCn>花瓶</textCn>
+    </word>
+    <word>
+      <text>drop</text>
+      <textCn>掉下</textCn>
+    </word>
+    <word>
+      <text>flower</text>
+      <textCn>花</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>What are you going to do with that vase, Penny?</text>
+      <textCn>你打算如何处理那花瓶，彭妮？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm going to put it on this table, Sam.</text>
+      <textCn>我打算把它放在这张桌子上，萨姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>Don't do that. Give it to me.</text>
+      <textCn>不要那样做，把它给我。</textCn>
+    </sentence>
+    <sentence>
+      <text>What are you going to do with it?</text>
+      <textCn>你打算怎么处理它？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm going to put it here, in front of the window.</text>
+      <textCn>我准备把它放在窗户前。</textCn>
+    </sentence>
+    <sentence>
+      <text>Be careful! Don't drop it!</text>
+      <textCn>小心点！别摔了！</textCn>
+    </sentence>
+    <sentence>
+      <text>Don't put it there, Sam. Put it here, on this shelf.</text>
+      <textCn>不要放在那儿，萨姆。放在这儿，这个架子上。</textCn>
+    </sentence>
+    <sentence>
+      <text>There we are! It's a lovely vase.</text>
+      <textCn>就放在那儿！这是个漂亮的花瓶。</textCn>
+    </sentence>
+    <sentence>
+      <text>Those flowers are lovely, too.</text>
+      <textCn>那些花也很漂亮。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

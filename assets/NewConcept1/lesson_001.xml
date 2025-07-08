@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>1</number>
+  <title>Excuse me!</title>
+  <titleCn>对不起！</titleCn>
+  <words>
+    <word>
+      <text>excuse</text>
+      <textCn>原谅</textCn>
+    </word>
+    <word>
+      <text>me</text>
+      <textCn>我（宾格）</textCn>
+    </word>
+    <word>
+      <text>yes</text>
+      <textCn>是的</textCn>
+    </word>
+    <word>
+      <text>is</text>
+      <textCn>是</textCn>
+    </word>
+    <word>
+      <text>this</text>
+      <textCn>这</textCn>
+    </word>
+    <word>
+      <text>your</text>
+      <textCn>你的，你们的</textCn>
+    </word>
+    <word>
+      <text>handbag</text>
+      <textCn>（女用）手提包</textCn>
+    </word>
+    <word>
+      <text>pardon</text>
+      <textCn>原谅，请再说一遍</textCn>
+    </word>
+    <word>
+      <text>it</text>
+      <textCn>它</textCn>
+    </word>
+    <word>
+      <text>thank you</text>
+      <textCn>谢谢你（们）</textCn>
+    </word>
+    <word>
+      <text>very much</text>
+      <textCn>非常地</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Excuse me!</text>
+      <textCn>对不起！</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes?</text>
+      <textCn>什么事？</textCn>
+    </sentence>
+    <sentence>
+      <text>Is this your handbag?</text>
+      <textCn>这是您的手提包吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Pardon?</text>
+      <textCn>请再说一遍。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is this your handbag?</text>
+      <textCn>这是您的手提包吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, it is.</text>
+      <textCn>是的，是我的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you very much.</text>
+      <textCn>非常感谢！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>93</number>
+  <title>Our new neighbour</title>
+  <titleCn>我们的新邻居</titleCn>
+  <words>
+    <word>
+      <text>pilot</text>
+      <textCn>飞行员</textCn>
+    </word>
+    <word>
+      <text>return</text>
+      <textCn>返回</textCn>
+    </word>
+    <word>
+      <text>New York</text>
+      <textCn>纽约</textCn>
+    </word>
+    <word>
+      <text>Tokyo</text>
+      <textCn>东京</textCn>
+    </word>
+    <word>
+      <text>Madrid</text>
+      <textCn>马德里</textCn>
+    </word>
+    <word>
+      <text>fly</text>
+      <textCn>飞行</textCn>
+    </word>
+    <word>
+      <text>Athens</text>
+      <textCn>雅典</textCn>
+    </word>
+    <word>
+      <text>Berlin</text>
+      <textCn>柏林</textCn>
+    </word>
+    <word>
+      <text>Bombay</text>
+      <textCn>孟买</textCn>
+    </word>
+    <word>
+      <text>Geneva</text>
+      <textCn>日内瓦</textCn>
+    </word>
+    <word>
+      <text>Moscow</text>
+      <textCn>莫斯科</textCn>
+    </word>
+    <word>
+      <text>Rome</text>
+      <textCn>罗马</textCn>
+    </word>
+    <word>
+      <text>Seoul</text>
+      <textCn>汉城</textCn>
+    </word>
+    <word>
+      <text>Stockholm</text>
+      <textCn>斯德哥尔摩</textCn>
+    </word>
+    <word>
+      <text>Sydney</text>
+      <textCn>悉尼</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Nigel is our new next-door neighbour.</text>
+      <textCn>奈杰尔是我们新来的邻居。</textCn>
+    </sentence>
+    <sentence>
+      <text>He's a pilot.</text>
+      <textCn>他是个飞行员。</textCn>
+    </sentence>
+    <sentence>
+      <text>He was in the R.A.F.</text>
+      <textCn>他曾在皇家空军任职。</textCn>
+    </sentence>
+    <sentence>
+      <text>He will fly to New York next month.</text>
+      <textCn>下个月他将飞往纽约。</textCn>
+    </sentence>
+    <sentence>
+      <text>The month after next he'll fly to Tokyo.</text>
+      <textCn>再下个月他将飞往东京。</textCn>
+    </sentence>
+    <sentence>
+      <text>At the moment, he's in Madrid.</text>
+      <textCn>现在他在马德里。</textCn>
+    </sentence>
+    <sentence>
+      <text>He flew to Spain a week ago.</text>
+      <textCn>他是一星期以前飞到西班牙的。</textCn>
+    </sentence>
+    <sentence>
+      <text>He'll return to London the week after next.</text>
+      <textCn>再下个星期他将返回伦敦。</textCn>
+    </sentence>
+    <sentence>
+      <text>He's only forty-one years old, and he has already been to nearly every country in the world.</text>
+      <textCn>他只有41岁，但他却去过世界上几乎每一个国家。</textCn>
+    </sentence>
+    <sentence>
+      <text>Nigel is a very lucky man.</text>
+      <textCn>奈杰尔是个很幸运的人。</textCn>
+    </sentence>
+    <sentence>
+      <text>But his wife isn't very lucky.</text>
+      <textCn>但他的妻子运气不很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>She usually stays at home!</text>
+      <textCn>她总是呆在家里！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

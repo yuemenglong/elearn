@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>79</number>
+  <title>Carol's shopping list</title>
+  <titleCn>卡罗尔的购物单</titleCn>
+  <words>
+    <word>
+      <text>shopping</text>
+      <textCn>购物</textCn>
+    </word>
+    <word>
+      <text>list</text>
+      <textCn>单子</textCn>
+    </word>
+    <word>
+      <text>vegetable</text>
+      <textCn>蔬菜</textCn>
+    </word>
+    <word>
+      <text>need</text>
+      <textCn>需要</textCn>
+    </word>
+    <word>
+      <text>hope</text>
+      <textCn>希望</textCn>
+    </word>
+    <word>
+      <text>thing</text>
+      <textCn>事情</textCn>
+    </word>
+    <word>
+      <text>money</text>
+      <textCn>钱</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>What are you doing, Carol?</text>
+      <textCn>卡罗尔，你在干什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm making a shopping list, Tom.</text>
+      <textCn>我在写购物单，汤姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>What do we need?</text>
+      <textCn>我们都需要什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>We need a lot of things this week.</text>
+      <textCn>这星期我们需要很多东西。</textCn>
+    </sentence>
+    <sentence>
+      <text>I must go to the grocer's.</text>
+      <textCn>我得去一下食品店。</textCn>
+    </sentence>
+    <sentence>
+      <text>We haven't got much tea or coffee, and we haven't got any sugar or jam.</text>
+      <textCn>我们的茶叶和咖啡不多了，糖和果酱也没有了。</textCn>
+    </sentence>
+    <sentence>
+      <text>What about vegetables?</text>
+      <textCn>蔬菜呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>I must go to the greengrocer's.</text>
+      <textCn>我还得到蔬菜水果店去一下。</textCn>
+    </sentence>
+    <sentence>
+      <text>We haven't got many tomatoes, but we've got a lot of potatoes.</text>
+      <textCn>我们的番茄不多了，但土豆还有不少。</textCn>
+    </sentence>
+    <sentence>
+      <text>I must go to the butcher's, too.</text>
+      <textCn>我还要到肉店去一下。</textCn>
+    </sentence>
+    <sentence>
+      <text>We need some meat.</text>
+      <textCn>我们需要些肉。</textCn>
+    </sentence>
+    <sentence>
+      <text>We haven't got any meat at all.</text>
+      <textCn>我们一点肉也没有了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have we got any beer and wine?</text>
+      <textCn>我们还有啤酒和葡萄酒吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, we haven't.</text>
+      <textCn>没有了。</textCn>
+    </sentence>
+    <sentence>
+      <text>And I'm not going to get any!</text>
+      <textCn>不过，我不打算买！</textCn>
+    </sentence>
+    <sentence>
+      <text>I hope that you've got some money.</text>
+      <textCn>我希望你还有钱。</textCn>
+    </sentence>
+    <sentence>
+      <text>I haven't got much.</text>
+      <textCn>我的钱不多了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, I haven't got much either!</text>
+      <textCn>唉，我也不多了！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

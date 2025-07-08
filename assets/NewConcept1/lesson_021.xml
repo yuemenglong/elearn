@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lesson>
+  <number>21</number>
+  <title>Which book?</title>
+  <titleCn>哪一本书？</titleCn>
+  <words>
+    <word>
+      <text>empty</text>
+      <textCn>空的</textCn>
+    </word>
+    <word>
+      <text>full</text>
+      <textCn>满的</textCn>
+    </word>
+    <word>
+      <text>large</text>
+      <textCn>大的</textCn>
+    </word>
+    <word>
+      <text>little</text>
+      <textCn>小的</textCn>
+    </word>
+    <word>
+      <text>sharp</text>
+      <textCn>锋利的</textCn>
+    </word>
+    <word>
+      <text>small</text>
+      <textCn>小的</textCn>
+    </word>
+    <word>
+      <text>big</text>
+      <textCn>大的</textCn>
+    </word>
+    <word>
+      <text>blunt</text>
+      <textCn>钝的</textCn>
+    </word>
+    <word>
+      <text>box</text>
+      <textCn>盒子</textCn>
+    </word>
+    <word>
+      <text>glass</text>
+      <textCn>杯子</textCn>
+    </word>
+    <word>
+      <text>cup</text>
+      <textCn>茶杯</textCn>
+    </word>
+    <word>
+      <text>bottle</text>
+      <textCn>瓶子</textCn>
+    </word>
+    <word>
+      <text>tin</text>
+      <textCn>罐头</textCn>
+    </word>
+    <word>
+      <text>knife</text>
+      <textCn>刀子</textCn>
+    </word>
+    <word>
+      <text>fork</text>
+      <textCn>叉子</textCn>
+    </word>
+    <word>
+      <text>spoon</text>
+      <textCn>勺子</textCn>
+    </word>
+    <word>
+      <text>give</text>
+      <textCn>给</textCn>
+    </word>
+    <word>
+      <text>one</text>
+      <textCn>一个</textCn>
+    </word>
+    <word>
+      <text>which</text>
+      <textCn>哪个</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Give me a book, please.</text>
+      <textCn>请拿本书给我。</textCn>
+    </sentence>
+    <sentence>
+      <text>Which book?</text>
+      <textCn>哪一本？</textCn>
+    </sentence>
+    <sentence>
+      <text>This one?</text>
+      <textCn>是这本吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, not that one. The red one.</text>
+      <textCn>不是那本。是那本红皮的。</textCn>
+    </sentence>
+    <sentence>
+      <text>This one?</text>
+      <textCn>这本吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please.</text>
+      <textCn>是的，请给我。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here you are.</text>
+      <textCn>给你。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you.</text>
+      <textCn>谢谢。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

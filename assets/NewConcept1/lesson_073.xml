@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>73</number>
+  <title>The way to King Street</title>
+  <titleCn>到国王街的走法</titleCn>
+  <words>
+    <word>
+      <text>week</text>
+      <textCn>周</textCn>
+    </word>
+    <word>
+      <text>London</text>
+      <textCn>伦敦</textCn>
+    </word>
+    <word>
+      <text>suddenly</text>
+      <textCn>突然地</textCn>
+    </word>
+    <word>
+      <text>bus stop</text>
+      <textCn>公共汽车站</textCn>
+    </word>
+    <word>
+      <text>smile</text>
+      <textCn>微笑</textCn>
+    </word>
+    <word>
+      <text>pleasantly</text>
+      <textCn>愉快地</textCn>
+    </word>
+    <word>
+      <text>understand</text>
+      <textCn>懂，明白</textCn>
+    </word>
+    <word>
+      <text>speak</text>
+      <textCn>讲，说</textCn>
+    </word>
+    <word>
+      <text>hand</text>
+      <textCn>手</textCn>
+    </word>
+    <word>
+      <text>pocket</text>
+      <textCn>衣袋</textCn>
+    </word>
+    <word>
+      <text>phrasebook</text>
+      <textCn>短语手册，常用语手册</textCn>
+    </word>
+    <word>
+      <text>phrase</text>
+      <textCn>短语</textCn>
+    </word>
+    <word>
+      <text>slowly</text>
+      <textCn>缓慢地</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Last week Mrs. Mills went to London.</text>
+      <textCn>上周米尔斯太太去了伦敦。</textCn>
+    </sentence>
+    <sentence>
+      <text>She does not know London very well.</text>
+      <textCn>她对伦敦不很熟悉。</textCn>
+    </sentence>
+    <sentence>
+      <text>And she lost her way.</text>
+      <textCn>因此迷了路。</textCn>
+    </sentence>
+    <sentence>
+      <text>Suddenly, she saw a man near a bus stop.</text>
+      <textCn>突然，她在公共汽车站附近看到一个男人。</textCn>
+    </sentence>
+    <sentence>
+      <text>I can ask him the way.</text>
+      <textCn>我可以问他问路。</textCn>
+    </sentence>
+    <sentence>
+      <text>She said to herself.</text>
+      <textCn>她心中暗想。</textCn>
+    </sentence>
+    <sentence>
+      <text>Excuse me.</text>
+      <textCn>对不起。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you tell me the way to King Street, please?</text>
+      <textCn>您能告诉我到国王街怎么走吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>The man smiled pleasantly.</text>
+      <textCn>这人友好地笑了笑。</textCn>
+    </sentence>
+    <sentence>
+      <text>He did not understand English!</text>
+      <textCn>他不懂英语！</textCn>
+    </sentence>
+    <sentence>
+      <text>He spoke German.</text>
+      <textCn>他讲德语。</textCn>
+    </sentence>
+    <sentence>
+      <text>He was a tourist.</text>
+      <textCn>他是个旅游者。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then he put his hand into his pocket.</text>
+      <textCn>然后他把手伸进了衣袋。</textCn>
+    </sentence>
+    <sentence>
+      <text>And took out a phrasebook.</text>
+      <textCn>掏出了一本常用语手册。</textCn>
+    </sentence>
+    <sentence>
+      <text>He opened the book and found a phrase.</text>
+      <textCn>他翻开书找到了一条短语。</textCn>
+    </sentence>
+    <sentence>
+      <text>He read the phrase slowly.</text>
+      <textCn>他缓慢地读着短语。</textCn>
+    </sentence>
+    <sentence>
+      <text>I am sorry.</text>
+      <textCn>很抱歉。</textCn>
+    </sentence>
+    <sentence>
+      <text>I do not speak English.</text>
+      <textCn>我不会讲英语。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

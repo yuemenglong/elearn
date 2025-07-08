@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>71</number>
+  <title>He's awful!</title>
+  <titleCn>他讨厌透了！</titleCn>
+  <words>
+    <word>
+      <text>awful</text>
+      <textCn>让人讨厌的，坏的</textCn>
+    </word>
+    <word>
+      <text>telephone</text>
+      <textCn>电话；打电话</textCn>
+    </word>
+    <word>
+      <text>time</text>
+      <textCn>次（数）</textCn>
+    </word>
+    <word>
+      <text>answer</text>
+      <textCn>接（电话）</textCn>
+    </word>
+    <word>
+      <text>last</text>
+      <textCn>最后的，前一次的</textCn>
+    </word>
+    <word>
+      <text>phone</text>
+      <textCn>电话</textCn>
+    </word>
+    <word>
+      <text>again</text>
+      <textCn>又一次地</textCn>
+    </word>
+    <word>
+      <text>say</text>
+      <textCn>说</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>What's Ron Marston like?</text>
+      <textCn>Ron Marston这个人怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>He's awful!</text>
+      <textCn>他讨厌透了！</textCn>
+    </sentence>
+    <sentence>
+      <text>He telephoned me four times yesterday.</text>
+      <textCn>他昨天给我打了4次电话。</textCn>
+    </sentence>
+    <sentence>
+      <text>And three times the day before yesterday.</text>
+      <textCn>前天打了3次。</textCn>
+    </sentence>
+    <sentence>
+      <text>He telephoned the office yesterday morning and yesterday afternoon.</text>
+      <textCn>他昨天上午和下午地电话打到了我的办公室。</textCn>
+    </sentence>
+    <sentence>
+      <text>My boss answered the telephone.</text>
+      <textCn>是我的老板接的。</textCn>
+    </sentence>
+    <sentence>
+      <text>What did your boss say to him?</text>
+      <textCn>你老板是怎么对他说的？</textCn>
+    </sentence>
+    <sentence>
+      <text>He said, 'Pauline is typing letters.'</text>
+      <textCn>他说："波琳正在打信。"</textCn>
+    </sentence>
+    <sentence>
+      <text>She can't speak to you now!</text>
+      <textCn>她现在不能回你话！</textCn>
+    </sentence>
+    <sentence>
+      <text>Then I arrived home at six o'clock yesterday evening.</text>
+      <textCn>后来，我昨天6点钟回到家里。</textCn>
+    </sentence>
+    <sentence>
+      <text>He telephoned again.</text>
+      <textCn>他又打来电话。</textCn>
+    </sentence>
+    <sentence>
+      <text>But I didn't answer the phone!</text>
+      <textCn>但我没接。</textCn>
+    </sentence>
+    <sentence>
+      <text>Did he telephone again last night?</text>
+      <textCn>他昨天晚上又打电话了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, he did.</text>
+      <textCn>是的，打了。</textCn>
+    </sentence>
+    <sentence>
+      <text>He telephoned at nine o'clock.</text>
+      <textCn>他在9点钟又打来了电话。</textCn>
+    </sentence>
+    <sentence>
+      <text>What did you say to him?</text>
+      <textCn>你对他怎么说的？</textCn>
+    </sentence>
+    <sentence>
+      <text>I said, 'This is Pauline's mother.'</text>
+      <textCn>我说："我是波琳的母亲。"</textCn>
+    </sentence>
+    <sentence>
+      <text>Please don't telephone my daughter again!</text>
+      <textCn>请不要再给我女儿打电话了！</textCn>
+    </sentence>
+    <sentence>
+      <text>Did he telephone again?</text>
+      <textCn>他又打了没有？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, he didn't!</text>
+      <textCn>没有！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

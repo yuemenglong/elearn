@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>67</number>
+  <title>The weekend</title>
+  <titleCn>周末</titleCn>
+  <words>
+    <word>
+      <text>greengrocer</text>
+      <textCn>蔬菜水果零售商</textCn>
+    </word>
+    <word>
+      <text>absent</text>
+      <textCn>缺席的</textCn>
+    </word>
+    <word>
+      <text>Monday</text>
+      <textCn>星期一</textCn>
+    </word>
+    <word>
+      <text>Tuesday</text>
+      <textCn>星期二</textCn>
+    </word>
+    <word>
+      <text>Wednesday</text>
+      <textCn>星期三</textCn>
+    </word>
+    <word>
+      <text>Thursday</text>
+      <textCn>星期四</textCn>
+    </word>
+    <word>
+      <text>keep</text>
+      <textCn>（身体健康）处于（状况）</textCn>
+    </word>
+    <word>
+      <text>spend</text>
+      <textCn>度过</textCn>
+    </word>
+    <word>
+      <text>weekend</text>
+      <textCn>周末</textCn>
+    </word>
+    <word>
+      <text>Friday</text>
+      <textCn>星期五</textCn>
+    </word>
+    <word>
+      <text>Saturday</text>
+      <textCn>星期六</textCn>
+    </word>
+    <word>
+      <text>Sunday</text>
+      <textCn>星期日</textCn>
+    </word>
+    <word>
+      <text>country</text>
+      <textCn>乡村</textCn>
+    </word>
+    <word>
+      <text>lucky</text>
+      <textCn>幸运的</textCn>
+    </word>
+        <word>
+      <text>church</text>
+      <textCn>教堂</textCn>
+    </word>
+    <word>
+      <text>dairy</text>
+      <textCn>乳品店</textCn>
+    </word>
+    <word>
+      <text>baker</text>
+      <textCn>面包师傅</textCn>
+    </word>
+    <word>
+      <text>grocer</text>
+      <textCn>食品杂货商</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Hello.</text>
+      <textCn>您好。</textCn>
+    </sentence>
+    <sentence>
+      <text>Were you at the butcher's?</text>
+      <textCn>刚才您在肉店里吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I was.</text>
+      <textCn>是的，我在肉店里。</textCn>
+    </sentence>
+    <sentence>
+      <text>Were you at the butcher's, too?</text>
+      <textCn>您也在肉店里吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, I wasn't.</text>
+      <textCn>不，我不是。</textCn>
+    </sentence>
+    <sentence>
+      <text>I was at the greengrocer's.</text>
+      <textCn>我在蔬菜水果店里。</textCn>
+    </sentence>
+    <sentence>
+      <text>How's Jimmy today?</text>
+      <textCn>吉米今天怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>He's very well, thank you.</text>
+      <textCn>他很好，谢谢您。</textCn>
+    </sentence>
+    <sentence>
+      <text>Was he absent from school last week?</text>
+      <textCn>上星期他没上学吧？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, he was.</text>
+      <textCn>是的，他没上学。</textCn>
+    </sentence>
+    <sentence>
+      <text>He was absent on Monday, Tuesday, Wednesday and Thursday.</text>
+      <textCn>他星期一、星期二、星期三和星期四没去上学。</textCn>
+    </sentence>
+    <sentence>
+      <text>How are you all keeping?</text>
+      <textCn>你们身体都好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Very well, thank you.</text>
+      <textCn>很好，谢谢您。</textCn>
+    </sentence>
+    <sentence>
+      <text>We're going to spend three days in the country.</text>
+      <textCn>我们打算到乡下去三天。</textCn>
+    </sentence>
+    <sentence>
+      <text>We're going to stay at my mother's for the weekend.</text>
+      <textCn>我们打算到乡下去三天，在我母亲家度周末。</textCn>
+    </sentence>
+    <sentence>
+      <text>Friday, Saturday and Sunday in the country!</text>
+      <textCn>星期五、星期六和星期日在乡下过！</textCn>
+    </sentence>
+    <sentence>
+      <text>Aren't you lucky!</text>
+      <textCn>你们真幸运啊！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

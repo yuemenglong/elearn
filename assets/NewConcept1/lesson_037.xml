@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>37</number>
+  <title>Making a bookcase</title>
+  <titleCn>做书架</titleCn>
+  <words>
+    <word>
+      <text>work</text>
+      <textCn>工作</textCn>
+    </word>
+    <word>
+      <text>hard</text>
+      <textCn>努力地</textCn>
+    </word>
+    <word>
+      <text>make</text>
+      <textCn>做</textCn>
+    </word>
+    <word>
+      <text>bookcase</text>
+      <textCn>书架</textCn>
+    </word>
+    <word>
+      <text>hammer</text>
+      <textCn>锤子</textCn>
+    </word>
+    <word>
+      <text>paint</text>
+      <textCn>上漆，涂</textCn>
+    </word>
+    <word>
+      <text>pink</text>
+      <textCn>粉红色</textCn>
+    </word>
+    <word>
+      <text>favourite</text>
+      <textCn>最喜欢的</textCn>
+    </word>
+    <word>
+      <text>homework</text>
+      <textCn>作业</textCn>
+    </word>
+    <word>
+      <text>listen</text>
+      <textCn>听</textCn>
+    </word>
+    <word>
+      <text>dish</text>
+      <textCn>盘子, 碟子</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>You’re working hard, George.</text>
+      <textCn>你干得真辛苦，乔治。</textCn>
+    </sentence>
+    <sentence>
+      <text>What are you doing?</text>
+      <textCn>你在干什么呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>I’m making a bookcase.</text>
+      <textCn>我正在做书架。</textCn>
+    </sentence>
+    <sentence>
+      <text>Give me that hammer please, Dan.</text>
+      <textCn>请把那把锤子拿给我，丹。</textCn>
+    </sentence>
+    <sentence>
+      <text>Which hammer?</text>
+      <textCn>哪一把？</textCn>
+    </sentence>
+    <sentence>
+      <text>This one?</text>
+      <textCn>是这把吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, not that one.</text>
+      <textCn>不，不是那把。</textCn>
+    </sentence>
+    <sentence>
+      <text>The big one.</text>
+      <textCn>是那把大的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here you are.</text>
+      <textCn>给你。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thanks, Dan.</text>
+      <textCn>谢谢，丹。</textCn>
+    </sentence>
+    <sentence>
+      <text>What are you going to do now, George?</text>
+      <textCn>你现在准备做什么，乔治？</textCn>
+    </sentence>
+    <sentence>
+      <text>I’m going to paint it.</text>
+      <textCn>我要打算给它涂漆。</textCn>
+    </sentence>
+    <sentence>
+      <text>What colour are you going to paint it?</text>
+      <textCn>你打算把它涂成什么颜色？</textCn>
+    </sentence>
+    <sentence>
+      <text>I’m going to paint it pink.</text>
+      <textCn>我想把它涂成粉红色。</textCn>
+    </sentence>
+    <sentence>
+      <text>Pink!</text>
+      <textCn>粉红色！</textCn>
+    </sentence>
+    <sentence>
+      <text>This bookcase isn’t for me.</text>
+      <textCn>这个书架不是为我做的。</textCn>
+    </sentence>
+    <sentence>
+      <text>It’s for my daughter, Susan.</text>
+      <textCn>是为我的女儿苏珊做的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Pink’s her favourite colour.</text>
+      <textCn>粉红色是她最喜欢的颜色。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

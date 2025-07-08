@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>5</number>
+  <title>Nice to meet you.</title>
+  <titleCn>很高兴见到你。</titleCn>
+  <words>
+    <word>
+      <text>Mr.</text>
+      <textCn>先生</textCn>
+    </word>
+    <word>
+      <text>good</text>
+      <textCn>好</textCn>
+    </word>
+    <word>
+      <text>morning</text>
+      <textCn>早晨</textCn>
+    </word>
+    <word>
+      <text>Miss</text>
+      <textCn>小姐</textCn>
+    </word>
+    <word>
+      <text>new</text>
+      <textCn>新的</textCn>
+    </word>
+    <word>
+      <text>student</text>
+      <textCn>学生</textCn>
+    </word>
+    <word>
+      <text>French</text>
+      <textCn>法国人</textCn>
+    </word>
+    <word>
+      <text>German</text>
+      <textCn>德国人</textCn>
+    </word>
+    <word>
+      <text>nice</text>
+      <textCn>美好的</textCn>
+    </word>
+    <word>
+      <text>meet</text>
+      <textCn>遇见</textCn>
+    </word>
+    <word>
+      <text>Japanese</text>
+      <textCn>日本人</textCn>
+    </word>
+    <word>
+      <text>Korean</text>
+      <textCn>韩国人</textCn>
+    </word>
+    <word>
+      <text>Chinese</text>
+      <textCn>中国人</textCn>
+    </word>
+    <word>
+      <text>too</text>
+      <textCn>也</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Good morning.</text>
+      <textCn>早上好。</textCn>
+    </sentence>
+    <sentence>
+      <text>This is Miss Sophie Dupont.</text>
+      <textCn>这是索菲杜邦小姐。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sophie is a new student.</text>
+      <textCn>索菲是个新学生。</textCn>
+    </sentence>
+    <sentence>
+      <text>She is French.</text>
+      <textCn>她是法国人。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sophie, this is Hans.</text>
+      <textCn>索菲，这是汉斯。</textCn>
+    </sentence>
+    <sentence>
+      <text>He is German.</text>
+      <textCn>他是德国人。</textCn>
+    </sentence>
+    <sentence>
+      <text>Nice to meet you.</text>
+      <textCn>很高兴见到你。</textCn>
+    </sentence>
+    <sentence>
+      <text>And this is Naoko.</text>
+      <textCn>这是直子。</textCn>
+    </sentence>
+    <sentence>
+      <text>She is Japanese.</text>
+      <textCn>她是日本人。</textCn>
+    </sentence>
+    <sentence>
+      <text>And this is Chang-woo.</text>
+      <textCn>这是昌宇。</textCn>
+    </sentence>
+    <sentence>
+      <text>He is Korean.</text>
+      <textCn>他是韩国人。</textCn>
+    </sentence>
+    <sentence>
+      <text>And this is Luming.</text>
+      <textCn>这是鲁明。</textCn>
+    </sentence>
+    <sentence>
+      <text>He is Chinese.</text>
+      <textCn>他是中国人。</textCn>
+    </sentence>
+    <sentence>
+      <text>And this is Xiaohui.</text>
+      <textCn>这是晓慧。</textCn>
+    </sentence>
+    <sentence>
+      <text>She is Chinese, too.</text>
+      <textCn>她也是中国人。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

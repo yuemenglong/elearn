@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>55</number>
+  <title>The Sawyer family</title>
+  <titleCn>索耶一家人</titleCn>
+  <words>
+    <word>
+      <text>live</text>
+      <textCn>住，生活</textCn>
+    </word>
+    <word>
+      <text>stay</text>
+      <textCn>呆在，停留</textCn>
+    </word>
+    <word>
+      <text>home</text>
+      <textCn>家；adv. 在家、到家</textCn>
+    </word>
+    <word>
+      <text>housework</text>
+      <textCn>家务</textCn>
+    </word>
+    <word>
+      <text>lunch</text>
+      <textCn>午饭</textCn>
+    </word>
+    <word>
+      <text>afternoon</text>
+      <textCn>下午</textCn>
+    </word>
+    <word>
+      <text>usually</text>
+      <textCn>通常</textCn>
+    </word>
+    <word>
+      <text>together</text>
+      <textCn>一起</textCn>
+    </word>
+    <word>
+      <text>evening</text>
+      <textCn>晚上</textCn>
+    </word>
+    <word>
+      <text>arrive</text>
+      <textCn>到达</textCn>
+    </word>
+    <word>
+      <text>night</text>
+      <textCn>夜间</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>The Sawyers live at 87 King Street.</text>
+      <textCn>索耶一家住在国王街87号。</textCn>
+    </sentence>
+    <sentence>
+      <text>In the morning, Mr. Sawyer goes to work and the children go to school.</text>
+      <textCn>早上，索耶先生去上班，孩子们去上学。</textCn>
+    </sentence>
+    <sentence>
+      <text>Their father takes them to school every day.</text>
+      <textCn>父亲每天送孩子们去上学。</textCn>
+    </sentence>
+    <sentence>
+      <text>Mrs. Sawyer stays at home every day.</text>
+      <textCn>索耶夫人每天呆在家里。</textCn>
+    </sentence>
+    <sentence>
+      <text>She does the housework.</text>
+      <textCn>她料理家务。</textCn>
+    </sentence>
+    <sentence>
+      <text>She always eats her lunch at noon.</text>
+      <textCn>她总是在正午吃饭。</textCn>
+    </sentence>
+    <sentence>
+      <text>In the afternoon, she usually sees her friends.</text>
+      <textCn>下午，她总是会见她的朋友。</textCn>
+    </sentence>
+    <sentence>
+      <text>They often drink tea together.</text>
+      <textCn>她们经常在一起喝茶。</textCn>
+    </sentence>
+    <sentence>
+      <text>In the evening, the children come home from school.</text>
+      <textCn>傍晚，孩子们放学回家。</textCn>
+    </sentence>
+    <sentence>
+      <text>They arrive home early.</text>
+      <textCn>他们到家很早。</textCn>
+    </sentence>
+    <sentence>
+      <text>Mr. Sawyer comes home from work.</text>
+      <textCn>索耶先生下班回家。</textCn>
+    </sentence>
+    <sentence>
+      <text>He arrives home late.</text>
+      <textCn>他到家很晚。</textCn>
+    </sentence>
+    <sentence>
+      <text>At night, the children always do their homework.</text>
+      <textCn>晚上，孩子们总是做作业，然后去睡觉。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then they go to bed.</text>
+      <textCn>然后去睡觉。</textCn>
+    </sentence>
+    <sentence>
+      <text>Mr. Sawyer usually reads his newspaper, but sometimes he and his wife watch television.</text>
+      <textCn>索耶先生总是读报纸，但有时和他的妻子一起看电视。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

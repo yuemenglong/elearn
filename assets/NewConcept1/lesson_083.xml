@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>83</number>
+  <title>Going on holiday</title>
+  <titleCn>度假</titleCn>
+  <words>
+    <word>
+      <text>mess</text>
+      <textCn>杂乱，凌乱</textCn>
+    </word>
+    <word>
+      <text>pack</text>
+      <textCn>包装，打包，装箱</textCn>
+    </word>
+    <word>
+      <text>suitcase</text>
+      <textCn>手提箱</textCn>
+    </word>
+    <word>
+      <text>leave</text>
+      <textCn>离开</textCn>
+    </word>
+    <word>
+      <text>already</text>
+      <textCn>已经</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Hello, Sam.</text>
+      <textCn>你好，萨姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>Come in.</text>
+      <textCn>进来吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hi, Sam.</text>
+      <textCn>你好，萨姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>We're having lunch.</text>
+      <textCn>我们正在吃午饭。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want to have lunch with us?</text>
+      <textCn>你想和我们一起吃午饭好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, thank you, Tom.</text>
+      <textCn>不，汤姆，谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>I've already had lunch.</text>
+      <textCn>我已经吃过饭了。</textCn>
+    </sentence>
+    <sentence>
+      <text>I had lunch at half past twelve.</text>
+      <textCn>我在12点半吃的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have a cup of coffee then.</text>
+      <textCn>那么喝杯咖啡吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>I've just had a cup, thank you.</text>
+      <textCn>我刚喝了一杯，谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>I had one after my lunch.</text>
+      <textCn>我是在饭后喝的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Let's go into the living room, Carol.</text>
+      <textCn>我们到客厅里去吧，卡罗尔。</textCn>
+    </sentence>
+    <sentence>
+      <text>We can have our coffee there.</text>
+      <textCn>我们可以在那里喝咖啡。</textCn>
+    </sentence>
+    <sentence>
+      <text>Excuse the mess, Sam.</text>
+      <textCn>屋子很乱，请原谅，萨姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>This room's very untidy.</text>
+      <textCn>房间里乱七八糟。</textCn>
+    </sentence>
+    <sentence>
+      <text>We're packing our suitcases.</text>
+      <textCn>我们正在收拾手提箱。</textCn>
+    </sentence>
+    <sentence>
+      <text>We're going to leave tomorrow.</text>
+      <textCn>明天我们就要走了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Tom and I are going to have a holiday.</text>
+      <textCn>我和汤姆准备去度假。</textCn>
+    </sentence>
+    <sentence>
+      <text>Aren't you lucky!</text>
+      <textCn>你们真幸运！</textCn>
+    </sentence>
+    <sentence>
+      <text>When are you going to have a holiday, Sam?</text>
+      <textCn>萨姆，你准备什么时候去度假？</textCn>
+    </sentence>
+    <sentence>
+      <text>I don't know.</text>
+      <textCn>我不知道。</textCn>
+    </sentence>
+    <sentence>
+      <text>I've already had my holiday this year.</text>
+      <textCn>今年我已经度过假了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Where did you go?</text>
+      <textCn>你去哪儿了？</textCn>
+    </sentence>
+    <sentence>
+      <text>I stayed at home!</text>
+      <textCn>我呆在家里了！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

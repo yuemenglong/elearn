@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>43</number>
+  <title>Hurry up!</title>
+  <titleCn>快点！</titleCn>
+  <words>
+    <word>
+      <text>of course</text>
+      <textCn>当然</textCn>
+    </word>
+    <word>
+      <text>kettle</text>
+      <textCn>水壶</textCn>
+    </word>
+    <word>
+      <text>behind</text>
+      <textCn>后面</textCn>
+    </word>
+    <word>
+      <text>now</text>
+      <textCn>现在</textCn>
+    </word>
+    <word>
+      <text>find</text>
+      <textCn>找到</textCn>
+    </word>
+    <word>
+      <text>boil</text>
+      <textCn>沸腾，开</textCn>
+    </word>
+    <word>
+      <text>teapot</text>
+      <textCn>茶壶</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Can you make the tea, Sam?</text>
+      <textCn>你能泡茶吗，Sam？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, of course I can, Penny.</text>
+      <textCn>当然可以，Penny。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is there any water in this kettle?</text>
+      <textCn>这个水壶里有水吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, there is.</text>
+      <textCn>有水。</textCn>
+    </sentence>
+    <sentence>
+      <text>Where’s the tea?</text>
+      <textCn>茶在哪里？</textCn>
+    </sentence>
+    <sentence>
+      <text>It’s over there, behind the teapot.</text>
+      <textCn>茶在那边，在茶壶后面。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you see it?</text>
+      <textCn>你看到了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I can see the teapot, but I can’t see the tea.</text>
+      <textCn>我能看到茶壶，但看不到茶。</textCn>
+    </sentence>
+    <sentence>
+      <text>There it is! It’s in front of you!</text>
+      <textCn>在那里！就在你前面！</textCn>
+    </sentence>
+    <sentence>
+      <text>Ah yes, I can see it now.</text>
+      <textCn>啊，是的，我现在看到了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Where are the cups?</text>
+      <textCn>杯子在哪里？</textCn>
+    </sentence>
+    <sentence>
+      <text>There are some in the cupboard.</text>
+      <textCn>有一些在柜子里。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you find them?</text>
+      <textCn>你能找到它们吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes. Here they are.</text>
+      <textCn>是的，这里是。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hurry up, Sam! The kettle’s boiling!</text>
+      <textCn>快点，Sam！水壶在烧开！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

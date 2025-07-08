@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>23</number>
+  <title>Which glasses?</title>
+  <titleCn>哪几只杯子？</titleCn>
+  <words>
+    <word>
+      <text>desk</text>
+      <textCn>课桌</textCn>
+    </word>
+    <word>
+      <text>table</text>
+      <textCn>桌子</textCn>
+    </word>
+    <word>
+      <text>plate</text>
+      <textCn>盘子</textCn>
+    </word>
+    <word>
+      <text>cupboard</text>
+      <textCn>食橱</textCn>
+    </word>
+    <word>
+      <text>cigarette</text>
+      <textCn>香烟</textCn>
+    </word>
+    <word>
+      <text>television</text>
+      <textCn>电视机</textCn>
+    </word>
+    <word>
+      <text>floor</text>
+      <textCn>地板</textCn>
+    </word>
+    <word>
+      <text>dressing table</text>
+      <textCn>梳妆台</textCn>
+    </word>
+    <word>
+      <text>magazine</text>
+      <textCn>杂志</textCn>
+    </word>
+    <word>
+      <text>bed</text>
+      <textCn>床</textCn>
+    </word>
+    <word>
+      <text>newspaper</text>
+      <textCn>报纸</textCn>
+    </word>
+    <word>
+      <text>stereo</text>
+      <textCn>立体声音响</textCn>
+    </word>
+    <word>
+      <text>on</text>
+      <textCn>在……之上</textCn>
+    </word>
+    <word>
+      <text>shelf</text>
+      <textCn>架子</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Give me some glasses, please, Jane.</text>
+      <textCn>请拿给我几只玻璃杯，简。</textCn>
+    </sentence>
+    <sentence>
+      <text>Which glasses?</text>
+      <textCn>哪几只？</textCn>
+    </sentence>
+    <sentence>
+      <text>These glasses?</text>
+      <textCn>是这几只吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, not those. The ones on the shelf.</text>
+      <textCn>不，不是那几只。是架子上的那几只。</textCn>
+    </sentence>
+    <sentence>
+      <text>These?</text>
+      <textCn>这几只？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please.</text>
+      <textCn>是的，请拿给我。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here you are.</text>
+      <textCn>给你。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thanks.</text>
+      <textCn>谢谢。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

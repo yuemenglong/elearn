@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>7</number>
+  <title>Are you a teacher?</title>
+  <titleCn>你是教师吗？</titleCn>
+  <words>
+    <word>
+      <text>policeman</text>
+      <textCn>警察</textCn>
+    </word>
+    <word>
+      <text>policewoman</text>
+      <textCn>女警察</textCn>
+    </word>
+    <word>
+      <text>taxi driver</text>
+      <textCn>出租车司机</textCn>
+    </word>
+    <word>
+      <text>air hostess</text>
+      <textCn>空中小姐</textCn>
+    </word>
+    <word>
+      <text>postman</text>
+      <textCn>邮递员</textCn>
+    </word>
+    <word>
+      <text>nurse</text>
+      <textCn>护士</textCn>
+    </word>
+    <word>
+      <text>mechanic</text>
+      <textCn>机械师</textCn>
+    </word>
+    <word>
+      <text>hairdresser</text>
+      <textCn>理发师</textCn>
+    </word>
+    <word>
+      <text>housewife</text>
+      <textCn>家庭妇女</textCn>
+    </word>
+    <word>
+      <text>milkman</text>
+      <textCn>送牛奶的人</textCn>
+    </word>
+    <word>
+      <text>I</text>
+      <textCn>我</textCn>
+    </word>
+    <word>
+      <text>am</text>
+      <textCn>是</textCn>
+    </word>
+    <word>
+      <text>are</text>
+      <textCn>是</textCn>
+    </word>
+    <word>
+      <text>name</text>
+      <textCn>名字</textCn>
+    </word>
+    <word>
+      <text>what</text>
+      <textCn>什么</textCn>
+    </word>
+    <word>
+      <text>nationality</text>
+      <textCn>国籍</textCn>
+    </word>
+    <word>
+      <text>job</text>
+      <textCn>工作</textCn>
+    </word>
+    <word>
+      <text>keyboard</text>
+      <textCn>键盘</textCn>
+    </word>
+    <word>
+      <text>operator</text>
+      <textCn>操作人员</textCn>
+    </word>
+    <word>
+      <text>engineer</text>
+      <textCn>工程师</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>I am a new student.</text>
+      <textCn>我是新学生。</textCn>
+    </sentence>
+    <sentence>
+      <text>My name's Robert.</text>
+      <textCn>我的名字是罗伯特。</textCn>
+    </sentence>
+    <sentence>
+      <text>Nice to meet you.</text>
+      <textCn>很高兴见到你。</textCn>
+    </sentence>
+    <sentence>
+      <text>My name's Sophie.</text>
+      <textCn>我的名字是索菲。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are you French?</text>
+      <textCn>你是法国人吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I am.</text>
+      <textCn>是的，我是。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are you French, too?</text>
+      <textCn>你也是法国人吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, I am not.</text>
+      <textCn>不，我不是。</textCn>
+    </sentence>
+    <sentence>
+      <text>What nationality are you?</text>
+      <textCn>你是哪国人？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm Italian.</text>
+      <textCn>我是意大利人。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are you a teacher?</text>
+      <textCn>你是教师吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, I'm not.</text>
+      <textCn>不，我不是。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's your job?</text>
+      <textCn>你做什么工作？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm a keyboard operator.</text>
+      <textCn>我是电脑录入员。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm an engineer.</text>
+      <textCn>我是工程师。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

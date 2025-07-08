@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>49</number>
+  <title>At the butcher's</title>
+  <titleCn>在肉店</titleCn>
+  <words>
+    <word>
+      <text>butcher</text>
+      <textCn>卖肉的</textCn>
+    </word>
+    <word>
+      <text>meat</text>
+      <textCn>（食用）肉</textCn>
+    </word>
+    <word>
+      <text>beef</text>
+      <textCn>牛肉</textCn>
+    </word>
+    <word>
+      <text>lamb</text>
+      <textCn>羔羊肉</textCn>
+    </word>
+    <word>
+      <text>husband</text>
+      <textCn>丈夫</textCn>
+    </word>
+    <word>
+      <text>steak</text>
+      <textCn>牛排</textCn>
+    </word>
+    <word>
+      <text>mince</text>
+      <textCn>肉馅，绞肉</textCn>
+    </word>
+    <word>
+      <text>chicken</text>
+      <textCn>鸡</textCn>
+    </word>
+    <word>
+      <text>tell</text>
+      <textCn>告诉</textCn>
+    </word>
+    <word>
+      <text>truth</text>
+      <textCn>实情</textCn>
+    </word>
+    <word>
+      <text>either</text>
+      <textCn>也（用于否定句）</textCn>
+    </word>
+    <word>
+      <text>tomato</text>
+      <textCn>西红柿</textCn>
+    </word>
+    <word>
+      <text>potato</text>
+      <textCn>土豆</textCn>
+    </word>
+    <word>
+      <text>cabbage</text>
+      <textCn>卷心菜</textCn>
+    </word>
+    <word>
+      <text>lettuce</text>
+      <textCn>莴苣</textCn>
+    </word>
+    <word>
+      <text>pea</text>
+      <textCn>豌豆</textCn>
+    </word>
+     <word>
+      <text>bean</text>
+      <textCn>豆角</textCn>
+    </word>
+    <word>
+      <text>pear</text>
+      <textCn>梨</textCn>
+    </word>
+    <word>
+      <text>grape</text>
+      <textCn>葡萄</textCn>
+    </word>
+    <word>
+      <text>peach</text>
+      <textCn>桃</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Do you want any meat today, Mrs. Bird?</text>
+      <textCn>您今天要买点肉吗，伯德夫人？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please.</text>
+      <textCn>是的，我买一点。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want beef or lamb?</text>
+      <textCn>您要牛肉还是要羔羊肉？</textCn>
+    </sentence>
+    <sentence>
+      <text>Beef, please.</text>
+      <textCn>请给我牛肉。</textCn>
+    </sentence>
+    <sentence>
+      <text>This lamb's very good.</text>
+      <textCn>这羔羊肉很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>I like lamb, but my husband doesn't.</text>
+      <textCn>我喜欢羔羊肉，可我丈夫不喜欢。</textCn>
+    </sentence>
+    <sentence>
+      <text>What about some steak?</text>
+      <textCn>来点牛排吗？这块很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>This is a nice piece.</text>
+      <textCn>这块很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>Give me that piece, please.</text>
+      <textCn>就请给我那块吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>And a pound of mince, too.</text>
+      <textCn>再来一磅绞肉。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want a chicken, Mrs. Bird?</text>
+      <textCn>您要买只鸡吗，伯德夫人？这些鸡很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>They're very nice.</text>
+      <textCn>这些鸡很好。</textCn>
+    </sentence>
+    <sentence>
+      <text>No, thank you.</text>
+      <textCn>不要了，谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>My husband likes steak, but he doesn't like chicken.</text>
+      <textCn>我丈夫喜欢牛排，但他不喜欢鸡。</textCn>
+    </sentence>
+    <sentence>
+      <text>To tell you the truth, Mrs. Bird, I don't like chicken either!</text>
+      <textCn>说老实话，伯德夫人，我也不喜欢鸡。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

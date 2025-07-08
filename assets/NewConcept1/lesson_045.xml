@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>45</number>
+  <title>The boss's letter</title>
+  <titleCn>老板的信</titleCn>
+  <words>
+    <word>
+      <text>can</text>
+      <textCn>能</textCn>
+    </word>
+    <word>
+      <text>boss</text>
+      <textCn>老板</textCn>
+    </word>
+    <word>
+      <text>minute</text>
+      <textCn>分钟</textCn>
+    </word>
+    <word>
+      <text>ask</text>
+      <textCn>请求，要求</textCn>
+    </word>
+    <word>
+      <text>handwriting</text>
+      <textCn>书写</textCn>
+    </word>
+    <word>
+      <text>terrible</text>
+      <textCn>糟糕的，可怕的</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Can you come here a minute please, Bob?</text>
+      <textCn>你能过来一下吗，Bob？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, sir.</text>
+      <textCn>是的，先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Where’s Pamela?</text>
+      <textCn>Pamela在哪里？</textCn>
+    </sentence>
+    <sentence>
+      <text>She’s next door.</text>
+      <textCn>她在隔壁。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can she type this letter for me?</text>
+      <textCn>她能帮我打这封信吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Ask her please.</text>
+      <textCn>请问她。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you type this letter for the boss please, Pamela?</text>
+      <textCn>Pamela，你能为老板打这封信吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, of course I can.</text>
+      <textCn>当然可以。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here you are.</text>
+      <textCn>给你。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you, Bob.</text>
+      <textCn>谢谢你，Bob。</textCn>
+    </sentence>
+    <sentence>
+      <text>Bob!</text>
+      <textCn>Bob！</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes?</text>
+      <textCn>什么事？</textCn>
+    </sentence>
+    <sentence>
+      <text>I can’t type this letter.</text>
+      <textCn>我打不出来这封信。</textCn>
+    </sentence>
+    <sentence>
+      <text>I can’t read it!</text>
+      <textCn>我看不清楚！</textCn>
+    </sentence>
+    <sentence>
+      <text>The boss’s handwriting is terrible!</text>
+      <textCn>老板的字迹太糟糕了！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

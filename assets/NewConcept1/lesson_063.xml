@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>63</number>
+  <title>Thank you, doctor.</title>
+  <titleCn>谢谢你，医生。</titleCn>
+  <words>
+    <word>
+      <text>better</text>
+      <textCn>形容词 well 的比较级</textCn>
+    </word>
+    <word>
+      <text>certainly</text>
+      <textCn>当然</textCn>
+    </word>
+    <word>
+      <text>get up</text>
+      <textCn>起床</textCn>
+    </word>
+    <word>
+      <text>yet</text>
+      <textCn>还，仍</textCn>
+    </word>
+    <word>
+      <text>rich</text>
+      <textCn>油腻的</textCn>
+    </word>
+    <word>
+      <text>food</text>
+      <textCn>食物</textCn>
+    </word>
+    <word>
+      <text>remain</text>
+      <textCn>保持，继续</textCn>
+    </word>
+    <word>
+      <text>play</text>
+      <textCn>玩</textCn>
+    </word>
+    <word>
+      <text>match</text>
+      <textCn>火柴</textCn>
+    </word>
+    <word>
+      <text>talk</text>
+      <textCn>谈话</textCn>
+    </word>
+    <word>
+      <text>library</text>
+      <textCn>图书馆</textCn>
+    </word>
+    <word>
+      <text>drive</text>
+      <textCn>开车</textCn>
+    </word>
+    <word>
+      <text>so</text>
+      <textCn>如此地</textCn>
+    </word>
+    <word>
+      <text>quickly</text>
+      <textCn>快地</textCn>
+    </word>
+    <word>
+      <text>lean out of</text>
+      <textCn>身体探出</textCn>
+    </word>
+    <word>
+      <text>break</text>
+      <textCn>打破</textCn>
+    </word>
+    <word>
+      <text>noise</text>
+      <textCn>喧闹声</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>How's Jimmy today?</text>
+      <textCn>吉米今天怎么样了？</textCn>
+    </sentence>
+    <sentence>
+      <text>Better.</text>
+      <textCn>他好些了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you, doctor.</text>
+      <textCn>谢谢您，医生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can I see him please, Mrs. Williams?</text>
+      <textCn>我可以看看他吗，威廉斯夫人？</textCn>
+    </sentence>
+    <sentence>
+      <text>Certainly, doctor.</text>
+      <textCn>当然可以，医生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Come upstairs.</text>
+      <textCn>上楼吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>You look very well, Jimmy.</text>
+      <textCn>你看上去很好，吉米。</textCn>
+    </sentence>
+    <sentence>
+      <text>You are better now, but you mustn't get up yet.</text>
+      <textCn>你现在好些了，但你还不应该起床。</textCn>
+    </sentence>
+    <sentence>
+      <text>You must stay in bed for another two days.</text>
+      <textCn>你必须再卧床两天。</textCn>
+    </sentence>
+    <sentence>
+      <text>The boy mustn't go to school yet, Mrs. Williams.</text>
+      <textCn>这孩子还不能去上学，威廉斯夫人，而且不能吃油腻的食物。</textCn>
+    </sentence>
+    <sentence>
+      <text>And he mustn't eat rich food.</text>
+      <textCn>他不能吃油腻的食物。</textCn>
+    </sentence>
+    <sentence>
+      <text>Does he have a temperature, doctor?</text>
+      <textCn>他还发烧吗，医生？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, he doesn't.</text>
+      <textCn>不，他不发烧了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Must he stay in bed?</text>
+      <textCn>他还必须卧床吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes.</text>
+      <textCn>是的。</textCn>
+    </sentence>
+    <sentence>
+      <text>He must remain in bed for another two days.</text>
+      <textCn>他必须卧床两天。</textCn>
+    </sentence>
+    <sentence>
+      <text>He can get up for about two hours each day, but you must keep the room warm.</text>
+      <textCn>他每天可以起来两个小时，但您必须保持房间温暖。</textCn>
+    </sentence>
+    <sentence>
+      <text>Where's Mr. Williams this evening?</text>
+      <textCn>威廉斯先生今晚去哪儿了？</textCn>
+    </sentence>
+    <sentence>
+      <text>He's in bed, doctor.</text>
+      <textCn>他在床上呢，医生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you see him please?</text>
+      <textCn>您能看看他吗？</textCn>
+    </sentence>
+     <sentence>
+      <text>He has a bad cold, too!</text>
+      <textCn>他也得了重感冒！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

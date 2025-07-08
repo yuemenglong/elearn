@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>25</number>
+  <title>Mrs. Smith's kitchen</title>
+  <titleCn>史密斯太太的厨房</titleCn>
+  <words>
+    <word>
+      <text>where</text>
+      <textCn>在哪儿</textCn>
+    </word>
+    <word>
+      <text>in</text>
+      <textCn>在……里</textCn>
+    </word>
+    <word>
+      <text>Mrs.</text>
+      <textCn>夫人</textCn>
+    </word>
+    <word>
+      <text>kitchen</text>
+      <textCn>厨房</textCn>
+    </word>
+    <word>
+      <text>refrigerator</text>
+      <textCn>电冰箱</textCn>
+    </word>
+    <word>
+      <text>right</text>
+      <textCn>右边</textCn>
+    </word>
+    <word>
+      <text>electric</text>
+      <textCn>带电的、可通电的</textCn>
+    </word>
+    <word>
+      <text>left</text>
+      <textCn>左边</textCn>
+    </word>
+    <word>
+      <text>cooker</text>
+      <textCn>炉子、炊具</textCn>
+    </word>
+    <word>
+      <text>middle</text>
+      <textCn>中间</textCn>
+    </word>
+    <word>
+      <text>of</text>
+      <textCn>（属于）……的</textCn>
+    </word>
+    <word>
+      <text>room</text>
+      <textCn>房间</textCn>
+    </word>
+    <word>
+      <text>cup</text>
+      <textCn>杯子</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Mrs. Smith's kitchen is small.</text>
+      <textCn>史密斯太太的厨房很小。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a refrigerator in the kitchen.</text>
+      <textCn>厨房里有个电冰箱。</textCn>
+    </sentence>
+    <sentence>
+      <text>The refrigerator is white.</text>
+      <textCn>冰箱是白色的。</textCn>
+    </sentence>
+    <sentence>
+      <text>It is on the right.</text>
+      <textCn>它位于右侧。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is an electric cooker in the kitchen.</text>
+      <textCn>厨房里有一个电灶。</textCn>
+    </sentence>
+    <sentence>
+      <text>The cooker is blue.</text>
+      <textCn>电灶是蓝色的。</textCn>
+    </sentence>
+    <sentence>
+      <text>It is on the left.</text>
+      <textCn>它位于左侧。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a table in the middle of the room.</text>
+      <textCn>房间中央有张桌子。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a bottle on the table.</text>
+      <textCn>桌上有个瓶子。</textCn>
+    </sentence>
+    <sentence>
+      <text>The bottle is empty.</text>
+      <textCn>瓶子是空的。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a cup on the table, too.</text>
+      <textCn>桌上还有个杯子。</textCn>
+    </sentence>
+    <sentence>
+      <text>The cup is clean.</text>
+      <textCn>杯子很干净。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

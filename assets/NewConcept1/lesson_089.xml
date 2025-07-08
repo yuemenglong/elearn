@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>89</number>
+  <title>For sale</title>
+  <titleCn>待售</titleCn>
+  <words>
+    <word>
+      <text>believe</text>
+      <textCn>相信，认为</textCn>
+    </word>
+    <word>
+      <text>may</text>
+      <textCn>可以</textCn>
+    </word>
+    <word>
+      <text>how long</text>
+      <textCn>多长</textCn>
+    </word>
+    <word>
+      <text>since</text>
+      <textCn>自从</textCn>
+    </word>
+    <word>
+      <text>why</text>
+      <textCn>为什么</textCn>
+    </word>
+    <word>
+      <text>sell</text>
+      <textCn>卖，出售</textCn>
+    </word>
+    <word>
+      <text>because</text>
+      <textCn>因为</textCn>
+    </word>
+    <word>
+      <text>retire</text>
+      <textCn>退休</textCn>
+    </word>
+    <word>
+      <text>cost</text>
+      <textCn>花费</textCn>
+    </word>
+    <word>
+      <text>pound</text>
+      <textCn>英镑(£)</textCn>
+    </word>
+    <word>
+      <text>worth</text>
+      <textCn>值……钱</textCn>
+    </word>
+    <word>
+      <text>penny</text>
+      <textCn>便士</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Good afternoon.</text>
+      <textCn>下午好。</textCn>
+    </sentence>
+    <sentence>
+      <text>I believe that this house is for sale.</text>
+      <textCn>我想这房子是要出售的吧！</textCn>
+    </sentence>
+    <sentence>
+      <text>That's right.</text>
+      <textCn>是的。</textCn>
+    </sentence>
+    <sentence>
+      <text>May I have a look at it, please?</text>
+      <textCn>我可以看一看吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, of course. Come in.</text>
+      <textCn>可以，当然可以。请进。</textCn>
+    </sentence>
+    <sentence>
+      <text>How long have you lived here?</text>
+      <textCn>您在这里住了多长时间？</textCn>
+    </sentence>
+    <sentence>
+      <text>I've lived here for twenty years.</text>
+      <textCn>我在这里已经住了20年了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Twenty years! That's a long time.</text>
+      <textCn>20年！这个时间可不短。</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I've been here since 1976.</text>
+      <textCn>是啊，从1976年起我就住在这里。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then why do you want to sell it?</text>
+      <textCn>那么，您为什么要卖掉呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>Because I've just retired. I want to buy a small house in the country.</text>
+      <textCn>因为我刚退休。我想在乡下买个小房子。</textCn>
+    </sentence>
+    <sentence>
+      <text>How much does this house cost?</text>
+      <textCn>这座房子要多少钱？</textCn>
+    </sentence>
+    <sentence>
+      <text>£68,500.</text>
+      <textCn>68,500英镑。</textCn>
+    </sentence>
+    <sentence>
+      <text>That's a lot of money!</text>
+      <textCn>那可真是一大笔钱啊！</textCn>
+    </sentence>
+    <sentence>
+      <text>It's worth every penny of it.</text>
+      <textCn>它确确实实值这么多钱。</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, I like the house, but I can't decide yet. My wife must see it first.</text>
+      <textCn>嗯，我喜欢这房子，但我还不能决定。我妻子必须先来看一看。</textCn>
+    </sentence>
+    <sentence>
+      <text>Women always have the last word.</text>
+      <textCn>女人总是最后说了算的。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

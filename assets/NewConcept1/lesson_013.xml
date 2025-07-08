@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>13</number>
+  <title>A new dress</title>
+  <titleCn>一件新连衣裙</titleCn>
+  <words>
+    <word>
+      <text>case</text>
+      <textCn>箱子</textCn>
+    </word>
+    <word>
+      <text>carpet</text>
+      <textCn>地毯</textCn>
+    </word>
+    <word>
+      <text>dog</text>
+      <textCn>狗</textCn>
+    </word>
+    <word>
+      <text>colour</text>
+      <textCn>颜色</textCn>
+    </word>
+    <word>
+      <text>green</text>
+      <textCn>绿色的</textCn>
+    </word>
+    <word>
+      <text>come</text>
+      <textCn>来</textCn>
+    </word>
+    <word>
+      <text>upstairs</text>
+      <textCn>楼上</textCn>
+    </word>
+    <word>
+      <text>smart</text>
+      <textCn>时髦的，巧妙的</textCn>
+    </word>
+    <word>
+      <text>hat</text>
+      <textCn>帽子</textCn>
+    </word>
+    <word>
+      <text>same</text>
+      <textCn>相同的</textCn>
+    </word>
+    <word>
+      <text>lovely</text>
+      <textCn>可爱的，秀丽的</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>What colour's your new dress?</text>
+      <textCn>你的新连衣裙是什么颜色的？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's green.</text>
+      <textCn>是绿色的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Come upstairs and see it.</text>
+      <textCn>上楼来看。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you.</text>
+      <textCn>谢谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Look! Here it is!</text>
+      <textCn>看！在这里！</textCn>
+    </sentence>
+    <sentence>
+      <text>That's a nice dress. It's very smart.</text>
+      <textCn>那是一件漂亮的连衣裙。非常时髦。</textCn>
+    </sentence>
+    <sentence>
+      <text>My hat's new, too.</text>
+      <textCn>我的帽子也是新的。</textCn>
+    </sentence>
+    <sentence>
+      <text>What colour is it?</text>
+      <textCn>它是什么颜色的？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's the same colour. It's green, too.</text>
+      <textCn>是一样的颜色。也是绿色的。</textCn>
+    </sentence>
+    <sentence>
+      <text>That is a lovely hat!</text>
+      <textCn>那真是一顶可爱的帽子！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

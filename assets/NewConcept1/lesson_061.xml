@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>61</number>
+  <title>A bad cold</title>
+  <titleCn>重感冒</titleCn>
+  <words>
+    <word>
+      <text>feel</text>
+      <textCn>感觉</textCn>
+    </word>
+    <word>
+      <text>look</text>
+      <textCn>看（起来）</textCn>
+    </word>
+    <word>
+      <text>must</text>
+      <textCn>必须</textCn>
+    </word>
+    <word>
+      <text>call</text>
+      <textCn>叫，请</textCn>
+    </word>
+    <word>
+      <text>doctor</text>
+      <textCn>医生</textCn>
+    </word>
+    <word>
+      <text>telephone</text>
+      <textCn>电话</textCn>
+    </word>
+    <word>
+      <text>remember</text>
+      <textCn>记得，记住</textCn>
+    </word>
+    <word>
+      <text>mouth</text>
+      <textCn>嘴</textCn>
+    </word>
+    <word>
+      <text>tongue</text>
+      <textCn>舌头</textCn>
+    </word>
+    <word>
+      <text>bad</text>
+      <textCn>坏的，严重的</textCn>
+    </word>
+     <word>
+      <text>cold</text>
+      <textCn>感冒</textCn>
+    </word>
+    <word>
+      <text>news</text>
+      <textCn>消息</textCn>
+    </word>
+        <word>
+      <text>headache</text>
+      <textCn>头痛</textCn>
+    </word>
+    <word>
+      <text>aspirin</text>
+      <textCn>阿斯匹林</textCn>
+    </word>
+    <word>
+      <text>earache</text>
+      <textCn>耳痛</textCn>
+    </word>
+    <word>
+      <text>toothache</text>
+      <textCn>牙痛</textCn>
+    </word>
+    <word>
+      <text>dentist</text>
+      <textCn>牙医</textCn>
+    </word>
+    <word>
+      <text>stomach ache</text>
+      <textCn>胃痛</textCn>
+    </word>
+        <word>
+      <text>medicine</text>
+      <textCn>药</textCn>
+    </word>
+    <word>
+      <text>temperature</text>
+      <textCn>温度</textCn>
+    </word>
+    <word>
+      <text>flu</text>
+      <textCn>流行性感冒</textCn>
+    </word>
+    <word>
+      <text>measles</text>
+      <textCn>麻疹</textCn>
+    </word>
+    <word>
+      <text>mumps</text>
+      <textCn>腮腺炎</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Where's Jimmy?</text>
+      <textCn>吉米在哪儿？</textCn>
+    </sentence>
+    <sentence>
+      <text>He's in bed.</text>
+      <textCn>他躺在床上。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the matter with him?</text>
+      <textCn>他怎么啦？</textCn>
+    </sentence>
+    <sentence>
+      <text>He feels ill.</text>
+      <textCn>他觉得不舒服。</textCn>
+    </sentence>
+    <sentence>
+      <text>He looks ill.</text>
+      <textCn>他看上去是病了。</textCn>
+    </sentence>
+    <sentence>
+      <text>We must call the doctor.</text>
+      <textCn>我们得去请医生。</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, we must.</text>
+      <textCn>是的，一定得请。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you remember the doctor's telephone number?</text>
+      <textCn>你还记得医生的电话号码吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes.</text>
+      <textCn>记得。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's 09754.</text>
+      <textCn>是 09754。</textCn>
+    </sentence>
+    <sentence>
+      <text>Open your mouth, Jimmy.</text>
+      <textCn>把嘴张开，吉米。</textCn>
+    </sentence>
+    <sentence>
+      <text>Show me your tongue.</text>
+      <textCn>让我看看你的舌头。</textCn>
+    </sentence>
+    <sentence>
+      <text>Say, 'Ah'.</text>
+      <textCn>说“啊——”</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the matter with him, doctor?</text>
+      <textCn>他得了什么病，医生？</textCn>
+    </sentence>
+    <sentence>
+      <text>He has a bad cold, Mr. Williams, so he must stay in bed for a week.</text>
+      <textCn>他得了重感冒，威廉斯先生，因此他必须卧床一周。</textCn>
+    </sentence>
+    <sentence>
+      <text>That's good news for Jimmy.</text>
+      <textCn>对吉米来说，这可是个好消息。</textCn>
+    </sentence>
+    <sentence>
+      <text>Good news?</text>
+      <textCn>好消息？</textCn>
+    </sentence>
+    <sentence>
+      <text>Why?</text>
+      <textCn>为什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>Because he doesn't like school!</text>
+      <textCn>因为他不喜欢上学。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

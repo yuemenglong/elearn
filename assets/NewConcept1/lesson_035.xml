@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>35</number>
+  <title>Our village</title>
+  <titleCn>我们的村庄</titleCn>
+  <words>
+    <word>
+      <text>photograph</text>
+      <textCn>照片</textCn>
+    </word>
+    <word>
+      <text>village</text>
+      <textCn>村庄</textCn>
+    </word>
+    <word>
+      <text>valley</text>
+      <textCn>山谷</textCn>
+    </word>
+    <word>
+      <text>between</text>
+      <textCn>在……之间</textCn>
+    </word>
+    <word>
+      <text>hill</text>
+      <textCn>小山</textCn>
+    </word>
+    <word>
+      <text>another</text>
+      <textCn>另一个</textCn>
+    </word>
+    <word>
+      <text>wife</text>
+      <textCn>妻子</textCn>
+    </word>
+    <word>
+      <text>along</text>
+      <textCn>沿着</textCn>
+    </word>
+    <word>
+      <text>bank</text>
+      <textCn>河岸</textCn>
+    </word>
+    <word>
+      <text>water</text>
+      <textCn>水</textCn>
+    </word>
+    <word>
+      <text>swim</text>
+      <textCn>游泳</textCn>
+    </word>
+    <word>
+      <text>building</text>
+      <textCn>大楼</textCn>
+    </word>
+    <word>
+      <text>park</text>
+      <textCn>公园</textCn>
+    </word>
+    <word>
+      <text>into</text>
+      <textCn>进入</textCn>
+    </word>
+    <word>
+      <text>beside</text>
+      <textCn>在……旁</textCn>
+    </word>
+    <word>
+      <text>off</text>
+      <textCn>离开</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>This is a photograph of our village.</text>
+      <textCn>这是我们村庄的一张照片。</textCn>
+    </sentence>
+    <sentence>
+      <text>Our village is in a valley.</text>
+      <textCn>我们的村庄坐落在一个山谷之中。</textCn>
+    </sentence>
+    <sentence>
+      <text>It is between two hills.</text>
+      <textCn>它位于两座小山之间。</textCn>
+    </sentence>
+    <sentence>
+      <text>The village is on a river.</text>
+      <textCn>它靠近一条小河。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here is another photograph of the village.</text>
+      <textCn>这是我们村庄的另一张照片。</textCn>
+    </sentence>
+    <sentence>
+      <text>My wife and I are walking along the banks of the river.</text>
+      <textCn>我和妻子正沿河岸走着。</textCn>
+    </sentence>
+    <sentence>
+      <text>We are on the left.</text>
+      <textCn>我们在河的左侧。</textCn>
+    </sentence>
+    <sentence>
+      <text>There is a boy in the water.</text>
+      <textCn>河里面有个男孩。</textCn>
+    </sentence>
+    <sentence>
+      <text>He is swimming across the river.</text>
+      <textCn>他正横渡小河。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here is another photograph.</text>
+      <textCn>这是另一张照片。</textCn>
+    </sentence>
+    <sentence>
+      <text>This is the school building.</text>
+      <textCn>这是学校大楼。</textCn>
+    </sentence>
+    <sentence>
+      <text>It is beside a park.</text>
+      <textCn>它位于公园的旁边。</textCn>
+    </sentence>
+    <sentence>
+      <text>The park is on the right.</text>
+      <textCn>公园在右面。</textCn>
+    </sentence>
+    <sentence>
+      <text>Some children are coming out of the building.</text>
+      <textCn>一些孩子正从楼里出来。</textCn>
+    </sentence>
+    <sentence>
+      <text>Some of them are going into the park.</text>
+      <textCn>他们中有几个正走进公园。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

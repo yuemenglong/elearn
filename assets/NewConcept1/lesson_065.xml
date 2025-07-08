@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>65</number>
+  <title>Not a baby</title>
+  <titleCn>不是一个孩子</titleCn>
+  <words>
+    <word>
+      <text>Dad</text>
+      <textCn>爸（儿语）</textCn>
+    </word>
+    <word>
+      <text>key</text>
+      <textCn>钥匙</textCn>
+    </word>
+    <word>
+      <text>baby</text>
+      <textCn>婴儿</textCn>
+    </word>
+    <word>
+      <text>hear</text>
+      <textCn>听见</textCn>
+    </word>
+    <word>
+      <text>enjoy</text>
+      <textCn>玩得快活</textCn>
+    </word>
+    <word>
+      <text>yourself</text>
+      <textCn>你自己</textCn>
+    </word>
+    <word>
+      <text>ourselves</text>
+      <textCn>我们自己</textCn>
+    </word>
+    <word>
+      <text>mum</text>
+      <textCn>妈妈</textCn>
+    </word>
+    <word>
+      <text>myself</text>
+      <textCn>我自己</textCn>
+    </word>
+    <word>
+      <text>themselves</text>
+      <textCn>他们自己</textCn>
+    </word>
+    <word>
+      <text>himself</text>
+      <textCn>他自己</textCn>
+    </word>
+    <word>
+      <text>herself</text>
+      <textCn>她自己</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>What are you going to do this evening, Jill?</text>
+      <textCn>今晚你打算干什么，吉尔？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm going to meet some friends, Dad.</text>
+      <textCn>我打算去看几个朋友，爸爸。</textCn>
+    </sentence>
+    <sentence>
+      <text>You mustn't come home late.</text>
+      <textCn>你不准回家太晚。</textCn>
+    </sentence>
+    <sentence>
+      <text>You must be home at half past ten.</text>
+      <textCn>你必须在10点半到家。</textCn>
+    </sentence>
+    <sentence>
+      <text>I can't get home so early, Dad!</text>
+      <textCn>这么早我到不了家，爸爸！</textCn>
+    </sentence>
+    <sentence>
+      <text>Can I have the key to the front door, please?</text>
+      <textCn>我能带上前门的钥匙吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, you can't.</text>
+      <textCn>不行，你不能带。</textCn>
+    </sentence>
+    <sentence>
+      <text>Jill's eighteen years old, Tom.</text>
+      <textCn>吉尔都18岁了，汤姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>She's not a baby.</text>
+      <textCn>她不是小孩子了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Give her the key.</text>
+      <textCn>把钥匙给她吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>She always comes home early.</text>
+      <textCn>她总是早早回家的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Oh, all right!</text>
+      <textCn>那么，好吧！</textCn>
+    </sentence>
+    <sentence>
+      <text>Here you are.</text>
+      <textCn>拿去。</textCn>
+    </sentence>
+    <sentence>
+      <text>But you mustn't come home after a quarter past eleven.</text>
+      <textCn>但你不能超过11点1刻回家。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you hear?</text>
+      <textCn>听见了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, Dad.</text>
+      <textCn>听见了，爸爸。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thanks, Mum.</text>
+      <textCn>谢谢，妈妈。</textCn>
+    </sentence>
+    <sentence>
+      <text>That's all right.</text>
+      <textCn>不用谢。</textCn>
+    </sentence>
+    <sentence>
+      <text>Goodbye.</text>
+      <textCn>再见。</textCn>
+    </sentence>
+    <sentence>
+      <text>Enjoy yourself!</text>
+      <textCn>好好玩吧！</textCn>
+    </sentence>
+    <sentence>
+      <text>We always enjoy ourselves, Mum.</text>
+      <textCn>我们总是玩得很开心的，妈妈。</textCn>
+    </sentence>
+    <sentence>
+      <text>Bye-bye.</text>
+      <textCn>再见。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>19</number>
+  <title>Tired and thirsty</title>
+  <titleCn>又累又渴</titleCn>
+  <words>
+    <word>
+      <text>big</text>
+      <textCn>大的</textCn>
+    </word>
+    <word>
+      <text>small</text>
+      <textCn>小的</textCn>
+    </word>
+    <word>
+      <text>open</text>
+      <textCn>打开的</textCn>
+    </word>
+    <word>
+      <text>shut</text>
+      <textCn>关着的</textCn>
+    </word>
+    <word>
+      <text>light</text>
+      <textCn>轻的</textCn>
+    </word>
+    <word>
+      <text>heavy</text>
+      <textCn>重的</textCn>
+    </word>
+    <word>
+      <text>long</text>
+      <textCn>长的</textCn>
+    </word>
+    <word>
+      <text>shoe</text>
+      <textCn>鞋子</textCn>
+    </word>
+    <word>
+      <text>grandfather</text>
+      <textCn>祖父，外祖父</textCn>
+    </word>
+    <word>
+      <text>grandmother</text>
+      <textCn>祖母，外祖母</textCn>
+    </word>
+    <word>
+      <text>matter</text>
+      <textCn>事情</textCn>
+    </word>
+    <word>
+      <text>children</text>
+      <textCn>孩子们</textCn>
+    </word>
+    <word>
+      <text>tired</text>
+      <textCn>累的</textCn>
+    </word>
+    <word>
+      <text>boy</text>
+      <textCn>男孩</textCn>
+    </word>
+    <word>
+      <text>thirsty</text>
+      <textCn>渴的</textCn>
+    </word>
+    <word>
+      <text>Mum</text>
+      <textCn>妈妈</textCn>
+    </word>
+    <word>
+      <text>sit down</text>
+      <textCn>坐下</textCn>
+    </word>
+    <word>
+      <text>right</text>
+      <textCn>好，可以</textCn>
+    </word>
+    <word>
+      <text>ice cream</text>
+      <textCn>冰淇淋</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>What's the matter, children?</text>
+      <textCn>怎么啦，孩子们？</textCn>
+    </sentence>
+    <sentence>
+      <text>We're tired ...</text>
+      <textCn>我们累了……</textCn>
+    </sentence>
+    <sentence>
+      <text>... and thirsty, Mum.</text>
+      <textCn>……口也渴，妈妈。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sit down here.</text>
+      <textCn>坐在这儿吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are you all right now?</text>
+      <textCn>你们现在好了些了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, we aren't.</text>
+      <textCn>不，还没有。</textCn>
+    </sentence>
+    <sentence>
+      <text>Look! There's an ice cream man.</text>
+      <textCn>瞧！有个卖冰淇淋的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Two ice creams please.</text>
+      <textCn>请拿两份冰淇淋。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here you are, children.</text>
+      <textCn>拿着，孩子们。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thanks, Mum.</text>
+      <textCn>谢谢，妈妈。</textCn>
+    </sentence>
+    <sentence>
+      <text>These ice creams are nice.</text>
+      <textCn>这些冰淇淋真好吃。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are you all right now?</text>
+      <textCn>你们现在好了吧？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, we are, thank you!</text>
+      <textCn>是的，现在好了，谢谢您！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

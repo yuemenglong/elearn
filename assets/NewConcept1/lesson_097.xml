@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>97</number>
+  <title>A small blue case</title>
+  <titleCn>一只蓝色的小箱子</titleCn>
+  <words>
+    <word>
+      <text>leave</text>
+      <textCn>遗留</textCn>
+    </word>
+    <word>
+      <text>describe</text>
+      <textCn>描述</textCn>
+    </word>
+    <word>
+      <text>zip</text>
+      <textCn>拉链</textCn>
+    </word>
+    <word>
+      <text>label</text>
+      <textCn>标签</textCn>
+    </word>
+    <word>
+      <text>handle</text>
+      <textCn>提手，把手</textCn>
+    </word>
+    <word>
+      <text>address</text>
+      <textCn>地址</textCn>
+    </word>
+    <word>
+      <text>pence</text>
+      <textCn>penny的复数形式</textCn>
+    </word>
+    <word>
+      <text>belong</text>
+      <textCn>属于</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>I left a suitcase on the train to London the other day.</text>
+      <textCn>几天前我把一只手提箱忘在开往伦敦的火车上了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you describe it, sir?</text>
+      <textCn>先生，您能描述一下它是什么样子的吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>It's a small blue case and it's got a zip. There's a label on the handle with my name and address on it.</text>
+      <textCn>是只蓝色的小箱子，上面有拉链，箱把上有一标签，上面写着我的姓名和住址。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is this case yours?</text>
+      <textCn>这箱子是您的吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, that's not mine.</text>
+      <textCn>不，那不是我的。</textCn>
+    </sentence>
+    <sentence>
+      <text>What about this one? This one's got a label.</text>
+      <textCn>这只是不是？这只箱子有标签。</textCn>
+    </sentence>
+    <sentence>
+      <text>Let me see it.</text>
+      <textCn>让我看看。</textCn>
+    </sentence>
+    <sentence>
+      <text>What's your name and address?</text>
+      <textCn>您的姓名和地址？</textCn>
+    </sentence>
+    <sentence>
+      <text>David Hall, 83, Bridge Street.</text>
+      <textCn>大卫·霍尔，大桥街83号。</textCn>
+    </sentence>
+    <sentence>
+      <text>That's right. D. N. Hall, 83, Bridge Street.</text>
+      <textCn>那就对了。D. N. 霍尔，大桥街83号。</textCn>
+    </sentence>
+    <sentence>
+      <text>Three pounds fifty pence, please.</text>
+      <textCn>请付3英镑50便士。</textCn>
+    </sentence>
+    <sentence>
+      <text>Here you are.</text>
+      <textCn>给您。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you.</text>
+      <textCn>谢谢您。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hey!</text>
+      <textCn>嘿！</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the matter?</text>
+      <textCn>怎么回事？</textCn>
+    </sentence>
+    <sentence>
+      <text>This case doesn't belong to me! You've given me the wrong case!</text>
+      <textCn>这箱子不是我的！您给错了！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

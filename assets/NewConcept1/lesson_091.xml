@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>91</number>
+  <title>Poor Ian!</title>
+  <titleCn>可怜的伊恩！</titleCn>
+  <words>
+    <word>
+      <text>still</text>
+      <textCn>还，仍旧</textCn>
+    </word>
+    <word>
+      <text>move</text>
+      <textCn>搬家</textCn>
+    </word>
+    <word>
+      <text>miss</text>
+      <textCn>想念，思念</textCn>
+    </word>
+    <word>
+      <text>neighbour</text>
+      <textCn>邻居</textCn>
+    </word>
+    <word>
+      <text>person</text>
+      <textCn>人</textCn>
+    </word>
+    <word>
+      <text>people</text>
+      <textCn>人们</textCn>
+    </word>
+    <word>
+      <text>poor</text>
+      <textCn>可怜的</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Has Ian sold his house yet?</text>
+      <textCn>伊恩已把他的房子卖掉了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, he has. He sold it last week.</text>
+      <textCn>是的，卖掉了。他上星期卖掉的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Has he moved to his new house yet?</text>
+      <textCn>他已经迁进新房子了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, not yet. He's still here. He's going to move tomorrow.</text>
+      <textCn>还没有。他仍在这里。他打算明天搬家。</textCn>
+    </sentence>
+    <sentence>
+      <text>When? Tomorrow morning?</text>
+      <textCn>什么时候？明天上午吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No. Tomorrow afternoon.</text>
+      <textCn>不，明天下午。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'll miss him. He has always been a good neighbour.</text>
+      <textCn>我会想念他的。他一直是个好邻居。</textCn>
+    </sentence>
+    <sentence>
+      <text>He's a very nice person. We'll all miss him.</text>
+      <textCn>他是个非常好的人，我们大家都会想念他的。</textCn>
+    </sentence>
+    <sentence>
+      <text>When will the new people move into this house?</text>
+      <textCn>新住户什么时候搬进这所房子？</textCn>
+    </sentence>
+    <sentence>
+      <text>I think that they'll move in the day after tomorrow.</text>
+      <textCn>我想他们后天搬进来吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>Will you see Ian today, Jenny?</text>
+      <textCn>珍妮，您今天会见到伊恩吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I will.</text>
+      <textCn>是的，我会见到他。</textCn>
+    </sentence>
+    <sentence>
+      <text>Please give him my regards.</text>
+      <textCn>请代我问候他。</textCn>
+    </sentence>
+    <sentence>
+      <text>Poor Ian! He didn't want to leave this house.</text>
+      <textCn>可怜的伊恩！他本不想离开这房子。</textCn>
+    </sentence>
+    <sentence>
+      <text>No, he didn't want to leave, but his wife did!</text>
+      <textCn>是啊，他是不想离开，可是他妻子要离开。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

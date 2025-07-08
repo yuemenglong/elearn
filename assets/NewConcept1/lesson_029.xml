@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>29</number>
+  <title>Come in, Amy.</title>
+  <titleCn>进来，艾米。</titleCn>
+  <words>
+    <word>
+      <text>shut</text>
+      <textCn>关门</textCn>
+    </word>
+    <word>
+      <text>bedroom</text>
+      <textCn>卧室</textCn>
+    </word>
+    <word>
+      <text>untidy</text>
+      <textCn>乱，不整齐</textCn>
+    </word>
+    <word>
+      <text>must</text>
+      <textCn>必须，应该</textCn>
+    </word>
+    <word>
+      <text>open</text>
+      <textCn>打开</textCn>
+    </word>
+    <word>
+      <text>air</text>
+      <textCn>使……通风，换换空气</textCn>
+    </word>
+    <word>
+      <text>put</text>
+      <textCn>放置</textCn>
+    </word>
+    <word>
+      <text>clothes</text>
+      <textCn>衣服</textCn>
+    </word>
+    <word>
+      <text>wardrobe</text>
+      <textCn>大衣柜</textCn>
+    </word>
+    <word>
+      <text>dust</text>
+      <textCn>掸掉灰尘</textCn>
+    </word>
+    <word>
+      <text>sweep</text>
+      <textCn>扫</textCn>
+    </word>
+    <word>
+      <text>empty</text>
+      <textCn>倒空, 使……变空</textCn>
+    </word>
+    <word>
+      <text>read</text>
+      <textCn>读</textCn>
+    </word>
+    <word>
+      <text>sharpen</text>
+      <textCn>削尖, 使锋利</textCn>
+    </word>
+    <word>
+      <text>put on</text>
+      <textCn>穿上</textCn>
+    </word>
+    <word>
+      <text>take off</text>
+      <textCn>脱掉</textCn>
+    </word>
+    <word>
+      <text>turn on</text>
+      <textCn>开(电灯)</textCn>
+    </word>
+    <word>
+      <text>turn off</text>
+      <textCn>关(电灯)</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Come in, Amy.</text>
+      <textCn>进来，艾米。</textCn>
+    </sentence>
+    <sentence>
+      <text>Shut the door, please.</text>
+      <textCn>请把门关上。</textCn>
+    </sentence>
+    <sentence>
+      <text>This bedroom's very untidy.</text>
+      <textCn>这卧室太不整齐了。</textCn>
+    </sentence>
+    <sentence>
+      <text>What must I do?</text>
+      <textCn>我应该做些什么呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>Open the window and air the room.</text>
+      <textCn>打开窗子，给房间通通风。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then put these clothes in the wardrobe.</text>
+      <textCn>然后把这些衣服放进衣橱里去。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then make the bed.</text>
+      <textCn>再把床整理一下。</textCn>
+    </sentence>
+    <sentence>
+      <text>Dust the dressing table.</text>
+      <textCn>掸掉梳妆台上的灰尘。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then sweep the floor.</text>
+      <textCn>然后扫扫地。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

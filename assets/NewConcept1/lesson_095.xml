@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>95</number>
+  <title>Tickets, please.</title>
+  <titleCn>请把车票拿出来。</titleCn>
+  <words>
+    <word>
+      <text>return</text>
+      <textCn>往返</textCn>
+    </word>
+    <word>
+      <text>train</text>
+      <textCn>火车</textCn>
+    </word>
+    <word>
+      <text>platform</text>
+      <textCn>站台</textCn>
+    </word>
+    <word>
+      <text>plenty</text>
+      <textCn>大量</textCn>
+    </word>
+    <word>
+      <text>bar</text>
+      <textCn>酒吧</textCn>
+    </word>
+    <word>
+      <text>station</text>
+      <textCn>车站，火车站</textCn>
+    </word>
+    <word>
+      <text>porter</text>
+      <textCn>收票员</textCn>
+    </word>
+    <word>
+      <text>catch</text>
+      <textCn>赶上</textCn>
+    </word>
+    <word>
+      <text>miss</text>
+      <textCn>错过</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Two return tickets to London, please.</text>
+      <textCn>买两张到伦敦的往返票。</textCn>
+    </sentence>
+    <sentence>
+      <text>What time will the next train leave?</text>
+      <textCn>下一班火车什么时候开？</textCn>
+    </sentence>
+    <sentence>
+      <text>At nineteen minutes past eight.</text>
+      <textCn>8点19分。</textCn>
+    </sentence>
+    <sentence>
+      <text>Which platform?</text>
+      <textCn>在哪个站台？</textCn>
+    </sentence>
+    <sentence>
+      <text>Platform Two. Over the bridge.</text>
+      <textCn>2号站台，过天桥。</textCn>
+    </sentence>
+    <sentence>
+      <text>What time will the next train leave?</text>
+      <textCn>下一班火车什么时候开？</textCn>
+    </sentence>
+    <sentence>
+      <text>At eight nineteen.</text>
+      <textCn>8点19分。</textCn>
+    </sentence>
+    <sentence>
+      <text>We've got plenty of time.</text>
+      <textCn>我们时间还很充裕。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's only three minutes to eight.</text>
+      <textCn>现在才7点57分。</textCn>
+    </sentence>
+    <sentence>
+      <text>Let's go and have a drink. There's a bar next door to the station.</text>
+      <textCn>让我们去喝点东西吧。车站旁有一个酒吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>We had better go back to the station now, Ken.</text>
+      <textCn>肯，我们现在最好回到车站。</textCn>
+    </sentence>
+    <sentence>
+      <text>Tickets, please.</text>
+      <textCn>请把车票拿出来。</textCn>
+    </sentence>
+    <sentence>
+      <text>We want to catch the eight nineteen to London.</text>
+      <textCn>我们要乘8点19分的车去伦敦。</textCn>
+    </sentence>
+    <sentence>
+      <text>You've just missed it!</text>
+      <textCn>你们刚好错过了那班车。</textCn>
+    </sentence>
+    <sentence>
+      <text>What! It's only eight fifteen.</text>
+      <textCn>什么！现在才8点15分。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sorry, sir. That clock's ten minutes slow.</text>
+      <textCn>对不起，先生。那个钟慢了10分钟。</textCn>
+    </sentence>
+    <sentence>
+      <text>When's the next train?</text>
+      <textCn>下一班车什么时候开？</textCn>
+    </sentence>
+    <sentence>
+      <text>In five hours' time!</text>
+      <textCn>5个小时以后！</textCn>
+    </sentence>
+  </sentences>
+</lesson>
