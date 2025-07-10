@@ -25,8 +25,8 @@ class _ReadingPageState extends State<ReadingPage> {
   static const Duration maxSentenceDuration = Duration(seconds: 5); // 每句最大时间
 
   // Add multiplier options
-  static const List<double> multiplierOptions = [1.33333, 1.66666, 2];
-  double currentMultiplier = 1.33333; // Default value
+  static const List<double> multiplierOptions = [1, 1.25, 1.5];
+  double currentMultiplier = 1; // Default value
 
   bool isRecording = false;
   bool isPlaying = false;
