@@ -67,24 +67,48 @@
       <textCn>你摔伤了没有？</textCn>
     </sentence>
     <sentence>
-      <text>Yes, I have. I think that I've hurt my back.</text>
-      <textCn>是啊，摔伤了。我想我把背摔坏了。</textCn>
+      <text>Yes, I have.</text>
+      <textCn>是啊，摔伤了。</textCn>
     </sentence>
     <sentence>
-      <text>Try and stand up. Can you stand up? Here. Let me help you.</text>
-      <textCn>试试站起来。你能站起来吗？来，让我帮你。</textCn>
+      <text>I think that I've hurt my back.</text>
+      <textCn>我想我把背摔坏了。</textCn>
     </sentence>
     <sentence>
-      <text>I'm sorry, Lucy. I'm afraid that I can't get up.</text>
-      <textCn>对不起，露西，恐怕我站不起来。</textCn>
+      <text>Try and stand up.</text>
+      <textCn>试试站起来。</textCn>
     </sentence>
     <sentence>
-      <text>I think that the doctor had better see you. I'll phone Dr. Carter.</text>
-      <textCn>我想最好请医生来看一下。我去给卡特医生打电话。</textCn>
+      <text>Can you stand up?</text>
+      <textCn>你能站起来吗？</textCn>
     </sentence>
     <sentence>
-      <text>The doctor says that he will come at once. I'm sure that you need an X-ray, Andy.</text>
-      <textCn>医生说他马上就来。安迪，我看你需要做一次 X 光透视。</textCn>
+      <text>Here. Let me help you.</text>
+      <textCn>来，让我帮你。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sorry, Lucy.</text>
+      <textCn>对不起，露西。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid that I can't get up.</text>
+      <textCn>恐怕我站不起来。</textCn>
+    </sentence>
+    <sentence>
+      <text>I think that the doctor had better see you.</text>
+      <textCn>我想最好请医生来看一下。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'll phone Dr. Carter.</text>
+      <textCn>我去给卡特医生打电话。</textCn>
+    </sentence>
+    <sentence>
+      <text>The doctor says that he will come at once.</text>
+      <textCn>医生说他马上就来。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sure that you need an X-ray, Andy.</text>
+      <textCn>安迪，我看你需要做一次 X 光透视。</textCn>
     </sentence>
   </sentences>
 </lesson>
@@ -141,16 +165,28 @@
       <textCn>什么？</textCn>
     </sentence>
     <sentence>
-      <text>He says he's just arrived in Scotland. He says he's staying at a Youth Hostel. You know he's a member of the Y.H.A.</text>
-      <textCn>他说他刚到苏格兰。他说他现在住一家青年招待所。您知道，他是“青招协”的一个成员。</textCn>
+      <text>He says he's just arrived in Scotland.</text>
+      <textCn>他说他刚到苏格兰。</textCn>
+    </sentence>
+    <sentence>
+      <text>He says he's staying at a Youth Hostel.</text>
+      <textCn>他说他现在住一家青年招待所。</textCn>
+    </sentence>
+    <sentence>
+      <text>You know he's a member of the Y.H.A.</text>
+      <textCn>您知道，他是“青招协”的一个成员。</textCn>
     </sentence>
     <sentence>
       <text>The what?</text>
       <textCn>什么？</textCn>
     </sentence>
     <sentence>
-      <text>The Y.H.A., Mum. The Youth Hostels Association.</text>
-      <textCn>“青招协”，妈妈。青年招待所协会。</textCn>
+      <text>The Y.H.A., Mum.</text>
+      <textCn>“青招协”，妈妈。</textCn>
+    </sentence>
+    <sentence>
+      <text>The Youth Hostels Association.</text>
+      <textCn>青年招待所协会。</textCn>
     </sentence>
     <sentence>
       <text>What else does he say?</text>
@@ -161,16 +197,36 @@
       <textCn>“我很快会写信的。祝你们大家身体都好。”</textCn>
     </sentence>
     <sentence>
-      <text>What? Speak up, Penny. I'm afraid I can't hear you.</text>
-      <textCn>什么？彭妮，大声一点。我可听不见你念的。</textCn>
+      <text>What?</text>
+      <textCn>什么？</textCn>
     </sentence>
     <sentence>
-      <text>He says he'll write a letter soon. He hopes we are all well. 'Love, Jimmy.'</text>
-      <textCn>他说他很快会写信的。他祝我们大家身体好。“谨此问候，吉米。”</textCn>
+      <text>Speak up, Penny.</text>
+      <textCn>彭妮，大声一点。</textCn>
     </sentence>
     <sentence>
-      <text>Is that all? He doesn't say very much, does he?</text>
-      <textCn>就这些吗？他没写许多，是吗？</textCn>
+      <text>I'm afraid I can't hear you.</text>
+      <textCn>我可听不见你念的。</textCn>
+    </sentence>
+    <sentence>
+      <text>He says he'll write a letter soon.</text>
+      <textCn>他说他很快会写信的。</textCn>
+    </sentence>
+    <sentence>
+      <text>He hopes we are all well.</text>
+      <textCn>他祝我们大家身体好。</textCn>
+    </sentence>
+    <sentence>
+      <text>'Love, Jimmy.'</text>
+      <textCn>“谨此问候，吉米。”</textCn>
+    </sentence>
+    <sentence>
+      <text>Is that all?</text>
+      <textCn>就这些吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>He doesn't say very much, does he?</text>
+      <textCn>他没写许多，是吗？</textCn>
     </sentence>
     <sentence>
       <text>He can't write very much on a card, Mum.</text>
@@ -263,36 +319,84 @@
       <textCn>考试考得怎样，理查德？</textCn>
     </sentence>
     <sentence>
-      <text>Not too bad. I think I passed in English and Mathematics. The questions were very easy.</text>
-      <textCn>不算太坏，我想我的英语和数学及格了。题目很容易。加里，你怎么样？</textCn>
+      <text>Not too bad.</text>
+      <textCn>不算太坏。</textCn>
     </sentence>
     <sentence>
-      <text>How about you, Gary? The English and Maths papers weren't easy enough for me. I hope I haven't failed.</text>
-      <textCn>英语和数学试题对我来说很不容易。我希望别不及格。</textCn>
+      <text>I think I passed in English and Mathematics.</text>
+      <textCn>我想我的英语和数学及格了。</textCn>
     </sentence>
     <sentence>
-      <text>I think I failed the French paper. I could answer sixteen of the questions. They were very easy. But I couldn't answer the rest. They were too difficult for me.</text>
-      <textCn>我想我的法语及不了格，我能回答其中的16道题。这些题很容易。但我回答不出其余的题。那些题对我来说太难了。</textCn>
+      <text>The questions were very easy.</text>
+      <textCn>题目很容易。</textCn>
+    </sentence>
+    <sentence>
+      <text>How about you, Gary?</text>
+      <textCn>加里，你怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>The English and Maths papers weren't easy enough for me.</text>
+      <textCn>英语和数学试题对我来说很不容易。</textCn>
+    </sentence>
+    <sentence>
+      <text>I hope I haven't failed.</text>
+      <textCn>我希望别不及格。</textCn>
+    </sentence>
+    <sentence>
+      <text>I think I failed the French paper.</text>
+      <textCn>我想我的法语及不了格。</textCn>
+    </sentence>
+    <sentence>
+      <text>I could answer sixteen of the questions.</text>
+      <textCn>我能回答其中的16道题。</textCn>
+    </sentence>
+    <sentence>
+      <text>They were very easy.</text>
+      <textCn>这些题很容易。</textCn>
+    </sentence>
+    <sentence>
+      <text>But I couldn't answer the rest.</text>
+      <textCn>但我回答不出其余的题。</textCn>
+    </sentence>
+    <sentence>
+      <text>They were too difficult for me.</text>
+      <textCn>那些题对我来说太难了。</textCn>
     </sentence>
     <sentence>
       <text>French tests are awful, aren't they?</text>
       <textCn>法语太可怕了，你说呢？</textCn>
     </sentence>
     <sentence>
-      <text>I hate them. I'm sure I've got a low mark.</text>
-      <textCn>我讨厌法语。我的法语成绩肯定很低。</textCn>
+      <text>I hate them.</text>
+      <textCn>我讨厌法语。</textCn>
     </sentence>
     <sentence>
-      <text>Oh, cheer up! Perhaps we didn't do too badly. The guy next to me wrote his name at the top of the paper.</text>
-      <textCn>啊，别灰心！或许我们考得还不太糟。坐在我旁边的那个人只在试卷顶端写了自己的名字。</textCn>
+      <text>I'm sure I've got a low mark.</text>
+      <textCn>我的法语成绩肯定很低。</textCn>
+    </sentence>
+    <sentence>
+      <text>Oh, cheer up!</text>
+      <textCn>啊，别灰心！</textCn>
+    </sentence>
+    <sentence>
+      <text>Perhaps we didn't do too badly.</text>
+      <textCn>或许我们考得还不太糟。</textCn>
+    </sentence>
+    <sentence>
+      <text>The guy next to me wrote his name at the top of the paper.</text>
+      <textCn>坐在我旁边的那个人只在试卷顶端写了自己的名字。</textCn>
     </sentence>
     <sentence>
       <text>Yes?</text>
       <textCn>是吗？</textCn>
     </sentence>
     <sentence>
-      <text>Then he sat there and looked at it for three hours! He didn't write a word!</text>
-      <textCn>然后他就坐在那里，对着考卷看了3个小时，一个字也没写！</textCn>
+      <text>Then he sat there and looked at it for three hours!</text>
+      <textCn>然后他就坐在那里，对着考卷看了3个小时！</textCn>
+    </sentence>
+    <sentence>
+      <text>He didn't write a word!</text>
+      <textCn>一个字也没写！</textCn>
     </sentence>
   </sentences>
 </lesson>
@@ -343,8 +447,12 @@
   </words>
   <sentences>
     <sentence>
-      <text>Where's Sandra, Bob? I want her.</text>
-      <textCn>鲍勃，桑德拉在哪儿？我要找她。</textCn>
+      <text>Where's Sandra, Bob?</text>
+      <textCn>鲍勃，桑德拉在哪儿？</textCn>
+    </sentence>
+    <sentence>
+      <text>I want her.</text>
+      <textCn>我要找她。</textCn>
     </sentence>
     <sentence>
       <text>Do you want to speak to her?</text>
