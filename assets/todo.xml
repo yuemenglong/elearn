@@ -193,7 +193,11 @@
       <textCn>他还说了些什么？</textCn>
     </sentence>
     <sentence>
-      <text>'I'll write a letter soon. I hope you are all well.'</text>
+      <text>'I'll write a letter soon.</text>
+      <textCn>"我很快会写信的。</textCn>
+    </sentence>
+    <sentence>
+      <text>I hope you are all well.'</text>
       <textCn>“我很快会写信的。祝你们大家身体都好。”</textCn>
     </sentence>
     <sentence>
@@ -707,8 +711,12 @@
       <textCn>请稍加一点。</textCn>
     </sentence>
     <sentence>
-      <text>What about some sugar? Two teaspoonfuls?</text>
-      <textCn>加些糖怎么样？两茶匙行吗？</textCn>
+      <text>What about some sugar?</text>
+      <textCn>加些糖怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>Two teaspoonfuls?</text>
+      <textCn>两茶匙行吗？</textCn>
     </sentence>
     <sentence>
       <text>No, less than that.</text>
