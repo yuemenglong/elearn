@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>103</number>
+  <title>The French test</title>
+  <titleCn>法语考试</titleCn>
+  <words>
+    <word>
+      <text>exam</text>
+      <textCn>考试</textCn>
+    </word>
+    <word>
+      <text>pass</text>
+      <textCn>及格, 通过</textCn>
+    </word>
+    <word>
+      <text>mathematics</text>
+      <textCn>数学</textCn>
+    </word>
+    <word>
+      <text>question</text>
+      <textCn>问题</textCn>
+    </word>
+    <word>
+      <text>easy</text>
+      <textCn>容易的</textCn>
+    </word>
+    <word>
+      <text>enough</text>
+      <textCn>足够地</textCn>
+    </word>
+    <word>
+      <text>paper</text>
+      <textCn>考卷</textCn>
+    </word>
+    <word>
+      <text>fail</text>
+      <textCn>未及格, 失败</textCn>
+    </word>
+    <word>
+      <text>answer</text>
+      <textCn>回答</textCn>
+    </word>
+    <word>
+      <text>mark</text>
+      <textCn>分数</textCn>
+    </word>
+    <word>
+      <text>rest</text>
+      <textCn>其他的东西</textCn>
+    </word>
+    <word>
+      <text>difficult</text>
+      <textCn>困难的</textCn>
+    </word>
+    <word>
+      <text>hate</text>
+      <textCn>讨厌</textCn>
+    </word>
+    <word>
+      <text>low</text>
+      <textCn>低的</textCn>
+    </word>
+    <word>
+      <text>cheer</text>
+      <textCn>振作、振奋</textCn>
+    </word>
+    <word>
+      <text>guy</text>
+      <textCn>家伙, 人</textCn>
+    </word>
+    <word>
+      <text>top</text>
+      <textCn>上方, 顶部</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>How was the exam, Richard?</text>
+      <textCn>考试考得怎样，理查德？</textCn>
+    </sentence>
+    <sentence>
+      <text>Not too bad.</text>
+      <textCn>不算太坏。</textCn>
+    </sentence>
+    <sentence>
+      <text>I think I passed in English and Mathematics.</text>
+      <textCn>我想我的英语和数学及格了。</textCn>
+    </sentence>
+    <sentence>
+      <text>The questions were very easy.</text>
+      <textCn>题目很容易。</textCn>
+    </sentence>
+    <sentence>
+      <text>How about you, Gary?</text>
+      <textCn>加里，你怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>The English and Maths papers weren't easy enough for me.</text>
+      <textCn>英语和数学试题对我来说很不容易。</textCn>
+    </sentence>
+    <sentence>
+      <text>I hope I haven't failed.</text>
+      <textCn>我希望别不及格。</textCn>
+    </sentence>
+    <sentence>
+      <text>I think I failed the French paper.</text>
+      <textCn>我想我的法语及不了格。</textCn>
+    </sentence>
+    <sentence>
+      <text>I could answer sixteen of the questions.</text>
+      <textCn>我能回答其中的16道题。</textCn>
+    </sentence>
+    <sentence>
+      <text>They were very easy.</text>
+      <textCn>这些题很容易。</textCn>
+    </sentence>
+    <sentence>
+      <text>But I couldn't answer the rest.</text>
+      <textCn>但我回答不出其余的题。</textCn>
+    </sentence>
+    <sentence>
+      <text>They were too difficult for me.</text>
+      <textCn>那些题对我来说太难了。</textCn>
+    </sentence>
+    <sentence>
+      <text>French tests are awful, aren't they?</text>
+      <textCn>法语太可怕了，你说呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>I hate them.</text>
+      <textCn>我讨厌法语。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sure I've got a low mark.</text>
+      <textCn>我的法语成绩肯定很低。</textCn>
+    </sentence>
+    <sentence>
+      <text>Oh, cheer up!</text>
+      <textCn>啊，别灰心！</textCn>
+    </sentence>
+    <sentence>
+      <text>Perhaps we didn't do too badly.</text>
+      <textCn>或许我们考得还不太糟。</textCn>
+    </sentence>
+    <sentence>
+      <text>The guy next to me wrote his name at the top of the paper.</text>
+      <textCn>坐在我旁边的那个人只在试卷顶端写了自己的名字。</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes?</text>
+      <textCn>是吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Then he sat there and looked at it for three hours!</text>
+      <textCn>然后他就坐在那里，对着考卷看了3个小时！</textCn>
+    </sentence>
+    <sentence>
+      <text>He didn't write a word!</text>
+      <textCn>一个字也没写！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

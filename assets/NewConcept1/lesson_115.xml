@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>115</number>
+  <title>Knock, knock!</title>
+  <titleCn>敲敲门!</titleCn>
+  <words>
+    <word>
+      <text>anyone</text>
+      <textCn>(用于疑问句，否定式)任何人</textCn>
+    </word>
+    <word>
+      <text>knock</text>
+      <textCn>敲，打</textCn>
+    </word>
+    <word>
+      <text>everything</text>
+      <textCn>一切事物</textCn>
+    </word>
+    <word>
+      <text>quiet</text>
+      <textCn>宁静的, 安静的</textCn>
+    </word>
+    <word>
+      <text>impossible</text>
+      <textCn>不可能的</textCn>
+    </word>
+    <word>
+      <text>invite</text>
+      <textCn>邀请</textCn>
+    </word>
+    <word>
+      <text>anything</text>
+      <textCn>任何东西</textCn>
+    </word>
+    <word>
+      <text>nothing</text>
+      <textCn>什么也没有</textCn>
+    </word>
+    <word>
+      <text>lemonade</text>
+      <textCn>柠檬水</textCn>
+    </word>
+    <word>
+      <text>joke</text>
+      <textCn>开玩笑</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Isn't there anyone at home?</text>
+      <textCn>家里没有人吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'll knock again, Helen.</text>
+      <textCn>海伦，我再敲一次。</textCn>
+    </sentence>
+    <sentence>
+      <text>Everything's very quiet.</text>
+      <textCn>毫无动静。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sure there's no one at home.</text>
+      <textCn>肯定家里没有人。</textCn>
+    </sentence>
+    <sentence>
+      <text>But that's impossible.</text>
+      <textCn>但这不可能。</textCn>
+    </sentence>
+    <sentence>
+      <text>Carol and Tom invited us to lunch.</text>
+      <textCn>卡罗尔和汤姆请我们来吃午饭。</textCn>
+    </sentence>
+    <sentence>
+      <text>Look through the window.</text>
+      <textCn>从窗子往里看看。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you see anything?</text>
+      <textCn>你能看见什么吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Nothing at all.</text>
+      <textCn>什么也看不见。</textCn>
+    </sentence>
+    <sentence>
+      <text>Let's try the back door.</text>
+      <textCn>让我们到后门去试试。</textCn>
+    </sentence>
+    <sentence>
+      <text>Look!</text>
+      <textCn>瞧！</textCn>
+    </sentence>
+    <sentence>
+      <text>Everyone's in the garden.</text>
+      <textCn>大家都在花园里。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hello, Helen.</text>
+      <textCn>你好，海伦。</textCn>
+    </sentence>
+    <sentence>
+      <text>Hello, Jim.</text>
+      <textCn>你好，吉姆。</textCn>
+    </sentence>
+    <sentence>
+      <text>Everybody wants to have lunch in the garden.</text>
+      <textCn>大家都想在花园里吃午饭。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's nice and warm out here.</text>
+      <textCn>这外面挺暖和。</textCn>
+    </sentence>
+    <sentence>
+      <text>Come and have something to drink.</text>
+      <textCn>来喝点什么。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thanks, Carol.</text>
+      <textCn>谢谢，卡罗尔。</textCn>
+    </sentence>
+    <sentence>
+      <text>May I have a glass of beer please?</text>
+      <textCn>给我一杯啤酒好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Beer?</text>
+      <textCn>啤酒？</textCn>
+    </sentence>
+    <sentence>
+      <text>There's none left.</text>
+      <textCn>一点都不剩了。</textCn>
+    </sentence>
+    <sentence>
+      <text>You can have some lemonade.</text>
+      <textCn>你可以喝点柠檬水。</textCn>
+    </sentence>
+    <sentence>
+      <text>Lemonade!</text>
+      <textCn>柠檬水!</textCn>
+    </sentence>
+    <sentence>
+      <text>Don't believe her, Jim.</text>
+      <textCn>吉姆，别信她的。</textCn>
+    </sentence>
+    <sentence>
+      <text>She's only joking.</text>
+      <textCn>她只是在开玩笑。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have some beer!</text>
+      <textCn>喝点啤酒吧！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

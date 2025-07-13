@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>135</number>
+  <title>The latest report</title>
+  <titleCn>最新消息</titleCn>
+  <words>
+    <word>
+      <text>future</text>
+      <textCn>未来的</textCn>
+    </word>
+    <word>
+      <text>get married</text>
+      <textCn>结婚</textCn>
+    </word>
+    <word>
+      <text>hotel</text>
+      <textCn>饭店</textCn>
+    </word>
+    <word>
+      <text>latest</text>
+      <textCn>最新的</textCn>
+    </word>
+    <word>
+      <text>introduce</text>
+      <textCn>介绍</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Are you really going to retire, Miss Marsh?</text>
+      <textCn>您真的准备退休吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I may.</text>
+      <textCn>有可能退。</textCn>
+    </sentence>
+    <sentence>
+      <text>I can't make up my mind.</text>
+      <textCn>我还没拿定主意。</textCn>
+    </sentence>
+    <sentence>
+      <text>I will have to ask my future husband.</text>
+      <textCn>我得问一下我的未婚夫。</textCn>
+    </sentence>
+    <sentence>
+      <text>He won't let me make another film.</text>
+      <textCn>他不会再让我拍电影了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Your future husband, Miss Marsh?</text>
+      <textCn>您的未婚夫，马什小姐？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes. Let me introduce him to you.</text>
+      <textCn>是的，让我把他给你们介绍一下。</textCn>
+    </sentence>
+    <sentence>
+      <text>His name is Carlos.</text>
+      <textCn>他叫卡洛斯。</textCn>
+    </sentence>
+    <sentence>
+      <text>We're going to get married next week.</text>
+      <textCn>下星期我们就要结婚了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Look, Liz!</text>
+      <textCn>看啊，莉兹！</textCn>
+    </sentence>
+    <sentence>
+      <text>Here's another report about Karen Marsh.</text>
+      <textCn>这又有一篇关于卡伦·马什的报道。</textCn>
+    </sentence>
+    <sentence>
+      <text>Listen: 'Karen Marsh: The latest.</text>
+      <textCn>你听，“卡伦·马什：最新消息。</textCn>
+    </sentence>
+    <sentence>
+      <text>At her London Hotel today Miss Marsh told reporters she might retire.</text>
+      <textCn>今天在伦敦旅馆，马什小姐告诉记者她可能要退休。</textCn>
+    </sentence>
+    <sentence>
+      <text>She said she couldn't make up her mind.</text>
+      <textCn>她说她还拿不定主意。</textCn>
+    </sentence>
+    <sentence>
+      <text>She said she would have to ask her future husband.</text>
+      <textCn>她说她得问问她的未婚夫。</textCn>
+    </sentence>
+    <sentence>
+      <text>She said her future husband would not let her make another film.</text>
+      <textCn>她说她的未婚夫不会再让她拍电影。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then she introduced us to Carlos and told us they would get married next week.'</text>
+      <textCn>然后她把我们介绍给卡洛斯，并告诉我们他们下星期结婚。”</textCn>
+    </sentence>
+    <sentence>
+      <text>That's sensational news, isn't it, Kate?</text>
+      <textCn>这真是条轰动的消息，是不是？</textCn>
+    </sentence>
+    <sentence>
+      <text>It certainly is.</text>
+      <textCn>当然啦。</textCn>
+    </sentence>
+    <sentence>
+      <text>He'll be her sixth husband!</text>
+      <textCn>他将是她的第6个丈夫！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

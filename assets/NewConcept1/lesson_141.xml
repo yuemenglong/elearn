@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>141</number>
+  <title>Sally's first train ride</title>
+  <titleCn>萨莉第一次乘火车旅行</titleCn>
+  <words>
+    <word>
+      <text>excited</text>
+      <textCn>兴奋的</textCn>
+    </word>
+    <word>
+      <text>get on</text>
+      <textCn>登上</textCn>
+    </word>
+    <word>
+      <text>middle-aged</text>
+      <textCn>中年的</textCn>
+    </word>
+    <word>
+      <text>opposite</text>
+      <textCn>在……对面</textCn>
+    </word>
+    <word>
+      <text>curiously</text>
+      <textCn>好奇地</textCn>
+    </word>
+    <word>
+      <text>funny</text>
+      <textCn>可笑的, 滑稽的</textCn>
+    </word>
+    <word>
+      <text>powder</text>
+      <textCn>香粉</textCn>
+    </word>
+    <word>
+      <text>compact</text>
+      <textCn>带镜的化妆盒</textCn>
+    </word>
+    <word>
+      <text>kindly</text>
+      <textCn>和蔼地</textCn>
+    </word>
+    <word>
+      <text>ugly</text>
+      <textCn>丑陋的</textCn>
+    </word>
+    <word>
+      <text>amused</text>
+      <textCn>有趣的</textCn>
+    </word>
+    <word>
+      <text>smile</text>
+      <textCn>微笑</textCn>
+    </word>
+    <word>
+      <text>embarrassed</text>
+      <textCn>尴尬的, 窘迫的</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Last week, my four-year-old daughter, Sally, was invited to a children's party.</text>
+      <textCn>上周，我4岁的女儿萨莉被邀请去参加一个儿童聚会。</textCn>
+    </sentence>
+    <sentence>
+      <text>I decided to take her by train.</text>
+      <textCn>我决定带她乘火车去。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sally was very excited because she had never travelled on a train before.</text>
+      <textCn>萨莉非常激动，因为她从未乘过火车。</textCn>
+    </sentence>
+    <sentence>
+      <text>She sat near the window and asked questions about everything she saw.</text>
+      <textCn>她靠车窗坐着，对她所看到的一切都要问个明白。</textCn>
+    </sentence>
+    <sentence>
+      <text>Suddenly, a middle-aged lady got on the train and sat opposite Sally.</text>
+      <textCn>突然，一个中年妇女上了火车；坐在萨莉的对面。</textCn>
+    </sentence>
+    <sentence>
+      <text>'Hello, little girl,' she said.</text>
+      <textCn>“你好，小姑娘，”她说。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sally did not answer, but looked at her curiously.</text>
+      <textCn>萨莉没回答，却好奇地看着她。</textCn>
+    </sentence>
+    <sentence>
+      <text>The lady was dressed in a blue coat and a large, funny hat.</text>
+      <textCn>那位妇女穿着一件蓝色的大衣，戴着一顶大而滑稽的帽子。</textCn>
+    </sentence>
+    <sentence>
+      <text>After the train had left the station, the lady opened her handbag and took out her powder compact.</text>
+      <textCn>火车开出车站后，那位妇女打开了手提包，拿出了粉盒。</textCn>
+    </sentence>
+    <sentence>
+      <text>She then began to make up her face.</text>
+      <textCn>然后她开始打扮起来。</textCn>
+    </sentence>
+    <sentence>
+      <text>'Why are you doing that?' Sally asked.</text>
+      <textCn>“你为什么要那样做呢？”萨莉问。</textCn>
+    </sentence>
+    <sentence>
+      <text>'To make myself beautiful,' the lady answered.</text>
+      <textCn>“为了把自己打扮漂亮啊，”那位妇女答道。</textCn>
+    </sentence>
+    <sentence>
+      <text>She put away her compact and smiled kindly.</text>
+      <textCn>她放好了粉盒，慈祥地微笑着。</textCn>
+    </sentence>
+    <sentence>
+      <text>'But you are still ugly,' Sally said.</text>
+      <textCn>“可是你仍然难看呀，”萨莉说。</textCn>
+    </sentence>
+    <sentence>
+      <text>Sally was amused, but I was very embarrassed!</text>
+      <textCn>萨莉感到很有趣，而我却很尴尬。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>133</number>
+  <title>Sensational news!</title>
+  <titleCn>爆炸性新闻！</titleCn>
+  <words>
+    <word>
+      <text>reporter</text>
+      <textCn>记者</textCn>
+    </word>
+    <word>
+      <text>sensational</text>
+      <textCn>爆炸性的, 耸人听闻的</textCn>
+    </word>
+    <word>
+      <text>mink coat</text>
+      <textCn>貂皮大衣</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Have you just made a new film, Miss Marsh?</text>
+      <textCn>您刚拍完一部新电影吗，马什小姐？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I have.</text>
+      <textCn>是的，我刚拍完。</textCn>
+    </sentence>
+    <sentence>
+      <text>Are you going to make another?</text>
+      <textCn>您准备再拍一部吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, I'm not.</text>
+      <textCn>不，我不准备拍了。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm going to retire.</text>
+      <textCn>我准备退休了。</textCn>
+    </sentence>
+    <sentence>
+      <text>I feel very tired.</text>
+      <textCn>我感觉累得很。</textCn>
+    </sentence>
+    <sentence>
+      <text>I don't want to make another film for a long time.</text>
+      <textCn>我早就不想再拍片子了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Let's buy a newspaper, Liz.</text>
+      <textCn>我们买份报纸吧，莉兹。</textCn>
+    </sentence>
+    <sentence>
+      <text>Listen to this!</text>
+      <textCn>你听这段！</textCn>
+    </sentence>
+    <sentence>
+      <text>'Karen Marsh: Sensational News!</text>
+      <textCn>“卡伦·马什：爆炸性新闻！</textCn>
+    </sentence>
+    <sentence>
+      <text>By our reporter, Alan Jones.</text>
+      <textCn>由本报记者艾伦·琼斯报道。</textCn>
+    </sentence>
+    <sentence>
+      <text>Karen Marsh arrived at London Airport today.</text>
+      <textCn>卡伦·马什今天到达伦敦机场。</textCn>
+    </sentence>
+    <sentence>
+      <text>She was wearing a blue dress and a mink coat.</text>
+      <textCn>她穿着一身蓝色的套装和一件貂皮大衣。</textCn>
+    </sentence>
+    <sentence>
+      <text>She told me she had just made a new film.</text>
+      <textCn>她告诉我她刚拍完一部新片子。</textCn>
+    </sentence>
+    <sentence>
+      <text>She said she was not going to make another.</text>
+      <textCn>她说她不准备再拍电影了。</textCn>
+    </sentence>
+    <sentence>
+      <text>She said she was going to retire.</text>
+      <textCn>她说她准备退休。</textCn>
+    </sentence>
+    <sentence>
+      <text>She told reporters she felt very tired and didn't want to make another film for a long time.'</text>
+      <textCn>她告诉记者她感到很疲劳，早就不想再拍电影了。”</textCn>
+    </sentence>
+    <sentence>
+      <text>I wonder why!</text>
+      <textCn>我很想知道为什么。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

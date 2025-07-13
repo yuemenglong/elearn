@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>101</number>
+  <title>A card from Jimmy</title>
+  <titleCn>吉米的明信片</titleCn>
+  <words>
+    <word>
+      <text>Scotland</text>
+      <textCn>苏格兰（英国）</textCn>
+    </word>
+    <word>
+      <text>card</text>
+      <textCn>明信片</textCn>
+    </word>
+    <word>
+      <text>youth</text>
+      <textCn>青年</textCn>
+    </word>
+    <word>
+      <text>hostel</text>
+      <textCn>招待所, 旅馆</textCn>
+    </word>
+    <word>
+      <text>association</text>
+      <textCn>协会</textCn>
+    </word>
+    <word>
+      <text>soon</text>
+      <textCn>不久</textCn>
+    </word>
+    <word>
+      <text>write</text>
+      <textCn>写</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Read Jimmy's card to me please, Penny.</text>
+      <textCn>请把吉米的明信片念给我听听，彭妮。</textCn>
+    </sentence>
+    <sentence>
+      <text>'I have just arrived in Scotland and I'm staying at a Youth Hostel.'</text>
+      <textCn>“我刚到苏格兰，我现在住一家青年招待所。”</textCn>
+    </sentence>
+    <sentence>
+      <text>Eh?</text>
+      <textCn>什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>He says he's just arrived in Scotland.</text>
+      <textCn>他说他刚到苏格兰。</textCn>
+    </sentence>
+    <sentence>
+      <text>He says he's staying at a Youth Hostel.</text>
+      <textCn>他说他现在住一家青年招待所。</textCn>
+    </sentence>
+    <sentence>
+      <text>You know he's a member of the Y.H.A.</text>
+      <textCn>您知道，他是“青招协”的一个成员。</textCn>
+    </sentence>
+    <sentence>
+      <text>The what?</text>
+      <textCn>什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>The Y.H.A., Mum.</text>
+      <textCn>“青招协”，妈妈。</textCn>
+    </sentence>
+    <sentence>
+      <text>The Youth Hostels Association.</text>
+      <textCn>青年招待所协会。</textCn>
+    </sentence>
+    <sentence>
+      <text>What else does he say?</text>
+      <textCn>他还说了些什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>'I'll write a letter soon.</text>
+      <textCn>"我很快会写信的。</textCn>
+    </sentence>
+    <sentence>
+      <text>I hope you are all well.'</text>
+      <textCn>“我很快会写信的。祝你们大家身体都好。”</textCn>
+    </sentence>
+    <sentence>
+      <text>What?</text>
+      <textCn>什么？</textCn>
+    </sentence>
+    <sentence>
+      <text>Speak up, Penny.</text>
+      <textCn>彭妮，大声一点。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid I can't hear you.</text>
+      <textCn>我可听不见你念的。</textCn>
+    </sentence>
+    <sentence>
+      <text>He says he'll write a letter soon.</text>
+      <textCn>他说他很快会写信的。</textCn>
+    </sentence>
+    <sentence>
+      <text>He hopes we are all well.</text>
+      <textCn>他祝我们大家身体好。</textCn>
+    </sentence>
+    <sentence>
+      <text>'Love, Jimmy.'</text>
+      <textCn>“谨此问候，吉米。”</textCn>
+    </sentence>
+    <sentence>
+      <text>Is that all?</text>
+      <textCn>就这些吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>He doesn't say very much, does he?</text>
+      <textCn>他没写许多，是吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>He can't write very much on a card, Mum.</text>
+      <textCn>在明信片上他写不了很多，妈妈。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

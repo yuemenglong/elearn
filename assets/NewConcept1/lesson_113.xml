@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>113</number>
+  <title>Small change</title>
+  <titleCn>零钱</titleCn>
+  <words>
+    <word>
+      <text>conductor</text>
+      <textCn>售票员</textCn>
+    </word>
+    <word>
+      <text>fare</text>
+      <textCn>车费, 车票</textCn>
+    </word>
+    <word>
+      <text>change</text>
+      <textCn>兑换（钱）</textCn>
+    </word>
+    <word>
+      <text>note</text>
+      <textCn>纸币</textCn>
+    </word>
+    <word>
+      <text>passenger</text>
+      <textCn>乘客</textCn>
+    </word>
+    <word>
+      <text>none</text>
+      <textCn>没有任何东西</textCn>
+    </word>
+    <word>
+      <text>neither</text>
+      <textCn>也不</textCn>
+    </word>
+    <word>
+      <text>get off</text>
+      <textCn>下车</textCn>
+    </word>
+    <word>
+      <text>tramp</text>
+      <textCn>流浪汉</textCn>
+    </word>
+    <word>
+      <text>except</text>
+      <textCn>除……外</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Fares, please!</text>
+      <textCn>请买票！</textCn>
+    </sentence>
+    <sentence>
+      <text>Trafalgar Square, please.</text>
+      <textCn>请买一张到特拉法加广场的票。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sorry, sir.</text>
+      <textCn>对不起。</textCn>
+    </sentence>
+    <sentence>
+      <text>I can't change a ten-pound note.</text>
+      <textCn>我找不开10英镑的钞票。</textCn>
+    </sentence>
+    <sentence>
+      <text>Haven't you got any small change?</text>
+      <textCn>您没有零钱吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I've got no small change, I'm afraid.</text>
+      <textCn>恐怕我没有零钱。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'll ask some of the passengers.</text>
+      <textCn>我来问问其他乘客。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have you any small change, sir?</text>
+      <textCn>先生，您有零钱吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sorry.</text>
+      <textCn>对不起。</textCn>
+    </sentence>
+    <sentence>
+      <text>I've got none.</text>
+      <textCn>我没有。</textCn>
+    </sentence>
+    <sentence>
+      <text>I haven't got any either.</text>
+      <textCn>我也没有。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you change this ten-pound note, madam?</text>
+      <textCn>夫人，您能把这10英镑的钞票换开吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid I can't.</text>
+      <textCn>恐怕不能。</textCn>
+    </sentence>
+    <sentence>
+      <text>Neither can I.</text>
+      <textCn>我也不能。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm very sorry, sir.</text>
+      <textCn>非常抱歉，先生。</textCn>
+    </sentence>
+    <sentence>
+      <text>You must get off the bus.</text>
+      <textCn>您必须下车。</textCn>
+    </sentence>
+    <sentence>
+      <text>None of our passengers can change this note.</text>
+      <textCn>我们的乘客中没人能换开这张钞票。</textCn>
+    </sentence>
+    <sentence>
+      <text>They're all millionaires!</text>
+      <textCn>他们都是百万富翁！</textCn>
+    </sentence>
+    <sentence>
+      <text>Except us.</text>
+      <textCn>我们俩除外。</textCn>
+    </sentence>
+    <sentence>
+      <text>I've got some small change.</text>
+      <textCn>我有零钱。</textCn>
+    </sentence>
+    <sentence>
+      <text>So have I.</text>
+      <textCn>我也有。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

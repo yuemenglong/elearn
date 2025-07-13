@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>129</number>
+  <title>Seventy miles an hour</title>
+  <titleCn>时速70英里</titleCn>
+  <words>
+    <word>
+      <text>wave</text>
+      <textCn>招手</textCn>
+    </word>
+    <word>
+      <text>track</text>
+      <textCn>跑道</textCn>
+    </word>
+    <word>
+      <text>mile</text>
+      <textCn>英里</textCn>
+    </word>
+    <word>
+      <text>overtake</text>
+      <textCn>从后面超越, 超车</textCn>
+    </word>
+    <word>
+      <text>speed limit</text>
+      <textCn>限速</textCn>
+    </word>
+    <word>
+      <text>dream</text>
+      <textCn>做梦, 思想不集中</textCn>
+    </word>
+    <word>
+      <text>sign</text>
+      <textCn>标记, 牌子</textCn>
+    </word>
+    <word>
+      <text>driving licence</text>
+      <textCn>驾驶执照</textCn>
+    </word>
+    <word>
+      <text>charge</text>
+      <textCn>罚款</textCn>
+    </word>
+    <word>
+      <text>darling</text>
+      <textCn>亲爱的（用作表示称呼）</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Look, Gary!</text>
+      <textCn>瞧，加里！</textCn>
+    </sentence>
+    <sentence>
+      <text>That policeman's waving to you.</text>
+      <textCn>那个警察正朝你挥手呢。</textCn>
+    </sentence>
+    <sentence>
+      <text>He wants you to stop.</text>
+      <textCn>他要你停下来。</textCn>
+    </sentence>
+    <sentence>
+      <text>Where do you think you are?</text>
+      <textCn>你认为你现在是在哪儿？</textCn>
+    </sentence>
+    <sentence>
+      <text>On a race track?</text>
+      <textCn>在赛车道上吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>You must have been driving at seventy miles an hour.</text>
+      <textCn>你刚才一定是以每小时70英里的速度开车。</textCn>
+    </sentence>
+    <sentence>
+      <text>I can't have been.</text>
+      <textCn>我不会开得那样快的。</textCn>
+    </sentence>
+    <sentence>
+      <text>I was doing eighty when I overtook you.</text>
+      <textCn>我是以每小时80英里的速度赶上你的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Didn't you see the speed limit?</text>
+      <textCn>难道你没看见限速牌吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid I didn't, officer.</text>
+      <textCn>恐怕我没有看见，警官。</textCn>
+    </sentence>
+    <sentence>
+      <text>I must have been dreaming.</text>
+      <textCn>我一定是思想开小差了。</textCn>
+    </sentence>
+    <sentence>
+      <text>He wasn't dreaming, officer.</text>
+      <textCn>警官，他思想没有开小差。</textCn>
+    </sentence>
+    <sentence>
+      <text>I was telling him to drive slowly.</text>
+      <textCn>我刚才正告诉他开慢点。</textCn>
+    </sentence>
+    <sentence>
+      <text>That's why I didn't see the sign.</text>
+      <textCn>所以我才没看见那牌子。</textCn>
+    </sentence>
+    <sentence>
+      <text>Let me see your driving licence.</text>
+      <textCn>让我看一看你的驾驶执照。</textCn>
+    </sentence>
+    <sentence>
+      <text>I won't charge you this time.</text>
+      <textCn>这次我就不罚你款了。</textCn>
+    </sentence>
+    <sentence>
+      <text>But you'd better not do it again!</text>
+      <textCn>但你最好不要再开得这样快。</textCn>
+    </sentence>
+    <sentence>
+      <text>Thank you.</text>
+      <textCn>谢谢您。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'll certainly be more careful.</text>
+      <textCn>我以后一定会多加注意。</textCn>
+    </sentence>
+    <sentence>
+      <text>I told you to drive slowly, Gary.</text>
+      <textCn>加里，我刚才叫你开慢点吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>You always tell me to drive slowly, darling.</text>
+      <textCn>你总是叫我开慢点，亲爱的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, next time you'd better take my advice!</text>
+      <textCn>好啦，下次你最好还是听从我的劝告吧！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

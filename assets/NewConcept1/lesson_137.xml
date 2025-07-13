@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>137</number>
+  <title>A pleasant dream</title>
+  <titleCn>美好的梦</titleCn>
+  <words>
+    <word>
+      <text>football</text>
+      <textCn>足球</textCn>
+    </word>
+    <word>
+      <text>pool</text>
+      <textCn>赌注</textCn>
+    </word>
+    <word>
+      <text>win</text>
+      <textCn>赢</textCn>
+    </word>
+    <word>
+      <text>world</text>
+      <textCn>世界</textCn>
+    </word>
+    <word>
+      <text>poor</text>
+      <textCn>贫穷的</textCn>
+    </word>
+    <word>
+      <text>depend</text>
+      <textCn>依靠(on)</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Are you doing the football pools, Brian?</text>
+      <textCn>你正在下足球赛的赌注吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I've nearly finished, Julie.</text>
+      <textCn>是的。我就做完了，朱莉。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sure we'll win something this week.</text>
+      <textCn>我敢肯定这星期我们会赢一点的。</textCn>
+    </sentence>
+    <sentence>
+      <text>You always say that, but we never win anything!</text>
+      <textCn>你老是那样说，但是我们从来没赢过！</textCn>
+    </sentence>
+    <sentence>
+      <text>What will you do if you win a lot of money?</text>
+      <textCn>要是你赢了许多钱，你打算做什么呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>If I win a lot of money I'll buy you a mink coat.</text>
+      <textCn>要是我赢了许多钱，我给你买件貂皮大衣。</textCn>
+    </sentence>
+    <sentence>
+      <text>I don't want a mink coat!</text>
+      <textCn>我不要貂皮大衣。</textCn>
+    </sentence>
+    <sentence>
+      <text>I want to see the world.</text>
+      <textCn>我要去见见世面。</textCn>
+    </sentence>
+    <sentence>
+      <text>All right.</text>
+      <textCn>好吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>If we win a lot of money we'll travel round the world and we'll stay at the best hotels.</text>
+      <textCn>要是我们赢了很多钱，我们就去周游世界，并且住最好的旅馆。</textCn>
+    </sentence>
+    <sentence>
+      <text>Then we'll return home and buy a big house in the country.</text>
+      <textCn>然后我们返回家园，在乡下买幢大房子。</textCn>
+    </sentence>
+    <sentence>
+      <text>We'll have a beautiful garden and ...</text>
+      <textCn>我们将有一个漂亮的花园和……</textCn>
+    </sentence>
+    <sentence>
+      <text>But if we spend all that money we'll be poor again.</text>
+      <textCn>但是如果我们把所有钱都花光了，我们又会变穷的。</textCn>
+    </sentence>
+    <sentence>
+      <text>What'll we do then?</text>
+      <textCn>那时我们怎么办呢？</textCn>
+    </sentence>
+    <sentence>
+      <text>If we spend all the money we'll try and win the football pools again.</text>
+      <textCn>如果我们花光了所有钱，我们设法在足球赛赌注上再赢一次。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's a pleasant dream but everything depends on 'if'!</text>
+      <textCn>这是个美好的梦，但一切都取决于“如果”！</textCn>
+    </sentence>
+  </sentences>
+</lesson>

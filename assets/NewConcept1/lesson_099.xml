@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>99</number>
+  <title>Ow!</title>
+  <titleCn>啊哟!</titleCn>
+  <words>
+    <word>
+      <text>ow</text>
+      <textCn>哎哟</textCn>
+    </word>
+    <word>
+      <text>slip</text>
+      <textCn>滑倒, 滑了一脚</textCn>
+    </word>
+    <word>
+      <text>fall</text>
+      <textCn>落下, 跌倒</textCn>
+    </word>
+    <word>
+      <text>downstairs</text>
+      <textCn>下楼</textCn>
+    </word>
+    <word>
+      <text>hurt</text>
+      <textCn>伤害, 疼痛</textCn>
+    </word>
+    <word>
+      <text>back</text>
+      <textCn>背</textCn>
+    </word>
+    <word>
+      <text>stand up</text>
+      <textCn>起立, 站起来</textCn>
+    </word>
+    <word>
+      <text>help</text>
+      <textCn>帮助</textCn>
+    </word>
+    <word>
+      <text>at once</text>
+      <textCn>立即</textCn>
+    </word>
+    <word>
+      <text>sure</text>
+      <textCn>一定的, 确信的</textCn>
+    </word>
+    <word>
+      <text>X-ray</text>
+      <textCn>X光透视</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Ow!</text>
+      <textCn>啊哟!</textCn>
+    </sentence>
+    <sentence>
+      <text>What's the matter, Andy?</text>
+      <textCn>怎么了，安迪？</textCn>
+    </sentence>
+    <sentence>
+      <text>I slipped and fell downstairs.</text>
+      <textCn>我滑了一跤，从楼梯上摔下来了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have you hurt yourself?</text>
+      <textCn>你摔伤了没有？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I have.</text>
+      <textCn>是啊，摔伤了。</textCn>
+    </sentence>
+    <sentence>
+      <text>I think that I've hurt my back.</text>
+      <textCn>我想我把背摔坏了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Try and stand up.</text>
+      <textCn>试试站起来。</textCn>
+    </sentence>
+    <sentence>
+      <text>Can you stand up?</text>
+      <textCn>你能站起来吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Here. Let me help you.</text>
+      <textCn>来，让我帮你。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sorry, Lucy.</text>
+      <textCn>对不起，露西。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid that I can't get up.</text>
+      <textCn>恐怕我站不起来。</textCn>
+    </sentence>
+    <sentence>
+      <text>I think that the doctor had better see you.</text>
+      <textCn>我想最好请医生来看一下。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'll phone Dr. Carter.</text>
+      <textCn>我去给卡特医生打电话。</textCn>
+    </sentence>
+    <sentence>
+      <text>The doctor says that he will come at once.</text>
+      <textCn>医生说他马上就来。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sure that you need an X-ray, Andy.</text>
+      <textCn>安迪，我看你需要做一次 X 光透视。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

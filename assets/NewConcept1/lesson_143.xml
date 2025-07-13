@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+    <number>143</number>
+    <title>A walk through the woods</title>
+    <titleCn>林中散步</titleCn>
+    <words>
+        <word>
+            <text>surround</text>
+            <textCn>包围</textCn>
+        </word>
+        <word>
+            <text>wood</text>
+            <textCn>树林</textCn>
+        </word>
+        <word>
+            <text>beauty spot</text>
+            <textCn>风景点</textCn>
+        </word>
+        <word>
+            <text>hundred</text>
+            <textCn>百</textCn>
+        </word>
+        <word>
+            <text>city</text>
+            <textCn>城市</textCn>
+        </word>
+        <word>
+            <text>through</text>
+            <textCn>穿过</textCn>
+        </word>
+        <word>
+            <text>visitor</text>
+            <textCn>参观者, 游客, 来访者</textCn>
+        </word>
+        <word>
+            <text>tidy</text>
+            <textCn>整齐的</textCn>
+        </word>
+        <word>
+            <text>litter</text>
+            <textCn>杂乱的东西</textCn>
+        </word>
+        <word>
+            <text>litter basket</text>
+            <textCn>废物筐</textCn>
+        </word>
+        <word>
+            <text>place</text>
+            <textCn>放</textCn>
+        </word>
+        <word>
+            <text>throw</text>
+            <textCn>扔, 抛</textCn>
+        </word>
+        <word>
+            <text>rubbish</text>
+            <textCn>垃圾</textCn>
+        </word>
+        <word>
+            <text>count</text>
+            <textCn>数, 点</textCn>
+        </word>
+        <word>
+            <text>cover</text>
+            <textCn>覆盖</textCn>
+        </word>
+        <word>
+            <text>piece</text>
+            <textCn>碎片</textCn>
+        </word>
+        <word>
+            <text>tyre</text>
+            <textCn>轮胎</textCn>
+        </word>
+        <word>
+            <text>rusty</text>
+            <textCn>生锈的</textCn>
+        </word>
+        <word>
+            <text>among</text>
+            <textCn>在……之间</textCn>
+        </word>
+        <word>
+            <text>prosecute</text>
+            <textCn>依法处置</textCn>
+        </word>
+    </words>
+    <sentences>
+        <sentence>
+            <text>I live in a very old town which is surrounded by beautiful woods.</text>
+            <textCn>我住在一个由美丽的树林环绕的古老小镇上。</textCn>
+        </sentence>
+        <sentence>
+            <text>It is a famous beauty spot.</text>
+            <textCn>这是一个著名的风景胜地。</textCn>
+        </sentence>
+        <sentence>
+            <text>On Sundays, hundreds of people come from the city to see our town and to walk through the woods.</text>
+            <textCn>每逢星期天，有许许多多人从城里来观赏我们的小镇，并在树林中散步。</textCn>
+        </sentence>
+        <sentence>
+            <text>Visitors have been asked to keep the woods clean and tidy.</text>
+            <textCn>游客已被告知要保持树林的整洁。</textCn>
+        </sentence>
+        <sentence>
+            <text>Litter baskets have been placed under the trees, but people still throw their rubbish everywhere.</text>
+            <textCn>树下都已设置了废物筐，但是人们仍到处扔垃圾。</textCn>
+        </sentence>
+        <sentence>
+            <text>Last Wednesday, I went for a walk in the woods.</text>
+            <textCn>上星期三我到树林里去散步。</textCn>
+        </sentence>
+        <sentence>
+            <text>What I saw made me very sad.</text>
+            <textCn>我所见到的一切使我非常难过。</textCn>
+        </sentence>
+        <sentence>
+            <text>I counted seven old cars and three old refrigerators.</text>
+            <textCn>我数了一下，有7辆旧汽车和3个旧冰箱。</textCn>
+        </sentence>
+        <sentence>
+            <text>The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.</text>
+            <textCn>废物筐是空的，而满地都是纸片、烟头、旧轮胎、空瓶子和生锈的空罐头盒。</textCn>
+        </sentence>
+        <sentence>
+            <text>Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted !'</text>
+            <textCn>在垃圾堆中我发现了一块牌子，上面写着：“凡在此树林里丢弃垃圾者，将依法处置。”</textCn>
+        </sentence>
+    </sentences>
+</lesson>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>119</number>
+  <title>A true story</title>
+  <titleCn>一个真实的故事</titleCn>
+  <words>
+    <word>
+      <text>story</text>
+      <textCn>故事</textCn>
+    </word>
+    <word>
+      <text>happen</text>
+      <textCn>发生</textCn>
+    </word>
+    <word>
+      <text>thief</text>
+      <textCn>贼</textCn>
+    </word>
+    <word>
+      <text>enter</text>
+      <textCn>进入</textCn>
+    </word>
+    <word>
+      <text>dark</text>
+      <textCn>黑暗的</textCn>
+    </word>
+    <word>
+      <text>torch</text>
+      <textCn>手电筒</textCn>
+    </word>
+    <word>
+      <text>voice</text>
+      <textCn>(说话的)声音</textCn>
+    </word>
+    <word>
+      <text>parrot</text>
+      <textCn>鹦鹉</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Do you like stories?</text>
+      <textCn>你喜欢听故事吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I want to tell you a true story.</text>
+      <textCn>我要告诉你一个真实的故事。</textCn>
+    </sentence>
+    <sentence>
+      <text>It happened to a friend of mine a year ago.</text>
+      <textCn>这是一年前发生在我的一位朋友身上的故事。</textCn>
+    </sentence>
+    <sentence>
+      <text>While my friend, George, was reading in bed, two thieves climbed into his kitchen.</text>
+      <textCn>当我的朋友乔治在床上看书时，两个小偷爬进了他的厨房。</textCn>
+    </sentence>
+    <sentence>
+      <text>After they had entered the house, they went into the dining room.</text>
+      <textCn>他们进到屋里后，走进了饭厅。</textCn>
+    </sentence>
+    <sentence>
+      <text>It was very dark, so they turned on a torch.</text>
+      <textCn>饭厅里很暗，于是他们打开了手电筒。</textCn>
+    </sentence>
+    <sentence>
+      <text>Suddenly, they heard a voice behind them.</text>
+      <textCn>突然他们听到身后有声音。</textCn>
+    </sentence>
+    <sentence>
+      <text>'What's up? What's up?' someone called.</text>
+      <textCn>“什么事？什么事？”有人叫着。</textCn>
+    </sentence>
+    <sentence>
+      <text>The thieves dropped the torch and ran away as quickly as they could.</text>
+      <textCn>小偷扔下了手电筒，飞快地逃走了。</textCn>
+    </sentence>
+    <sentence>
+      <text>George heard the noise and came downstairs quickly.</text>
+      <textCn>乔治听到了响声，迅速地下了楼。</textCn>
+    </sentence>
+    <sentence>
+      <text>He turned on the light, but he couldn't see anyone.</text>
+      <textCn>他开了灯，但不见一个人。</textCn>
+    </sentence>
+    <sentence>
+      <text>The thieves had already gone.</text>
+      <textCn>小偷逃走了。</textCn>
+    </sentence>
+    <sentence>
+      <text>But George's parrot, Henry, was still there.</text>
+      <textCn>但是乔治的鹦鹉亨利仍在那里。</textCn>
+    </sentence>
+    <sentence>
+      <text>'What's up, George?' he called.</text>
+      <textCn>“什么事，乔治？”它叫着。</textCn>
+    </sentence>
+    <sentence>
+      <text>'Nothing, Henry,' George said and smiled.</text>
+      <textCn>“没事，亨利。”乔治笑着说。</textCn>
+    </sentence>
+    <sentence>
+      <text>'Go back to sleep.'</text>
+      <textCn>“接着睡觉吧。”</textCn>
+    </sentence>
+  </sentences>
+</lesson>

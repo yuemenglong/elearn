@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>121</number>
+  <title>The man in a hat</title>
+  <titleCn>戴帽子的男士</titleCn>
+  <words>
+    <word>
+      <text>customer</text>
+      <textCn>顾客</textCn>
+    </word>
+    <word>
+      <text>forget</text>
+      <textCn>忘记</textCn>
+    </word>
+    <word>
+      <text>manager</text>
+      <textCn>经理</textCn>
+    </word>
+    <word>
+      <text>serve</text>
+      <textCn>照应, 服务, 接待</textCn>
+    </word>
+    <word>
+      <text>counter</text>
+      <textCn>柜台</textCn>
+    </word>
+    <word>
+      <text>recognize</text>
+      <textCn>认出</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>I bought two expensive dictionaries here half an hour ago, but I forgot to take them with me.</text>
+      <textCn>半小时以前我在这里买了两本很贵的辞典，但是我忘了拿走。</textCn>
+    </sentence>
+    <sentence>
+      <text>Who served you, sir?</text>
+      <textCn>是谁接待您的，先生？</textCn>
+    </sentence>
+    <sentence>
+      <text>The lady who is standing behind the counter.</text>
+      <textCn>站在柜台后面的那位女士。</textCn>
+    </sentence>
+    <sentence>
+      <text>Which books did you buy?</text>
+      <textCn>您买的是两本什么书？</textCn>
+    </sentence>
+    <sentence>
+      <text>The books which are on the counter.</text>
+      <textCn>就是柜台上的那两本。</textCn>
+    </sentence>
+    <sentence>
+      <text>Did you serve this gentleman half an hour ago, Caroline?</text>
+      <textCn>卡罗琳，半小时前你接待过这位先生吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>He says he's the man who bought these books.</text>
+      <textCn>他说他就是买这两本书的人。</textCn>
+    </sentence>
+    <sentence>
+      <text>I can't remember.</text>
+      <textCn>我记不起来了。</textCn>
+    </sentence>
+    <sentence>
+      <text>The man who I served was wearing a hat.</text>
+      <textCn>我接待的那个人戴着一顶帽子。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have you got a hat, sir?</text>
+      <textCn>先生，您有帽子吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, I have.</text>
+      <textCn>有的，我有帽子。</textCn>
+    </sentence>
+    <sentence>
+      <text>Would you put it on, please?</text>
+      <textCn>请您把帽子戴上好吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>All right.</text>
+      <textCn>好吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>Is this the man that you served, Caroline?</text>
+      <textCn>卡罗琳，这就是你接待过的那个人吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes.</text>
+      <textCn>是他。</textCn>
+    </sentence>
+    <sentence>
+      <text>I recognize him now.</text>
+      <textCn>我现在认出他来了。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

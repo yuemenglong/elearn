@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>125</number>
+  <title>Tea for two</title>
+  <titleCn>两个人一起喝茶</titleCn>
+  <words>
+    <word>
+      <text>water</text>
+      <textCn>浇水</textCn>
+    </word>
+    <word>
+      <text>terribly</text>
+      <textCn>非常</textCn>
+    </word>
+    <word>
+      <text>dry</text>
+      <textCn>干燥的, 干的</textCn>
+    </word>
+    <word>
+      <text>nuisance</text>
+      <textCn>讨厌的东西或人</textCn>
+    </word>
+    <word>
+      <text>mean</text>
+      <textCn>意味着, 意思是</textCn>
+    </word>
+    <word>
+      <text>surprise</text>
+      <textCn>惊奇, 意外的事</textCn>
+    </word>
+    <word>
+      <text>immediately</text>
+      <textCn>立即地</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Can't you come in and have tea now, Peter?</text>
+      <textCn>彼得，你现在能进来喝茶吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Not yet.</text>
+      <textCn>还不能。</textCn>
+    </sentence>
+    <sentence>
+      <text>I must water the garden first.</text>
+      <textCn>我得先给花园浇水。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you have to water it now?</text>
+      <textCn>你一定得现在浇吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid I must.</text>
+      <textCn>恐怕我得现在浇。</textCn>
+    </sentence>
+    <sentence>
+      <text>Look at it!</text>
+      <textCn>你看看！</textCn>
+    </sentence>
+    <sentence>
+      <text>It's terribly dry.</text>
+      <textCn>干得厉害。</textCn>
+    </sentence>
+    <sentence>
+      <text>What a nuisance!</text>
+      <textCn>真讨厌！</textCn>
+    </sentence>
+    <sentence>
+      <text>Last summer it was very dry, too.</text>
+      <textCn>去年夏天也是干得很。</textCn>
+    </sentence>
+    <sentence>
+      <text>Don't you remember?</text>
+      <textCn>你不记得了吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>I had to water it every day.</text>
+      <textCn>我不得不每天浇水。</textCn>
+    </sentence>
+    <sentence>
+      <text>Well, I'll have tea by myself.</text>
+      <textCn>好吧，我一个人喝茶了。</textCn>
+    </sentence>
+    <sentence>
+      <text>That was quick!</text>
+      <textCn>好快啊！</textCn>
+    </sentence>
+    <sentence>
+      <text>Have you finished already?</text>
+      <textCn>你已经浇完了？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes.</text>
+      <textCn>是的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Look out of the window.</text>
+      <textCn>你看看窗外。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's raining!</text>
+      <textCn>下雨了！</textCn>
+    </sentence>
+    <sentence>
+      <text>That means you don't need to water the garden.</text>
+      <textCn>这就是说，你不必给花园浇水了。</textCn>
+    </sentence>
+    <sentence>
+      <text>That was a pleasant surprise.</text>
+      <textCn>这是意想不到的好事。</textCn>
+    </sentence>
+    <sentence>
+      <text>It means I can have tea, instead.</text>
+      <textCn>这意味着我反倒可以喝茶了。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

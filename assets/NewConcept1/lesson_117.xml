@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>117</number>
+  <title>Tommy's breakfast</title>
+  <titleCn>汤米的早餐</titleCn>
+  <words>
+    <word>
+      <text>dining room</text>
+      <textCn>饭厅</textCn>
+    </word>
+    <word>
+      <text>coin</text>
+      <textCn>硬币</textCn>
+    </word>
+    <word>
+      <text>mouth</text>
+      <textCn>嘴</textCn>
+    </word>
+    <word>
+      <text>swallow</text>
+      <textCn>吞下</textCn>
+    </word>
+    <word>
+      <text>later</text>
+      <textCn>后来</textCn>
+    </word>
+    <word>
+      <text>toilet</text>
+      <textCn>厕所, 盥洗室</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>When my husband was going into the dining room this morning, he dropped some coins on the floor.</text>
+      <textCn>今天早晨我丈夫走进饭厅时，把一些硬币掉在地上了。</textCn>
+    </sentence>
+    <sentence>
+      <text>There were coins everywhere.</text>
+      <textCn>到处都是硬币。</textCn>
+    </sentence>
+    <sentence>
+      <text>We looked for them, but we could not find them all.</text>
+      <textCn>我们虽然找了，但没能把它们全部找到。</textCn>
+    </sentence>
+    <sentence>
+      <text>While we were having breakfast, our little boy, Tommy, found two small coins on the floor.</text>
+      <textCn>正当我们吃早饭时，我们的小男孩汤米在地上找到了两枚小硬币。</textCn>
+    </sentence>
+    <sentence>
+      <text>He put them both into his mouth.</text>
+      <textCn>他把这两枚硬币全都放进了嘴里。</textCn>
+    </sentence>
+    <sentence>
+      <text>We both tried to get the coins, but it was too late.</text>
+      <textCn>我们俩都试图把这两枚硬币拿出来，但太迟了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Tommy had already swallowed them!</text>
+      <textCn>汤米已经把硬币哽了下去！</textCn>
+    </sentence>
+    <sentence>
+      <text>Later that morning, when I was doing the housework, my husband phoned me from the office.</text>
+      <textCn>那天上午的晚些时候，当我正做家务时，我丈夫从办公室打来电话。</textCn>
+    </sentence>
+    <sentence>
+      <text>'How's Tommy?' he asked.</text>
+      <textCn>“汤米怎么样？”他问。</textCn>
+    </sentence>
+    <sentence>
+      <text>'I don't know,' I answered.</text>
+      <textCn>“我不知道，”我回答说。</textCn>
+    </sentence>
+    <sentence>
+      <text>'Tommy's been to the toilet three times this morning, but I haven't had any change yet!'</text>
+      <textCn>“今天上午汤米去了3次厕所了，但我还没看到硬币！”</textCn>
+    </sentence>
+  </sentences>
+</lesson>

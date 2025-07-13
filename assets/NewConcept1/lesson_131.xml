@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>131</number>
+  <title>Don't be so sure!</title>
+  <titleCn>别那么肯定！</titleCn>
+  <words>
+    <word>
+      <text>Egypt</text>
+      <textCn>埃及</textCn>
+    </word>
+    <word>
+      <text>abroad</text>
+      <textCn>国外</textCn>
+    </word>
+    <word>
+      <text>worry</text>
+      <textCn>担忧</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Where are you going to spend your holidays this year, Gary?</text>
+      <textCn>加里，今年你们打算去哪里度假？</textCn>
+    </sentence>
+    <sentence>
+      <text>We may go abroad.</text>
+      <textCn>我们可能到国外去。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm not sure.</text>
+      <textCn>但我不敢肯定。</textCn>
+    </sentence>
+    <sentence>
+      <text>My wife wants to go to Egypt.</text>
+      <textCn>我妻子想到埃及去。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'd like to go there, too.</text>
+      <textCn>我也想去那儿。</textCn>
+    </sentence>
+    <sentence>
+      <text>We can't make up our minds.</text>
+      <textCn>我们还拿不定主意。</textCn>
+    </sentence>
+    <sentence>
+      <text>Will you travel by sea or by air?</text>
+      <textCn>你们乘船去，还是乘飞机去？</textCn>
+    </sentence>
+    <sentence>
+      <text>We may travel by sea.</text>
+      <textCn>我们可能乘船去。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's cheaper, isn't it?</text>
+      <textCn>这更便宜些，是吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>It may be cheaper, but it takes a long time.</text>
+      <textCn>可能是便宜些，但花的时间长。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm sure you'll enjoy yourselves.</text>
+      <textCn>我肯定你们一定会玩得很痛快。</textCn>
+    </sentence>
+    <sentence>
+      <text>Don't be so sure.</text>
+      <textCn>别那么肯定。</textCn>
+    </sentence>
+    <sentence>
+      <text>We might not go anywhere.</text>
+      <textCn>我们可能哪里也去不成。</textCn>
+    </sentence>
+    <sentence>
+      <text>My wife always worries too much.</text>
+      <textCn>我妻子总是担心那担心的。</textCn>
+    </sentence>
+    <sentence>
+      <text>Who's going to look after the dog?</text>
+      <textCn>谁来照看狗啦？</textCn>
+    </sentence>
+    <sentence>
+      <text>Who's going to look after the house?</text>
+      <textCn>谁来看管房子啦？</textCn>
+    </sentence>
+    <sentence>
+      <text>Who's going to look after the garden?</text>
+      <textCn>谁来照料花园啦？</textCn>
+    </sentence>
+    <sentence>
+      <text>We have this problem every year.</text>
+      <textCn>我们每年都碰到这类问题。</textCn>
+    </sentence>
+    <sentence>
+      <text>In the end, we stay at home and look after everything!</text>
+      <textCn>末了，我们呆在家里照看一切。</textCn>
+    </sentence>
+  </sentences>
+</lesson>

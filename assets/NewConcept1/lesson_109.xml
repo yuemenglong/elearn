@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lesson>
+  <number>109</number>
+  <title>A good idea</title>
+  <titleCn>好主意</titleCn>
+  <words>
+    <word>
+      <text>idea</text>
+      <textCn>主意</textCn>
+    </word>
+    <word>
+      <text>a little</text>
+      <textCn>少许 (用于不可数名词之前)</textCn>
+    </word>
+    <word>
+      <text>teaspoonful</text>
+      <textCn>一满茶匙</textCn>
+    </word>
+    <word>
+      <text>less</text>
+      <textCn>(little的比较级) 较少的, 更小的</textCn>
+    </word>
+    <word>
+      <text>a few</text>
+      <textCn>几个 (用于可数名词之前)</textCn>
+    </word>
+    <word>
+      <text>pity</text>
+      <textCn>遗憾</textCn>
+    </word>
+    <word>
+      <text>instead</text>
+      <textCn>代替</textCn>
+    </word>
+    <word>
+      <text>advice</text>
+      <textCn>建议, 忠告</textCn>
+    </word>
+    <word>
+      <text>most</text>
+      <textCn>(many, much的最高级) 最多的</textCn>
+    </word>
+    <word>
+      <text>least</text>
+      <textCn>(little的最高级) 最小的, 最少的</textCn>
+    </word>
+    <word>
+      <text>best</text>
+      <textCn>(good的最高级) 最好的</textCn>
+    </word>
+    <word>
+      <text>worse</text>
+      <textCn>(bad的比较级) 更坏的</textCn>
+    </word>
+    <word>
+      <text>worst</text>
+      <textCn>(bad的最高级) 最坏的</textCn>
+    </word>
+  </words>
+  <sentences>
+    <sentence>
+      <text>Shall I make some coffee, Jane?</text>
+      <textCn>我来煮点咖啡好吗，简？</textCn>
+    </sentence>
+    <sentence>
+      <text>That's a good idea, Charlotte.</text>
+      <textCn>这是个好主意，夏洛特。</textCn>
+    </sentence>
+    <sentence>
+      <text>It's ready.</text>
+      <textCn>咖啡好了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Do you want any milk?</text>
+      <textCn>你要放点奶吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Just a little, please.</text>
+      <textCn>请稍加一点。</textCn>
+    </sentence>
+    <sentence>
+      <text>What about some sugar?</text>
+      <textCn>加些糖怎么样？</textCn>
+    </sentence>
+    <sentence>
+      <text>Two teaspoonfuls?</text>
+      <textCn>两茶匙行吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>No, less than that.</text>
+      <textCn>不，再少一些。</textCn>
+    </sentence>
+    <sentence>
+      <text>One and a half teaspoonfuls, please.</text>
+      <textCn>请放一勺半儿。</textCn>
+    </sentence>
+    <sentence>
+      <text>That's enough for me.</text>
+      <textCn>那对我已足够了。</textCn>
+    </sentence>
+    <sentence>
+      <text>That was very nice.</text>
+      <textCn>太好了。</textCn>
+    </sentence>
+    <sentence>
+      <text>Would you like some more?</text>
+      <textCn>你再来点吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Yes, please.</text>
+      <textCn>好的，请再来一点。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'd like a cigarette, too.</text>
+      <textCn>我还想抽枝烟。</textCn>
+    </sentence>
+    <sentence>
+      <text>May I have one?</text>
+      <textCn>可以给我一枝吗？</textCn>
+    </sentence>
+    <sentence>
+      <text>Of course.</text>
+      <textCn>当然可以。</textCn>
+    </sentence>
+    <sentence>
+      <text>I think there are a few in that box.</text>
+      <textCn>我想那个盒子里有一些。</textCn>
+    </sentence>
+    <sentence>
+      <text>I'm afraid it's empty.</text>
+      <textCn>恐怕盒子是空的。</textCn>
+    </sentence>
+    <sentence>
+      <text>What a pity!</text>
+      <textCn>真遗憾！</textCn>
+    </sentence>
+    <sentence>
+      <text>It doesn't matter.</text>
+      <textCn>没关系。</textCn>
+    </sentence>
+    <sentence>
+      <text>Have a biscuit instead.</text>
+      <textCn>那就吃块饼干吧。</textCn>
+    </sentence>
+    <sentence>
+      <text>Eat more and smoke less!</text>
+      <textCn>多吃点，少抽点！</textCn>
+    </sentence>
+    <sentence>
+      <text>That's very good advice!</text>
+      <textCn>这是极好的忠告啊！</textCn>
+    </sentence>
+  </sentences>
+</lesson>
